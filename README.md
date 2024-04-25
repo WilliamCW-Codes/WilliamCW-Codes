@@ -6,9 +6,7 @@
 ---
 <!-- - Currently learning C++...I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
 - Still writing horrible Code -->
-
-
----                   
+                  
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&theme=radical&layout=compact" width="480">
 </p>
