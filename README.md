@@ -43,7 +43,7 @@
 
 ---
 
-# Operating Systems/Browers
+# 🌐 Operating Systems/Browers
 
 <div align="center">
 
