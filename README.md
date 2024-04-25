@@ -3,16 +3,15 @@
 # 👋🏼 Hello World! My name is William
 
 👨🏼‍🎓 Studying Computer Engineering at the Memorial University Newfoundland, Canada <br/>
-💭 Currently learning C++ as part of my degree and various other skill on my engineering design team <br/>
+💭 Currently learning C++ as part of my degree and various other skills on my engineering design teams <br/>
 📨 Feel free to contact me! <br/>
-<!-- [LinkedIn](https://www.linkedin.com/in/william-cull-whitten/) <br/> -->
 
 <a href="https://www.linkedin.com/in/william-cull-whitten/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      
 
 ---
 
-# 💻 Programming Languages
+# 💻 Programming Languages/Computer Skills
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,11 +24,10 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
+<!-- 
 ---
 
-# 🖥️ Computer Skills
-
+# 🖥️ Computer Skills -->
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
