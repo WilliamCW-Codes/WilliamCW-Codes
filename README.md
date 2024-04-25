@@ -8,10 +8,15 @@
 
 ---
 <div align="center">
-<h3>Stuff I know (sort of)</h3>
+<h3> 💻 Programming Languages </h3>
 </div>
 <div align="center">
-<!-- <h3>Stuff I know (sort of)</h3> -->
+
+![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white)
+
+
+
+<!-- 
   <a href= 'https://www.typescriptlang.org'>
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   </a>
@@ -54,7 +59,7 @@
 
 <p align = "right">
   <img src = "https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=radical&layout=compact">
-</p>
+</p> 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilliamCW-Codes&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
