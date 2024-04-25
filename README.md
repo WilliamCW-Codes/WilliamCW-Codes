@@ -3,10 +3,11 @@
 # 👋🏼 Hello World! My name is William
 
 👨🏼‍🎓 Studying Computer Engineering at the Memorial University Newfoundland, Canada <br/>
-💭 Currently learning C++ as part of my degree <br/>
-📨 Feel free to contect with me on [LinkedIn](https://www.linkedin.com/in/william-cull-whitten/) <br/>
+💭 Currently learning C++ as part of my degree and various other skill on my engineering design teams <br/>
+📨 Feel free to contact me! <br/>
+<!-- [LinkedIn](https://www.linkedin.com/in/william-cull-whitten/) <br/> -->
 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)] (https://www.linkedin.com/in/william-cull-whitten/)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      
 
 ---
