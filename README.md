@@ -4,6 +4,8 @@
 
 👨🏼‍🎓 Studying Computer Engineering at the Memorial University Newfoundland, Canada <br/>
 💭 Currently learning C++ as part of my degree <br/>
+📨 Feel free to contect with me on [LinkedIn](https://www.linkedin.com/in/william-cull-whitten/) ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+                  
 
 ---
 
@@ -64,8 +66,7 @@
 
 ---
 
-<!-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) -->
-                  
+
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&theme=radical&layout=compact" width="480">
 </p>
