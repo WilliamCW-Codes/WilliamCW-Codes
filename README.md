@@ -1,3 +1,5 @@
+<div align="center">
+
 # 👋🏼 Hello World! My name is William
 
 👨🏼‍🎓 Studying Computer Engineering at the Memorial University Newfoundland, Canada <br/>
@@ -7,7 +9,7 @@
 
 # 💻 Programming Languages
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -28,7 +30,7 @@
 
 # 🖥️ Computer Skills
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
@@ -45,7 +47,7 @@
 
 # 🌐 Operating Systems/Browers
 
-<div align="center">
+<!-- <div align="center"> -->
 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
@@ -57,6 +59,8 @@
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
 ![Opera](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)
 ![Safari](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)
+
+</div>
 
 ---
 
