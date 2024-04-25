@@ -6,8 +6,7 @@
 💭 Currently learning C++ as part of my degree and various other skills on my engineering design teams <br/>
 📨 Feel free to contact me! <br/>
 
-<a href="https://www.linkedin.com/in/william-cull-whitten/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)      
+<a href="https://www.linkedin.com/in/william-cull-whitten/"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a>    
 
 ---
 
