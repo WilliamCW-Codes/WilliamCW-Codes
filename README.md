@@ -1,11 +1,12 @@
-# 💻 Hello World! My name is William
+# 👋🏼 Hello World! My name is William
+
+👨🏼‍🎓 Studying Computer Engineering at the Memorial University Newfoundland, Canada <br/>
+💭 Currently learning C++ as part of my degree <br/>
 
 </div>
 
-
 ---
-<!-- - Currently learning C++...I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
-- Still writing horrible Code -->
+
                   
 <p align = "left">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&theme=radical&layout=compact" width="480">
@@ -56,9 +57,6 @@
   </a>
      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
      <img src="https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E" />
- <!-- <p align="center"> -->
-<!-- </p> -->
-
 </div>
 
 <div align="center">
