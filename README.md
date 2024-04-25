@@ -8,7 +8,7 @@
 
 ---
 <div align="center">
-<h3> 💻 Programming Languages </h3>
+# 💻 Programming Languages
 </div>
 <div align="center">
 
