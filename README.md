@@ -4,20 +4,20 @@
 
 
 ---
-- Currently learning C++...I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
-- Still writing horrible Code
+<!-- - Currently learning C++...I think [<img align="right" alt="Follow me here | Twitter" width="88px" src="assets/twitter.gif" />](https://twitter.com/Hi_Im_Pomu)
+- Still writing horrible Code -->
 
 
 ---                   
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=TentacleSama4254&theme=radical&layout=compact" width="480">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&theme=radical&layout=compact" width="480">
 </p>
 
 <p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=TentacleSama4254&show_icons=true&theme=radical&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=radical&layout=compact">
 </p>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=TentacleSama4254&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilliamCW-Codes&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
 ---
