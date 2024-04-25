@@ -4,9 +4,8 @@
 
 👨🏼‍🎓 Studying Computer Engineering at the Memorial University Newfoundland, Canada <br/>
 💭 Currently learning C++ as part of my degree <br/>
-📨 Feel free to contect with me on [LinkedIn](https://www.linkedin.com/in/william-cull-whitten/) 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-                  
+📨 Feel free to contect with me on [LinkedIn](https://www.linkedin.com/in/william-cull-whitten/) <br/>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)      
 
 ---
 
