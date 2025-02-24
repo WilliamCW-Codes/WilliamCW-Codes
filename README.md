@@ -58,7 +58,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=radical&layout=compact">
 </p> 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=midnight-purple)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamCW-Codes&theme=midnight-purple)](https://git.io/streak-stats)
 
 <!-- ---
 
