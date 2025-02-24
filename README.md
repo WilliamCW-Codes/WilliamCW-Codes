@@ -51,11 +51,11 @@
 ---
 
 <p align = "left">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&theme=radical&layout=compact" width="480">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&theme=midnight-purple&layout=compact" width="480">
 </p>
 
 <p align = "right">
-  <img src = "https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=radical&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=midnight-purple&layout=compact">
 </p> 
 
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple" alt="GitHub Streak" /></a>
