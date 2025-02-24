@@ -58,7 +58,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=radical&layout=compact">
 </p> 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilliamCW-Codes&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=WilliamCW-Codes&theme=radical&date_format=M%20j%5B%2C%20Y%5D&theme=midnight-purple)](https://git.io/streak-stats)
 
 <!-- ---
 
