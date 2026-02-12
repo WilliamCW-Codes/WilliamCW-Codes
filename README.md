@@ -1,3 +1,4 @@
+<!--
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
@@ -122,3 +123,91 @@ UML • CAD • 3D Printing • Figma • Notion • Microsoft Office • Google
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=130&section=footer"/>
+-->
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Developer;PCB+Designer;Digital+Logic+Enthusiast;RISC-V+Explorer&center=true&width=500&height=50">
+</p>
+
+    Hi there 👋
+    Thanks for checking out my README source.
+    I build hardware and low-level systems.
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=140&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=2A5298&center=true&vCenter=true&width=600&lines=William+Cull-Whitten;Electrical+%26+Computer+Engineering+Student;Embedded+Systems+Developer;PCB+Designer+%7C+Digital+Logic+%7C+RISC-V" />
+</p>
+
+---
+
+## 🧠 About Me
+
+- ECE student focused on **embedded systems and digital design**
+- Designing custom hardware (PCB + firmware)
+- Interested in **computer architecture, low-level tooling, and hardware-software integration**
+- Currently building: **NexPad & NexClick**
+
+---
+
+## 🛠 Technical Stack
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,matlab,vim,git)](https://skillicons.dev)
+
+### Hardware & Tools
+[![Tools](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
+`KiCad` • `VHDL` • `FPGA Design` • `RISC-V` • `Digital Logic`
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 NexPad
+Custom 9-key programmable macro keyboard  
+- Custom PCB (KiCad)
+- Firmware development
+- Independent USB functionality
+
+### 🔹 RISC-V Instruction Decoder
+- Python-based RV32IM decoding
+- Bit-level parsing and ISA mapping
+
+### 🔹 Expression Evaluator
+- Shunting Yard algorithm
+- Custom Stack ADT implementation
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night"/>
+</p>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-2A5298?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+
+-->
