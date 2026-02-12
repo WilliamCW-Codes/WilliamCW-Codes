@@ -39,6 +39,39 @@
 
 ## 🛠 Technical Stack
 
+### 💻 Programming Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,matlab,html,css)](https://skillicons.dev)
+
+Assembly • Dafny
+
+---
+
+### 🤖 AI / Computer Vision
+[![Vision](https://skillicons.dev/icons?i=opencv)](https://skillicons.dev)
+
+YOLOv8 • Ultralytics • NumPy • RTDE (Universal Robots)
+
+---
+
+### 🔌 Embedded & Hardware
+[![Embedded](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
+
+KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • Simulink • PSpice • CBMC • Soldering
+
+---
+
+### 🌐 Frameworks & Software
+[![Frameworks](https://skillicons.dev/icons?i=react,vite,nodejs,flask)](https://skillicons.dev)
+
+---
+
+### 🧰 Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,github,gitlab,linux,vscode,figma,notion)](https://skillicons.dev)
+
+---
+
+## 🛠 Technical Stack
+
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=c,cpp,python,matlab,vim,git)](https://skillicons.dev)
 
