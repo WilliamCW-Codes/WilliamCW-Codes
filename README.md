@@ -1,5 +1,6 @@
 <!-- <div align="center"> -->
 
+<!--
 # 👋🏼 Hello World! My name is William
 
 👨🏼‍🎓 Studying Computer Engineering at the Memorial University Newfoundland, Canada <br/>
@@ -47,7 +48,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 <!-- </div> -->
-
+<!--
 ---
 
 <p align = "left">
@@ -58,7 +59,7 @@
   <img src = "https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=midnight-purple&layout=compact">
 </p> 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple" alt="GitHub Streak" /></a> -->
 
 <!-- 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=WilliamCW-Codes&theme=midnight-purple)](https://git.io/streak-stats) -->
@@ -71,3 +72,48 @@
 [![How I would learn to code (if I could start over)](https://ytcards.demolab.com/?id=kS03mP7p0ts&title=How+I+would+learn+to+code+(+if+I+could+start+over+)&lang=en&timestamp=1698663600&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=695 "How I would learn to code (if I could start over)")](https://youtu.be/kS03mP7p0ts?si=7UXbigeHmyTVGP60)
 [![How to prep for CS?](https://ytcards.demolab.com/?id=YBMf2o2MVDg&title=How+to+prep+for+CS?+Do+I+need+Maths?&lang=en&timestamp=1690632000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=860 "How to prep for CS? Do I need Maths?")](https://youtu.be/YBMf2o2MVDg?si=KGaQIzz_8E6JFYlD)
 [![How I organise my life with Notion](https://ytcards.demolab.com/?id=orJOLdv907g&title=How+I+organise+my+life+with+Notion&lang=en&timestamp=1616324400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1253 "How I organise my life with Notion")](https://youtu.be/orJOLdv907g?si=r31zLR2hnvJiw5p7) -->
+
+
+<h1 align="center">Hi 👋 I'm William</h1>
+<h3 align="center">ECE Student | Embedded Systems | Hardware Builder</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Developer;PCB+Designer;Digital+Logic+Enthusiast;RISC-V+Explorer&center=true&width=500&height=50">
+</p>
+
+---
+
+### 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus">
+  <img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python">
+  <img src="https://img.shields.io/badge/VHDL-8B0000?style=for-the-badge">
+  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge">
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight">
+</p>
+
+---
+
+### 🚀 Current Focus
+- Designing custom input hardware (NexPad & NexClick)
+- RISC-V instruction decoding
+- Digital systems & FPGA design
+- Firmware development
+
+---
+
+### 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night">
+</p>
