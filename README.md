@@ -79,7 +79,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Developer;PCB+Designer;Digital+Logic+Enthusiast;RISC-V+Explorer&center=true&width=500&height=50">
 </p>
--->
+
     Hi there 👋
     Thanks for checking out my README source.
     I build hardware and low-level systems.
@@ -159,3 +159,105 @@ Custom 9-key programmable macro keyboard
 ---
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
+
+
+-->
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=140&section=header"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=650&lines=William+Cull-Whitten;Electrical+%26+Computer+Engineering;Embedded+Systems+%7C+Digital+Design;PCB+Designer+%7C+RISC-V+%7C+Firmware" />
+</p>
+
+<p align="center">
+  <i>Designing reliable embedded systems from schematic to low-level firmware.</i>
+</p>
+
+---
+
+## 🧠 About
+
+- Electrical & Computer Engineering student specializing in **embedded systems and digital design**
+- Designing custom hardware (schematic → PCB → firmware)
+- Focused on **computer architecture, ISA-level systems, and hardware–software co-design**
+- Currently building: **NexPad & NexClick**
+
+---
+
+## 🛠 Technical Stack
+
+### Languages
+[![Languages](https://skillicons.dev/icons?i=c,cpp,python,matlab)](https://skillicons.dev)
+
+### Tools & Platforms
+[![Tools](https://skillicons.dev/icons?i=git,linux,arduino,raspberrypi)](https://skillicons.dev)
+
+`KiCad` • `VHDL` • `FPGA Design` • `RISC-V` • `Digital Logic`
+
+---
+
+<details open>
+  <summary><h2>📘 Featured Projects</h2></summary>
+
+  <p align="left">
+
+  <a href="https://github.com/YOURUSERNAME/NexPad">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=NexPad&theme=midnight-purple&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/YOURUSERNAME/NexClick">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=NexClick&theme=midnight-purple&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/YOURUSERNAME/riscv-decoder">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=riscv-decoder&theme=midnight-purple&hide_border=true" />
+  </a>
+
+  <a href="https://github.com/YOURUSERNAME/expression-evaluator">
+    <img width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=expression-evaluator&theme=midnight-purple&hide_border=true" />
+  </a>
+
+  </p>
+
+</details>
+
+---
+
+<details>
+  <summary><h2>📊 Engineering Activity</h2></summary>
+
+  ### 🔥 Commit Streak
+
+  <p>
+    <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=midnight-purple&hide_border=true"/>
+  </p>
+
+  ### 💻 GitHub Stats
+
+  <p>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
+  </p>
+
+  ### 📈 Contribution Graph
+
+  <p>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-compact&hide_border=true&color=8A2BE2&line=9370DB&point=FFFFFF"/>
+  </p>
+
+</details>
+
+---
+
+## 📫 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=footer"/>
+
