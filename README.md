@@ -75,7 +75,7 @@
 
 
 
-<!--
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded+Systems+Developer;PCB+Designer;Digital+Logic+Enthusiast;RISC-V+Explorer&center=true&width=500&height=50">
 </p>
@@ -160,8 +160,7 @@ Custom 9-key programmable macro keyboard
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=120&section=footer"/>
 
-
--->
+<!--
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=140&section=header"/>
 
@@ -261,3 +260,4 @@ Custom 9-key programmable macro keyboard
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=120&section=footer"/>
 
+-->
