@@ -72,40 +72,60 @@ KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • Simulink �
 
 ## 🛠 Technical Stack
 
-### Languages
-[![Languages](https://skillicons.dev/icons?i=c,cpp,python,matlab,vim,git)](https://skillicons.dev)
-
-### Hardware & Tools
-[![Tools](https://skillicons.dev/icons?i=arduino,raspberrypi)](https://skillicons.dev)
-
-`KiCad` • `VHDL` • `FPGA Design` • `RISC-V` • `Digital Logic`
+### 💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,matlab" />
+</p>
 
 ---
 
-# 🛠 Technical Stack
-
-## 💻 Programming Languages
-C • C++ • C# • Python • Java • JavaScript • TypeScript • MATLAB • Assembly • Dafny • HTML • CSS
-
----
-
-## 🤖 AI / Robotics / Vision
-YOLOv8 • Ultralytics • OpenCV • NumPy • RTDE (Universal Robots) • Coordinate Transformations • Computer Vision Systems
+### 🌐 Web & Markup
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,svg,react,vue,vite,nodejs,npm,flask,astro,bootstrap,wordpress" />
+</p>
 
 ---
 
-## 🔌 Embedded & Hardware
-KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • Arduino • ESP32 • Soldering • Simulink • PSpice • CBMC
+### 🤖 AI / Computer Vision
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch,ai" />
+</p>
 
 ---
 
-## 🌐 Frameworks & Software
-React • Vite • Node.js • Astro • Flask • Git • GitHub • GitLab • Linux
+### 🔌 Embedded & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake" />
+</p>
+
+KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • RTDE • Simulink • PSpice • CBMC • Soldering
 
 ---
 
-## 🧰 Engineering & Design Tools
-UML • CAD • 3D Printing • Figma • Notion • Microsoft Office • Google Workspace
+### 🖥 Operating Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,apple" />
+</p>
+
+---
+
+### 🧰 Development Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,pycharm,figma,notion" />
+</p>
+
+---
+
+### 📫 Professional & Contact
+<p>
+  <a href="mailto:ccullwhitten@mun.ca">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/william-cull-whitten/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
 
 ---
 
