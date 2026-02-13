@@ -26,6 +26,52 @@
 
 ---
 
+## 🌐 Connect & Work
+
+<p align="center">
+
+<!-- Personal Links -->
+<a href="https://williamcullwhitten.ca">
+  <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-RESUME-LINK.pdf">
+  <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/william-cull-whitten/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="mailto:ccullwhitten@mun.ca">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
+
+</p>
+
+---
+
+### 🏎 Engineering Design Teams
+
+<p align="center">
+
+<a href="TEAM-WEBSITE-1">
+  <img src="https://img.shields.io/badge/MUNStar--1%20CubeSat-8A2BE2?style=for-the-badge"/>
+</a>
+
+<a href="TEAM-WEBSITE-2">
+  <img src="https://img.shields.io/badge/Concrete%20Toboggan%20Team-6A0DAD?style=for-the-badge"/>
+</a>
+
+<a href="TEAM-WEBSITE-3">
+  <img src="https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
+
+
 ## 🧠 About
 
 - Computer Engineering Co-op Student
