@@ -30,7 +30,6 @@
 
 <p align="center">
 
-<!-- Personal Links -->
 <a href="https://williamcullwhitten.ca">
   <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
@@ -40,11 +39,11 @@
 </a>
 
 <a href="https://www.linkedin.com/in/william-cull-whitten/">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:ccullwhitten@mun.ca">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+  <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
