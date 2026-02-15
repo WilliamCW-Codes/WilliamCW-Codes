@@ -10,43 +10,20 @@
 
 ---
 
-## 🔗 Professional Links
-
 <p align="center">
-  <a href="https://williamcullwhitten.ca/">
-    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/william-cull-whitten/">
-    <img src="https://img.shields.io/badge/LinkedIn-6A0DAD?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://YOUR-RESUME-LINK.pdf">
-    <img src="https://img.shields.io/badge/Download%20Resume-8A2BE2?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a>
+  <img src="https://github.com/CyrisXD/CyrisXD/raw/master/header.gif" style="max-width:100%;" />
 </p>
 
 ---
 
-## 🌐 Connect & Work
+## 🧠 About
 
-<p align="center">
-
-<a href="https://williamcullwhitten.ca">
-  <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-RESUME-LINK.pdf">
-  <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/william-cull-whitten/">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ccullwhitten@mun.ca">
-  <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+- Computer Engineering Co-op Student
+- Embedded systems, robotics integration, and digital logic
+- Experience with computer vision (YOLOv8), robotic control (RTDE), and coordinate transformation
+- Designing custom PCB hardware and low-level firmware
+- ADCS contributor – MUNStar-1 CubeSat (launch 2026/27)
+- Captain – Concrete Toboggan Engineering Team (25+ members)
 
 ---
 
@@ -67,18 +44,6 @@
 </a>
 
 </p>
-
----
-
-
-## 🧠 About
-
-- Computer Engineering Co-op Student
-- Embedded systems, robotics integration, and digital logic
-- Experience with computer vision (YOLOv8), robotic control (RTDE), and coordinate transformation
-- Designing custom PCB hardware and low-level firmware
-- ADCS contributor – MUNStar-1 CubeSat (launch 2026/27)
-- Captain – Concrete Toboggan Engineering Team (25+ members)
 
 ---
 
@@ -128,19 +93,6 @@ KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • RTDE • Si
 
 ---
 
-### 📫 Professional & Contact
-<p>
-  <a href="mailto:ccullwhitten@mun.ca">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/william-cull-whitten/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-</p>
-
----
-
 <details open>
 <summary><h2>📘 Featured Projects</h2></summary>
 
@@ -165,6 +117,30 @@ KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • RTDE • Si
 </p>
 
 </details>
+
+---
+
+## 🌐 Connect & Work
+
+<p align="center">
+
+<a href="https://williamcullwhitten.ca">
+  <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://YOUR-RESUME-LINK.pdf">
+  <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/william-cull-whitten/">
+  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ccullwhitten@mun.ca">
+  <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
