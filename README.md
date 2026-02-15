@@ -2,50 +2,73 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="36"/>
-  &nbsp;&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=William+Cull-Whitten;Computer+Engineering+Student;Embedded+Systems+%7C+Robotics+%7C+Digital+Design;PCB+Designer+%7C+RISC-V+%7C+Computer+Vision" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=William+Cull-Whitten;Computer+Engineering+Student;
+    Aspiring+Hardware+&+Software+Engineer"/>
 </p>
 
 <p align="center">
-  <i>Designing intelligent hardware systems from schematic to firmware to deployment.</i>
+  <i>Designing and building systems where hardware and software meet.</i>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="28"/>
+  <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=Profile%20Views&color=8A2BE2&style=flat-square"/>
+  <img src="https://img.shields.io/github/followers/WilliamCW-Codes?label=Followers&style=flat-square&color=8A2BE2"/>
 </p>
 
----
+ ---
 
 ## 🧠 About
 
-- Computer Engineering Co-op Student
-- Embedded systems, robotics integration, and digital logic
-- Experience with computer vision (YOLOv8), robotic control (RTDE), and coordinate transformation
-- Designing custom PCB hardware and low-level firmware
-- ADCS contributor – MUNStar-1 CubeSat (launch 2026/27)
-- Captain – Concrete Toboggan Engineering Team (25+ members)
+- Computer Engineering Co-op student at Memorial University of Newfoundland interested in building systems where hardware and software meet.
+
+- I’ve worked across embedded development, robotics integration, computer vision, and digital design. From custom PCB hardware and firmware to robotic control and coordinate transformation systems. During a recent international work term in Germany, I gained industry experience while traveling across Europe, broadening both my technical and global perspective.
+
+- Outside the classroom, I contribute to multiple engineering design teams the ADCS team for the MUNStar-1 CubeSat (launch 2026/27) and serve as Captain of the Concrete Toboggan Engineering Team, leading a multidisciplinary group of 25+ students.
+
+- I enjoy building personal projects, exploring new technologies, gaming, music, and collaborating on ambitious engineering ideas. Always open to connecting or working on interesting projects.
+
+---
+
+## 🌐 Connect & Work
+
+<p align="center">
+  <a href="https://williamcullwhitten.ca">
+    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  
+  <a href="https://YOUR-RESUME-LINK.pdf">
+    <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+  
+  <a href="https://www.linkedin.com/in/william-cull-whitten/">
+    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <a href="mailto:ccullwhitten@mun.ca">
+    <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
 ### 🏎 Engineering Design Teams
 
 <p align="center">
-
-<a href="TEAM-WEBSITE-1">
-  <img src="https://img.shields.io/badge/MUNStar--1%20CubeSat-8A2BE2?style=for-the-badge"/>
-</a>
-
-<a href="TEAM-WEBSITE-2">
-  <img src="https://img.shields.io/badge/Concrete%20Toboggan%20Team-6A0DAD?style=for-the-badge"/>
-</a>
-
-<a href="TEAM-WEBSITE-3">
-  <img src="https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge"/>
-</a>
-
+  <a href="TEAM-WEBSITE-1" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/MUNStar--1%20CubeSat-8A2BE2?style=for-the-badge"/>
+  </a>
+  
+  <a href="TEAM-WEBSITE-2" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Concrete%20Toboggan%20Team-6A0DAD?style=for-the-badge"/>
+  </a>
+  
+  <a href="TEAM-WEBSITE-3" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge"/>
+  </a>
 </p>
+
 
 ---
 
@@ -77,8 +100,18 @@
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake" />
 </p>
 
-KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • RTDE • Simulink • PSpice • CBMC • Soldering
-
+<p align="center">
+  <img src="https://img.shields.io/badge/KiCad-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PCB%20Design-7B1FA2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Circuit%20Design-6A0DAD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/VHDL-5E35B1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FPGA%20Design-512DA8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RTDE-4527A0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Simulink-3949AB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PSpice-303F9F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CBMC-283593?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Soldering-1A237E?style=for-the-badge"/>
+</p>
 ---
 
 ### 🖥 Operating Systems
@@ -119,30 +152,6 @@ KiCad • PCB Design • Circuit Design • VHDL • FPGA Design • RTDE • Si
 </p>
 
 </details>
-
----
-
-## 🌐 Connect & Work
-
-<p align="center">
-
-<a href="https://williamcullwhitten.ca">
-  <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
-
-<a href="https://YOUR-RESUME-LINK.pdf">
-  <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/william-cull-whitten/">
-  <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:ccullwhitten@mun.ca">
-  <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
