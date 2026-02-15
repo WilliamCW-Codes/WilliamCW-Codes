@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" width="100%" />
+  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="28"/>
 </p>
 
 ---
