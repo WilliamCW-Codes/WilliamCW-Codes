@@ -1,7 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="36"/>
+  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="50"/>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=William+Cull-Whitten;Computer+Engineering+Student;
     Aspiring+Hardware+&+Software+Engineer"/>
 </p>
@@ -9,8 +12,6 @@
 <p align="center">
   <i>Designing and building systems where hardware and software meet.</i>
 </p>
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=Profile%20Views&color=8A2BE2&style=flat-square"/>
