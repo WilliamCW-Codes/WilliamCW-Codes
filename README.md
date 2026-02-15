@@ -1,12 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="50"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=William+Cull-Whitten;Computer+Engineering+Student;
-    Aspiring+Hardware+&+Software+Engineer"/>
+  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=William+Cull-Whitten;Computer+Engineering+Student;Aspiring+Hardware+%26+Software+Engineer"/>
 </p>
 
 <p align="center">
@@ -113,6 +109,7 @@
   <img src="https://img.shields.io/badge/CBMC-283593?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Soldering-1A237E?style=for-the-badge"/>
 </p>
+
 ---
 
 ### 🖥 Operating Systems
@@ -183,8 +180,6 @@
 </p>
 
 </details>
-
----
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=130&section=footer"/>
 
