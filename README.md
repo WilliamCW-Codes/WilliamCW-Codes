@@ -1,6 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="36"/>
+  &nbsp;&nbsp;
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=700&lines=William+Cull-Whitten;Computer+Engineering+Student;Embedded+Systems+%7C+Robotics+%7C+Digital+Design;PCB+Designer+%7C+RISC-V+%7C+Computer+Vision" />
 </p>
 
