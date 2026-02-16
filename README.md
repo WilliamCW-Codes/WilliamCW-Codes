@@ -30,54 +30,29 @@
 ## 🌐 Connect & Work
 
 <p align="center">
-  <span>
-    <a href="https://williamcullwhitten.ca">
-      <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-    </a>
-  </span>
-    
-  <span>
-    <a href="https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv">
-      <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-    </a>
-  </span>
-    
-  <span>
-    <a href="https://www.linkedin.com/in/william-cull-whitten/">
-      <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-    </a>
-  </span>
-    
-  <span>
-    <a href="mailto:ccullwhitten@mun.ca">
-      <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-  </span>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white)](https://williamcullwhitten.ca)
+  [![Resume](https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cull-whitten/)
+  [![Email](https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccullwhitten@mun.ca)
+
 </p>
+
 
 ---
 
 ## 🏎 Engineering Design Teams
 
+### 🏎 Engineering Design Teams
+
 <p align="center">
-  <span>
-    <a href="TEAM-WEBSITE-1">
-      <img src="https://img.shields.io/badge/MUNStar--1%20CubeSat-8A2BE2?style=for-the-badge"/>
-    </a>
-  </span>
   
-  <span>
-    <a href="TEAM-WEBSITE-2">
-      <img src="https://img.shields.io/badge/Concrete%20Toboggan%20Team-6A0DAD?style=for-the-badge"/>
-    </a>
-  </span>
-  
-  <span>
-    <a href="TEAM-WEBSITE-3">
-      <img src="https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge"/>
-    </a>
-  </span>
+  [![MUNStar-1 CubeSat](https://img.shields.io/badge/MUNStar--1%20CubeSat-8A2BE2?style=for-the-badge)](TEAM-WEBSITE-1)
+  [![Concrete Toboggan Team](https://img.shields.io/badge/Concrete%20Toboggan%20Team-6A0DAD?style=for-the-badge)](TEAM-WEBSITE-2)
+  [![Student Design Team](https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge)](TEAM-WEBSITE-3)
+
 </p>
+
 
 ---
 
