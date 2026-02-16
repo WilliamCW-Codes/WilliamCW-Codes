@@ -128,8 +128,8 @@
   <summary><h2>📊 Stats</h2></summary>
   <br>
   <p align="center">
-      <img height="180em" src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple&hide_border=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+    <img height="165em" src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple&hide_border=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+    <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
   </p>
 </details>
