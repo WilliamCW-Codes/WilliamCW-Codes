@@ -38,12 +38,9 @@
 
 </p>
 
-
 ---
 
 ## 🏎 Engineering Design Teams
-
-### 🏎 Engineering Design Teams
 
 <p align="center">
   
@@ -52,7 +49,6 @@
   [![Student Design Team](https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge)](TEAM-WEBSITE-3)
 
 </p>
-
 
 ---
 
@@ -114,82 +110,26 @@
 ---
 
 <details open>
-<summary><h2>📘 Featured Projects</h2></summary>
-
-<p align="center">
-
-<a href="https://github.com/YOURUSERNAME/NexPad">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=NexPad&theme=midnight-purple&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOURUSERNAME/NexClick">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=NexClick&theme=midnight-purple&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOURUSERNAME/riscv-decoder">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=riscv-decoder&theme=midnight-purple&hide_border=true"/>
-</a>
-
-<a href="https://github.com/YOURUSERNAME/Tetriduino">
-  <img width="330" src="https://github-readme-stats.vercel.app/api/pin/?username=YOURUSERNAME&repo=Tetriduino&theme=midnight-purple&hide_border=true"/>
-</a>
-
-</p>
-
+  <summary><h2>📘 Featured Projects</h2></summary>
+  <br>
+  <p align="center">
+    
+  [![⌨️ NexPad](https://img.shields.io/badge/⌨️%20NexPad-Custom%20Macro%20Keyboard-4B0082?style=for-the-badge)](https://github.com/YOURUSERNAME/NexPad)
+  [![🖱️ NexClick](https://img.shields.io/badge/🖱️%20NexClick-USB%20Mouse%20Project-6A0DAD?style=for-the-badge)](https://github.com/YOURUSERNAME/NexClick)
+  [![⚙️ RISC-V Decoder](https://img.shields.io/badge/⚙️%20RISC--V%20Decoder-Instruction%20Parser-7B1FA2?style=for-the-badge)](https://github.com/YOURUSERNAME/riscv-decoder)
+  [![🎮 Tetriduino](https://img.shields.io/badge/🎮%20Tetriduino-Arduino%20Game%20System-8A2BE2?style=for-the-badge)](https://github.com/YOURUSERNAME/Tetriduino)
+  
+  </p>
 </details>
 
 ---
 
 <details>
-<summary><h2>📊 Engineering Activity</h2></summary>
-
-### 🔥 Commit Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOURUSERNAME&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
-### 💻 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=midnight-purple&hide_border=true"/>
-</p>
-
----
-
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=github-dark&hide_border=true&color=8A2BE2&line=9370DB&point=FFFFFF"/>
-</p>
-
+  <summary><h2>📊 Stats</h2></summary>
+  <br>
+  <p align="center">
+      <img height="180em" src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple&hide_border=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
+  </p>
 </details>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=130&section=footer"/>
-
-
-<!--
-
-
-## 🚀 Featured Projects
-
-### 🔹 NexPad
-Custom 9-key programmable macro keyboard  
-- Custom PCB (KiCad)
-- Firmware development
-- Independent USB functionality
-
-### 🔹 RISC-V Instruction Decoder
-- Python-based RV32IM decoding
-- Bit-level parsing and ISA mapping
-
-### 🔹 Expression Evaluator
-- Shunting Yard algorithm
-- Custom Stack ADT implementation
-
----
-
--->
