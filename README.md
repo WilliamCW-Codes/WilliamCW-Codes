@@ -1,7 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="45"/>
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=William+Cull-Whitten;Computer+Engineering+Student;Aspiring+Hardware+%26+Software+Engineer"/>
 </p>
 
@@ -16,7 +15,7 @@
 
  ---
 
-## 🧠 About
+## 🧠 About <img src="https://raw.githubusercontent.com/WilliamCW-Codes/WilliamCW-Codes/main/assets/Pikachu.gif" height="38" style="vertical-align: middle;"/>
 
 - Computer Engineering Co-op student at Memorial University of Newfoundland interested in building systems where hardware and software meet.
 
@@ -31,15 +30,29 @@
 ## 🌐 Connect & Work
 
 <p align="center">
-  <a href="https://williamcullwhitten.ca">
-    <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a><a href="https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv">
-    <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
-  </a><a href="https://www.linkedin.com/in/william-cull-whitten/">
-    <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a><a href="mailto:ccullwhitten@mun.ca">
-    <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <span>
+    <a href="https://williamcullwhitten.ca">
+      <img src="https://img.shields.io/badge/Portfolio-4B0082?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    </a>
+  </span>
+    
+  <span>
+    <a href="https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv">
+      <img src="https://img.shields.io/badge/Resume-6A0DAD?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+    </a>
+  </span>
+    
+  <span>
+    <a href="https://www.linkedin.com/in/william-cull-whitten/">
+      <img src="https://img.shields.io/badge/LinkedIn-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </span>
+    
+  <span>
+    <a href="mailto:ccullwhitten@mun.ca">
+      <img src="https://img.shields.io/badge/Email-9932CC?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </span>
 </p>
 
 ---
@@ -47,13 +60,23 @@
 ## 🏎 Engineering Design Teams
 
 <p align="center">
-  <a href="TEAM-WEBSITE-1">
-    <img src="https://img.shields.io/badge/MUNStar--1%20CubeSat-8A2BE2?style=for-the-badge"/>
-  </a><a href="TEAM-WEBSITE-2">
-    <img src="https://img.shields.io/badge/Concrete%20Toboggan%20Team-6A0DAD?style=for-the-badge"/>
-  </a><a href="TEAM-WEBSITE-3">
-    <img src="https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge"/>
-  </a>
+  <span>
+    <a href="TEAM-WEBSITE-1">
+      <img src="https://img.shields.io/badge/MUNStar--1%20CubeSat-8A2BE2?style=for-the-badge"/>
+    </a>
+  </span>
+  
+  <span>
+    <a href="TEAM-WEBSITE-2">
+      <img src="https://img.shields.io/badge/Concrete%20Toboggan%20Team-6A0DAD?style=for-the-badge"/>
+    </a>
+  </span>
+  
+  <span>
+    <a href="TEAM-WEBSITE-3">
+      <img src="https://img.shields.io/badge/Student%20Design%20Team-4B0082?style=for-the-badge"/>
+    </a>
+  </span>
 </p>
 
 ---
