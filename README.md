@@ -138,7 +138,7 @@
 
 
 
-<!-- V2
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
 
 <p align="center">
@@ -351,7 +351,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
   <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=050D21"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2444,60:061A3A,100:050D21&height=120&section=footer" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2444,60:061A3A,100:050D21&height=120&section=footer" width="100%"/>
 
 
 
@@ -574,7 +574,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 
 
-# 🌌 **WILLIAM CULL-WHITTEN'S DIGITAL UNIVERSE** 🌌
+<!-- # 🌌 **WILLIAM CULL-WHITTEN'S DIGITAL UNIVERSE** 🌌
 
 [![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF0[![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF00?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/W?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/WilliamCW-Codes)
 [![Quantum 
@@ -689,13 +689,7 @@ Systems | ██████████ 100% |
 
 ```mermaid
 graph LR
-    A[Current Position] --> B{Choose Path}
-    B --> C[Masters Degree]
-    B --> D[Space Industry Job]
-    B --> E[Startup Venture]
-    C --> F[PhD Research]
-    D --> G[Satellite Engineering]
-    E --> H[Tech Entrepreneur]
+    
 ```
 
 ---
@@ -821,4 +815,4 @@ collaborate.</i>
 I?*
 
 [![Digital Immortality 
-Achieved](https://img.shields.io/badge/Digital_Immortality-ACTIVE-FF0000?stAchieved](https://img.shields.io/badge/Digital_Immorality-ACTIVE-FF0000?style=flat-square&logo=future&logoColor=FF0000)](https://github.com/WilliamCW-le=flat-square&logo=future&logoColor=FF0000)](https://github.com/WilliamCW-Codes)
+Achieved](https://img.shields.io/badge/Digital_Immortality-ACTIVE-FF0000?stAchieved](https://img.shields.io/badge/Digital_Immorality-ACTIVE-FF0000?style=flat-square&logo=future&logoColor=FF0000)](https://github.com/WilliamCW-le=flat-square&logo=future&logoColor=FF0000)](https://github.com/WilliamCW-Codes) -->
