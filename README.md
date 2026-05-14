@@ -1,4 +1,4 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=William+Cull-Whitten;Computer+Engineering+Student;Aspiring+Hardware+%26+Software+Engineer"/>
@@ -132,14 +132,18 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
   </p>
-</details> -->
+</details>
 
 
 
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
+
+
+
+
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+%E2%80%A2+FPGA+Design+%E2%80%A2+Computer+Vision;CubeSat+ADCS+Engineer+%40+MUNStar-1+%F0%9F%9B%B0%EF%B8%8F;Firmware+Dev+%E2%80%A2+PCB+Designer+%E2%80%A2+Robotics+Integration;MUN+Concrete+Toboggan+Team+Captain+%E2%80%A2+25%2B+engineers;Building+reliable+systems+from+silicon+to+software" />
@@ -351,7 +355,12 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
   <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=050D21"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2444,60:061A3A,100:050D21&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2444,60:061A3A,100:050D21&height=120&section=footer" width="100%"/> -->
+
+
+
+
+
 
 
 
