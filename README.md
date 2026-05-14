@@ -574,8 +574,6 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 
 
-
-
 # 🌌 **WILLIAM CULL-WHITTEN'S DIGITAL UNIVERSE** 🌌
 
 [![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF0[![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF00?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/W?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/WilliamCW-Codes)
@@ -716,28 +714,28 @@ graph LR
 <td><b>NexPad</b><br>🧠 Custom Macro Keyboard</td>
 <td>Fully custom keyboard from PCB design to firmware. Every key maps to 
 pure productivity.</td>
-<td>🟢 <a href="https://github.com/YOURUSERNAME/NexPad">View 
+<td>🟢 <a href="https://github.com/WilliamCW-Codes/NexPad">View 
 Experiment</a></td>
 </tr>
 <tr>
 <td><b>NexClick</b><br>🖱️ Custom Mouse</td>
 <td>Bare-metal USB HID mouse implementation. Because standard mice are too 
 mainstream.</td>
-<td>🟢 <a href="https://github.com/YOURUSERNAME/NexClick">View 
+<td>🟢 <a href="https://github.com/WilliamCW-Codes/NexClick">View 
 Experiment</a></td>
 </tr>
 <tr>
 <td><b>RISC-V Decoder</b><br>⚙️ Instruction Magic</td>
 <td>Parsing machine code like it's poetry. Full RV32I implementation from 
 scratch.</td>
-<td>🟢 <a href="https://github.com/YOURUSERNAME/riscv-decoder">View 
+<td>🟢 <a href="https://github.com/WilliamCW-Codes/riscv-decoder">View 
 Experiment</a></td>
 </tr>
 <tr>
 <td><b>Tetriduino</b><br>🎮 Arduino Gaming</td>
 <td>Tetris without game engines. Pure embedded magic on microcontroller 
 silicon.</td>
-<td>🟢 <a href="https://github.com/YOURUSERNAME/Tetriduino">View 
+<td>🟢 <a href="https://github.com/WilliamCW-Codes/Tetriduino">View 
 Experiment</a></td>
 </tr>
 </table>
@@ -812,12 +810,9 @@ collaborate.</i>
 </p>
 
 <p align="center">
-  [ ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) 
-](https://www.linkedin.com/in/william-cull-whitten/)
-  [ ![Portfolio](https://img.shields.io/badge/-Portfolio-00D4FF?style=for-t![Portfolio](https://img.shields.io/badge/-Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white) 
-](https://williamcullwhitten.ca)
-  [ 
-![Email](https://img.shields.io/badge/-Email-7EC8E3?style=for-the-badge&log![Email](https://img.shields.io/badge/-mail-7EC8E3?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:ccullwhitten@mun.ca)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cuadge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cull-whitten/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-00D4FF?style=for-th[![Portfolio](https://img.shields.io/badge/-Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://williamcullwhitten.ca)
+  [![Email](https://img.shields.io/badge/-Email-7EC8E3?style=for-the-badge&[![Email](https://img.shields.io/badge/-Email-7EC8E3?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ccullwhitten@mun.ca)
 </p>
 
 ---
