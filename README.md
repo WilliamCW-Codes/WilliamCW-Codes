@@ -358,7 +358,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
+<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+%E2%80%A2+FPGA+Design+%E2%80%A2+Computer+Vision;CubeSat+ADCS+Engineer+%40+MUNStar-1+%F0%9F%9B%B0%EF%B8%8F;Firmware+Dev+%E2%80%A2+PCB+Designer+%E2%80%A2+Robotics+Integration;MUN+Concrete+Toboggan+Team+Captain+%E2%80%A2+25%2B+engineers;Building+reliable+systems+from+silicon+to+software" />
@@ -570,4 +570,260 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
   <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-00FF88?style=for-the-badge&logo=gmail&logoColor=050D21"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2444,60:061A3A,100:050D21&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A2444,60:061A3A,100:050D21&height=120&section=footer" width="100%"/> -->
+
+
+
+
+
+# 🌌 **WILLIAM CULL-WHITTEN'S DIGITAL UNIVERSE** 🌌
+
+[![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF0[![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF00?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/W?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/WilliamCW-Codes)
+[![Quantum 
+State](https://img.shields.io/badge/Quantum_State-Superposition-FF00FF?stylState](https://img.shields.io/badge/Quantum_State-Superposition-F00FF?style=for-the-badge&logo=quantumverse&logoColor=FF00FF)](https://williamcullwhit=for-the-badge&logo=quantumverse&logoColor=FF00FF)](https://williamcullwhitten.ca)
+[![Neural 
+Link](https://img.shields.io/badge/Neural_Link_Active-%F0%9F%A7%A0-00FFFF?sLink](https://img.shields.io/badge/Neural_Link_Active-%F0%9F%A7%A-00FFFF?style=for-the-badge&logo=neuralnetwork&logoColor=00FFFF)](mailto:ccullwhittenyle=for-the-badge&logo=neuralnetwork&logoColor=00FFFF)](mailto:ccullwhitten@mun.ca)
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
+width="50">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" 
+width="50">
+  <img src="https://media.giphy.com/media/U626wLPQwD9fq/giphy.gif" 
+width="50">
+</p>
+
+---
+
+## 🧬 **GENETIC SEQUENCE: HUMAN.WILLIAM.EXE** 
+
+```
+🧬 DNA ANALYSIS COMPLETE:
+┌─────────────────────────────────────────────┐
+│  SPECIES:     Homo sapiens (Engineer subspecies)   
+│  LOCATION:    St. John's, NL, Canada 🇨🇦
+│  STATUS:      OPEN TO OPPORTUNITIES 🚀
+│  POWER LEVEL: 9001+ (unverified) ⚡
+│  SPECIAL ABILITIES:                    
+│    ├── 🛰️ CubeSat Engineering          
+│    ├── ⚡ Embedded Systems Mastery     
+│    ├── 🤖 Robotics Integration         
+│    └── 🔭 Space Systems Design         
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 🚀 **QUANTUM ENTANGLEMENT PROTOCOLS ACTIVE**
+
+<details>
+<summary>📡 <b>ESTABLISH CONNECTION</b></summary>
+
+### 🌐 **COMMUNICATION CHANNELS**
+
+| 📡 Frequency | 🎯 Target | 🔗 Link |
+|-------------|----------|------|
+| **💼 Professional** | LinkedIn Matrix | 
+[![LinkedIn](https://img.shields.io/badge/-CONNECT-0A66C2?style=flat-square[![LinkedIn](https://img.shields.o/badge/-CONNECT-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cull-whlogo=linkedin&logoColor=white)](https://www.linkedin.com/in/william-cull-whitten/) |
+| **🌐 Portfolio** | Digital Consciousness | 
+[![Portfolio](https://img.shields.io/badge/-UPLOAD%20BRAIN-00D4FF?style=fla[![Portfolio](https://img.shieds.io/badge/-UPLOAD%20BRAIN-00D4FF?style=flat-square&logo=googlechrome&logoColor=white)](https://williamcullwhitten.ca) 
+|
+| **📧 Direct** | Neural Interface | 
+[![Email](https://img.shields.io/badge/-THOUGHT%20TRANSFER-7EC8E3?style=fla[![Email](https://img.shields.io/badge-THOUGHT%20TRANSFER-7EC8E3?style=flat-square&logo=gmail&logoColor=white)](mailto:ccullwhitten@mun.ca) |
+| **📄 Resume** | Memory Download | 
+[![Resume](https://img.shields.io/badge/-DOWNLOAD%20EXPERIENCE-00FF88?style[![Resume](https://img.shields.io/badge-DOWNLOAD%20EXPERIENCE-00FF88?style=flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/uc?flat-square&logo=readthedocs&logoColor=white)](https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv) |
+
+</details>
+
+---
+
+## ⚙️ **CYBERNETIC AUGMENTATION INDEX**
+
+### 🤖 **ROBOTIC ENHANCEMENTS LOADED**
+
+<details>
+<summary>🔬 <b>LAB EQUIPMENT INTERFACE</b></summary>
+
+```
+🔌 HARDWARE INTERFACES INITIALIZED:
+• Arduino IDE v2.0          [██████████] 100% CONNECTED
+• Raspberry Pi 4B           [██████████] 100% BOOTED  
+• FPGA Development Kit      [██████████] 100% CONFIGURED
+• Oscilloscope              [██████████] 100% CALIBRATED
+• Signal Generator          [██████████] 100% OPERATIONAL
+• Soldering Station         [██████████] 100% HEATED
+• KiCad CAD Suite           [██████████] 100% LOADED
+```
+
+</details>
+
+<details>
+<summary>💻 <b>SOFTWARE BRAIN MODULES</b></summary>
+
+```
+🧠 NEURAL NETWORK ACTIVATED:
+• C/C++ Neural Pathways     [██████████] 100% OPTIMIZED
+• Python Synapses           [██████████] 100% FIRING
+• VHDL Logic Gates          [██████████] 100% SYNTHESIZED
+• MATLAB Matrix Processor   [██████████] 100% COMPUTING
+• OpenCV Vision Cortex      [██████████] 100% DETECTING
+• Git Version Control       [██████████] 100% COMMITTED
+```
+
+</details>
+
+---
+
+## 🛰️ **MISSION CONTROL DASHBOARD**
+
+### 🚀 **ACTIVE MISSIONS**
+
+| Mission | Status | Tech Stack | Progress |
+|---------|--------|------------|----------|
+| **MUNStar-1 CubeSat** 🛰️ | 🟢 ACTIVE | ADCS, Embedded C, Space Systems | 
+████████░░ 80% |
+| **Concrete Toboggan** 🏔️ | 🟢 ACTIVE | Team Leadership, Mechanical 
+Integration | ██████████ 100% |
+| **Germany Co-op** 🇩🇪 | 🟡 COMPLETED | Industrial Robotics, Embedded 
+Systems | ██████████ 100% |
+
+### 🎯 **UPCOMING OBJECTIVES**
+
+```mermaid
+graph LR
+    A[Current Position] --> B{Choose Path}
+    B --> C[Masters Degree]
+    B --> D[Space Industry Job]
+    B --> E[Startup Venture]
+    C --> F[PhD Research]
+    D --> G[Satellite Engineering]
+    E --> H[Tech Entrepreneur]
+```
+
+---
+
+## 🔬 **EXPERIMENTAL PROJECT LAB**
+
+### 🧪 **CURRENT EXPERIMENTS IN PROGRESS**
+
+<table>
+<tr>
+<th>🧪 Experiment</th>
+<th>🔬 Description</th>
+<th>📊 Status</th>
+</tr>
+<tr>
+<td><b>NexPad</b><br>🧠 Custom Macro Keyboard</td>
+<td>Fully custom keyboard from PCB design to firmware. Every key maps to 
+pure productivity.</td>
+<td>🟢 <a href="https://github.com/YOURUSERNAME/NexPad">View 
+Experiment</a></td>
+</tr>
+<tr>
+<td><b>NexClick</b><br>🖱️ Custom Mouse</td>
+<td>Bare-metal USB HID mouse implementation. Because standard mice are too 
+mainstream.</td>
+<td>🟢 <a href="https://github.com/YOURUSERNAME/NexClick">View 
+Experiment</a></td>
+</tr>
+<tr>
+<td><b>RISC-V Decoder</b><br>⚙️ Instruction Magic</td>
+<td>Parsing machine code like it's poetry. Full RV32I implementation from 
+scratch.</td>
+<td>🟢 <a href="https://github.com/YOURUSERNAME/riscv-decoder">View 
+Experiment</a></td>
+</tr>
+<tr>
+<td><b>Tetriduino</b><br>🎮 Arduino Gaming</td>
+<td>Tetris without game engines. Pure embedded magic on microcontroller 
+silicon.</td>
+<td>🟢 <a href="https://github.com/YOURUSERNAME/Tetriduino">View 
+Experiment</a></td>
+</tr>
+</table>
+
+---
+
+## 📊 **BIOMETRIC READINGS**
+
+<p align="center">
+  <img 
+src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&shsrc="https://github-readme-stats.vercel.app/api?username=WilliamCW-Cdes&show_icons=true&theme=radical&hide_border=true" width="400"/>
+  <img 
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Williamsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=illiamCW-Codes&layout=compact&theme=radical&hide_border=true" width="400"/>
+</p>
+
+---
+
+## 🏆 **ACHIEVEMENT UNLOCKED**
+
+<details>
+<summary>🎮 <b>VISUAL ACHIEVEMENT BADGES</b></summary>
+
+<p align="center">
+  <img 
+src="https://img.shields.io/badge/Achievement-CubeSat%20Engineer-%23FF6B6B?src="https://img.shields.io/badge/Achievement-CubeSat%20Engineer-%23F6B6B?style=for-the-badge&logo=space&logoColor=white"/>
+  <img 
+src="https://img.shields.io/badge/Achievement-Team%20Captain-%234ECDC4?stylsrc="https://img.shields.io/badge/Achievement-Team%20Captain-%234ECD4?style=for-the-badge&logo=leadership&logoColor=white"/>
+  <img 
+src="https://img.shields.io/badge/Achievement-International%20Co--op-%2345Bsrc="https://img.shields.io/badge/Achievement-International%20Co--op%2345B7D1?style=for-the-badge&logo=globe&logoColor=white"/>
+  <img 
+src="https://img.shields.io/badge/Achievement-PCB%20Designer-%2396CEB4?stylsrc="https://img.shields.io/badge/Achievement-PCB%20Designer-%2396CE4?style=for-the-badge&logo=electronics&logoColor=white"/>
+  <img 
+src="https://img.shields.io/badge/Achievement-Firmware%20Dev-%23FFEAA7?stylsrc="https://img.shields.io/badge/Achievement-Firmware%20Dev-%23FFEA7?style=for-the-badge&logo=code&logoColor=black"/>
+</p>
+
+</details>
+
+---
+
+## 📡 **FINAL TRANSMISSION**
+
+```
+ ██╗    ██╗██╗███████╗██╗     ██████╗ ███████╗
+ ██║    ██║██║██╔════╝██║     ██╔══██╗██╔════╝
+ ██║ █╗ ██║██║█████╗  ██║     ██║  ██║███████╗
+ ██║███╗██║██║██╔══╝  ██║     ██║  ██║╚════██║
+ ╚███╔███╔╝██║██║     ███████╗██████╔╝███████║
+  ╚══╝╚══╝ ╚═╝╚═╝     ╚══════╝╚═════╝ ╚══════╝
+                                             
+ ██████╗ ███████╗███████╗██╗   ██╗███████╗██╗     
+ ██╔══██╗██╔════╝██╔════╝██║   ██║██╔════╝██║     
+ ██████╔╝█████╗  █████╗  ██║   ██║█████╗  ██║     
+ ██╔══██╗██╔══╝  ██╔══╝  ╚██╗ ██╔╝██╔══╝  ██║     
+ ██║  ██║███████╗██║      ╚████╔╝ ███████╗███████╗
+ ╚═╝  ╚═╝╚══════╝╚═╝       ╚═══╝  ╚══════╝╚══════╝
+```
+
+> *"The best way to predict the future is to create it." - Abraham 
+Lincoln*
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l41lUJ1YoZB1lHVPG/giphy.gif" 
+width="300"/>
+</p>
+
+<p align="center">
+  <b>OPEN TO CO-OP • INTERNSHIPS • SPACE MISSIONS</b><br>
+  <i>If you're building something that pushes boundaries — let's 
+collaborate.</i>
+</p>
+
+<p align="center">
+  [ ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white) 
+](https://www.linkedin.com/in/william-cull-whitten/)
+  [ ![Portfolio](https://img.shields.io/badge/-Portfolio-00D4FF?style=for-t![Portfolio](https://img.shields.io/badge/-Portfolio-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white) 
+](https://williamcullwhitten.ca)
+  [ 
+![Email](https://img.shields.io/badge/-Email-7EC8E3?style=for-the-badge&log![Email](https://img.shields.io/badge/-mail-7EC8E3?style=for-the-badge&logo=gmail&logoColor=white) ](mailto:ccullwhitten@mun.ca)
+</p>
+
+---
+
+*💡 This README self-destructs in 0.000000001 seconds. Just kidding. Or am 
+I?*
+
+[![Digital Immortality 
+Achieved](https://img.shields.io/badge/Digital_Immortality-ACTIVE-FF0000?stAchieved](https://img.shields.io/badge/Digital_Immorality-ACTIVE-FF0000?style=flat-square&logo=future&logoColor=FF0000)](https://github.com/WilliamCW-le=flat-square&logo=future&logoColor=FF0000)](https://github.com/WilliamCW-Codes)
