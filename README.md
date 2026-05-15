@@ -1,4 +1,4 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=William+Cull-Whitten;Computer+Engineering+Student;Aspiring+Hardware+%26+Software+Engineer"/>
@@ -143,7 +143,7 @@
 
 
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+%E2%80%A2+FPGA+Design+%E2%80%A2+Computer+Vision;CubeSat+ADCS+Engineer+%40+MUNStar-1+%F0%9F%9B%B0%EF%B8%8F;Firmware+Dev+%E2%80%A2+PCB+Designer+%E2%80%A2+Robotics+Integration;MUN+Concrete+Toboggan+Team+Captain+%E2%80%A2+25%2B+engineers;Building+reliable+systems+from+silicon+to+software" />
@@ -367,7 +367,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050D21,40:061A3A,100:0A2444&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=00D4FF&fontAlignY=40&desc=Computer%20Engineering%20%E2%80%94%20Where%20Hardware%20Meets%20Software&descAlignY=60&descSize=15&descFontColor=7EC8E3" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2800&pause=900&color=00D4FF&center=true&vCenter=true&width=720&lines=Embedded+Systems+%E2%80%A2+FPGA+Design+%E2%80%A2+Computer+Vision;CubeSat+ADCS+Engineer+%40+MUNStar-1+%F0%9F%9B%B0%EF%B8%8F;Firmware+Dev+%E2%80%A2+PCB+Designer+%E2%80%A2+Robotics+Integration;MUN+Concrete+Toboggan+Team+Captain+%E2%80%A2+25%2B+engineers;Building+reliable+systems+from+silicon+to+software" />
@@ -583,7 +583,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 
 
-<!-- # 🌌 **WILLIAM CULL-WHITTEN'S DIGITAL UNIVERSE** 🌌
+# 🌌 **WILLIAM CULL-WHITTEN'S DIGITAL UNIVERSE** 🌌
 
 [![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF0[![Matrix](https://img.shields.io/badge/Enter_the_Matrix-%F0%9F%9A%A9-00FF00?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/W?style=for-the-badge&logo=thematrix&logoColor=00FF00)](https://github.com/WilliamCW-Codes)
 [![Quantum 
@@ -840,7 +840,7 @@ Achieved](https://img.shields.io/badge/Digital_Immortality-ACTIVE-FF0000?stAchie
 
 
 
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,55:130E00,100:1C1400&height=195&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=F5A623&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL&descAlignY=62&descSize=15&descFontColor=CC8800" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,55:130E00,100:1C1400&height=195&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=F5A623&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL&descAlignY=62&descSize=15&descFontColor=CC8800" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=15&duration=2600&pause=900&color=F5A623&center=true&vCenter=true&width=780&lines=Embedded+Firmware+%E2%80%A2+FPGA+Design+%E2%80%A2+Computer+Vision+%E2%80%A2+Robotics;CubeSat+ADCS+Engineer+%40+MUNStar-1+%F0%9F%9B%B0%EF%B8%8F+(Launch+2026%2F2027);PCB+Design+%E2%80%A2+KiCad+%E2%80%A2+ESP32+%E2%80%A2+VHDL+%E2%80%A2+Arduino;Co-op+%40+Furtwangen+University%2C+Germany+%F0%9F%87%A9%F0%9F%87%AA+%E2%80%94+AI+%26+Robotics+Integration;Concrete+Toboggan+Captain+%E2%80%94+Leading+25%2B+Engineers+%7C+GNCTR" />
@@ -1175,7 +1175,7 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
 
 
 
-<!-- 
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,50:1A0535,100:2D0A6B&height=200&section=header&text=William%20Cull-Whitten&fontSize=46&fontColor=C084FC&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL&descAlignY=62&descSize=15&descFontColor=9333EA" width="100%"/>
 
 <p align="center">
@@ -1506,7 +1506,7 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
   <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=120&section=footer" width="100%"/> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=120&section=footer" width="100%"/>
 
 
 
