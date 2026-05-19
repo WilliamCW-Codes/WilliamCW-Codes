@@ -1,4 +1,3 @@
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,50:1A0535,100:2D0A6B&height=210&section=header&text=William%20Cull-Whitten&fontSize=48&fontColor=C084FC&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL%20%F0%9F%87%A8%F0%9F%87%A6&descAlignY=63&descSize=14&descFontColor=7C3AED" width="100%"/>
 
 <p align="center">
@@ -25,12 +24,11 @@ $ ./init --profile william.cull-whitten
   Calibrating satellite ADCS systems......  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
 
   >> SYSTEM READY  —  Hi, I'm William.
-  SYSTEM READY — Booting William...
 ```
 
 <br>
 
-<!--  W H O A M I  -->
+---
 
 ## `$ whoami`
 
@@ -41,7 +39,7 @@ $ ./init --profile william.cull-whitten
 **BEng Computer Engineering (Co-op) · Memorial University of Newfoundland**  
 Sept 2022 – May 2028
 
-I care about how things actually work — not just that they do. From the gate-level logic on an FPGA to the control loop on a satellite, I want to understand the whole stack and build the parts that matter most. I've done that across aerospace, robotics, web, and hardware.
+I care about how things actually work — not just that they do. From gate-level logic on an FPGA to the control loop on a satellite, I want to understand the whole stack and build the parts that matter most. I've done that across aerospace, robotics, web, and hardware.
 
 <br>
 
@@ -81,7 +79,7 @@ Gaming · Music · Building things nobody asked for · Travelling when co-ops ta
 
 <br>
 
-<!--  E X P E R I E N C E  -->
+---
 
 ## `$ cat experience.log`
 
@@ -89,14 +87,12 @@ Gaming · Music · Building things nobody asked for · Travelling when co-ops ta
 
 <table>
 <tr>
-
 <td width="25%" align="center" valign="top">
 <img src="https://img.shields.io/badge/2025-DE-C084FC?style=for-the-badge&labelColor=1A0535"/>
 <br><sub><b>AI & Robotics Co-op</b></sub><br>
 <sub>Furtwangen University</sub><br>
 <sub>🇩🇪 Germany</sub>
 </td>
-
 <td width="75%" valign="top">
 
 **Built a real-time surgical tool detection system** — YOLOv8 running inference on a live camera feed, outputting coordinates directly to a UR robot via RTDE. Wrote the transformation pipeline that maps vision-space detections to robot-space motion commands. Also designed a custom PCB for tool I/O. Shipped all of it, then explored Europe on weekends.
@@ -109,34 +105,12 @@ Gaming · Music · Building things nobody asked for · Travelling when co-ops ta
 <tr><td colspan="2"><br></td></tr>
 
 <tr>
-
 <td width="25%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2024_–_now-NL-9333EA?style=for-the-badge&labelColor=1A0535"/>
-<br><sub><b>Web Developer & Designer</b></sub><br>
-<sub>Community Centre Alliance</sub><br>
-<sub>🇨🇦 St. John's</sub>
-</td>
-
-<td width="75%" valign="top">
-
-**Rebuilt the organization's web presence from scratch.** Cut development costs by 75%, reduced downtime by 65%, lifted engagement by 35%. Ongoing part-time engagement after the co-op term ended — they kept me around for a reason.
-
-`React` `WordPress` `Figma` `CSS` `Performance Optimization`
-
-</td>
-</tr>
-
-<tr><td colspan="2"><br></td></tr>
-
-<tr>
-
-<td width="25%" align="center" valign="top">
-<img src="https://img.shields.io/badge/2024-NL-7C3AED?style=for-the-badge&labelColor=1A0535"/>
+<img src="https://img.shields.io/badge/2025-NL-9333EA?style=for-the-badge&labelColor=1A0535"/>
 <br><sub><b>Jr. Software Developer</b></sub><br>
 <sub>Engage Creative Technologies</sub><br>
 <sub>🇨🇦 St. John's</sub>
 </td>
-
 <td width="75%" valign="top">
 
 **Shipped software inside a real product development team.** Code reviews, production codebases, agile workflows — learned how professional software actually gets built and deployed.
@@ -149,14 +123,30 @@ Gaming · Music · Building things nobody asked for · Travelling when co-ops ta
 <tr><td colspan="2"><br></td></tr>
 
 <tr>
+<td width="25%" align="center" valign="top">
+<img src="https://img.shields.io/badge/2024_–_now-NL-7C3AED?style=for-the-badge&labelColor=1A0535"/>
+<br><sub><b>Web Developer & Designer</b></sub><br>
+<sub>Community Centre Alliance</sub><br>
+<sub>🇨🇦 St. John's</sub>
+</td>
+<td width="75%" valign="top">
 
+**Rebuilt the organization's web presence from scratch.** Cut development costs by 75%, reduced downtime by 65%, lifted engagement by 35%. Ongoing part-time engagement after the co-op term ended — they kept me around for a reason.
+
+`React` `WordPress` `Figma` `CSS` `Performance Optimization`
+
+</td>
+</tr>
+
+<tr><td colspan="2"><br></td></tr>
+
+<tr>
 <td width="25%" align="center" valign="top">
 <img src="https://img.shields.io/badge/2024-NL-6D28D9?style=for-the-badge&labelColor=1A0535"/>
-<br><sub><b>STEM Mentor</b></sub><br>
+<br><sub><b>STEM Mentor Co-op</b></sub><br>
 <sub>BGC St. John's</sub><br>
 <sub>🇨🇦 St. John's</sub>
 </td>
-
 <td width="75%" valign="top">
 
 **Led weekly STEM sessions with 20+ youth** — Scratch programming, hands-on experiments, competition prep. Made technical concepts accessible to kids who'd never touched a computer science class.
@@ -169,7 +159,11 @@ Gaming · Music · Building things nobody asked for · Travelling when co-ops ta
 
 <br>
 
-<!--  Active Missions  -->
+---
+
+## `$ ps aux --missions`
+
+<br>
 
 <table>
 <tr>
@@ -204,7 +198,7 @@ Status    ● IN PROGRESS
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
-Leading mechanical, electrical, civil and software sub-teams. Designed full Steer-by-Wire system — circuit, PCB layout, C++ firmware, and 3D-printed housings.
+Leading mechanical, electrical, civil, and software sub-teams. Designed full Steer-by-Wire system — circuit, PCB layout, C++ firmware, and 3D-printed housings.
 
 `C++` `PCB` `CAD` `Firmware` `Leadership`
 
@@ -235,128 +229,11 @@ Student-led AI team — computer vision pipelines, applied model training, and d
 
 <br>
 
-<!--  P R O J E C T S  -->
+---
 
 ## `$ ls ~/projects`
 
 <br>
-
-<table>
-<tr>
-<!-- NEXPAD + NEXCLICK -->
-<td width="50%" valign="top">
-
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
-
-<br>
-
-### ⌨️ NexPad · 🖱️ NexClick
-
-**Custom input devices — schematic to shell**
-
-Two devices. One goal: build every part myself. The macro pad and USB mouse are both fully custom — PCB layouts in KiCad, housings modelled in CAD, firmware hand-rolled in C targeting an ESP32. No dev kits. No shortcuts. Every trace placed deliberately.
-
-<br>
-
-![C](https://img.shields.io/badge/C-C084FC?style=flat-square&labelColor=0A0010)
-![ESP32](https://img.shields.io/badge/ESP32-C084FC?style=flat-square&labelColor=0A0010)
-![KiCad](https://img.shields.io/badge/KiCad-9333EA?style=flat-square&labelColor=0A0010)
-![USB HID](https://img.shields.io/badge/USB_HID-9333EA?style=flat-square&labelColor=0A0010)
-![PCB](https://img.shields.io/badge/PCB_Design-7C3AED?style=flat-square&labelColor=0A0010)
-![CAD](https://img.shields.io/badge/CAD-6D28D9?style=flat-square&labelColor=0A0010)
-
-<br>
-
-[![](https://img.shields.io/badge/NexPad-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexPad)
-[![](https://img.shields.io/badge/NexClick-9333EA?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexClick)
-
-</td>
-
-<!-- TETRIDUINO -->
-<td width="50%" valign="top">
-
-<img src="https://media.giphy.com/media/RlcjKG5tMBxFi/giphy.gif" width="100%"/>
-
-<br>
-
-### 🎮 Tetriduino &nbsp; <sub>🏆 Outstanding Project — ENGI 1020</sub>
-
-**Tetris on bare-metal Arduino**
-
-No game engine. No abstractions. Tetris from scratch on an Arduino — custom display driver, complete game logic, hardware input handling, and frame timing all written by hand. The award was for the full system architecture presentation, but the best part was just making it work.
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-C084FC?style=flat-square&labelColor=0A0010)
-![C++](https://img.shields.io/badge/C++-9333EA?style=flat-square&labelColor=0A0010)
-![Arduino](https://img.shields.io/badge/Arduino-7C3AED?style=flat-square&labelColor=0A0010)
-![Embedded](https://img.shields.io/badge/Embedded-6D28D9?style=flat-square&labelColor=0A0010)
-
-<br>
-
-[![](https://img.shields.io/badge/View_Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Tetriduino)
-
-</td>
-</tr>
-
-<tr>
-<!-- RISC-V -->
-<td width="50%" valign="top">
-
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
-
-<br>
-
-### ⚙️ RISC-V Instruction Decoder
-
-**Full RV32I ISA — from first principles**
-
-A complete RISC-V decoder for the RV32I base ISA. Bit manipulation, instruction classification, disassembly output. No parsing libraries — every field extracted manually. Built because I wanted to understand what the CPU actually sees, not just how to write code for it.
-
-<br>
-
-![C/C++](https://img.shields.io/badge/C%2FC++-C084FC?style=flat-square&labelColor=0A0010)
-![Assembly](https://img.shields.io/badge/Assembly-9333EA?style=flat-square&labelColor=0A0010)
-![RISC-V](https://img.shields.io/badge/RISC--V-7C3AED?style=flat-square&labelColor=0A0010)
-![Systems](https://img.shields.io/badge/Systems_Programming-6D28D9?style=flat-square&labelColor=0A0010)
-
-<br>
-
-[![](https://img.shields.io/badge/View_Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/riscv-decoder)
-
-</td>
-
-<!-- PLATFORMER -->
-<td width="50%" valign="top">
-
-<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDB/giphy.gif" width="100%"/>
-
-<br>
-
-### 🕹️ 2D JavaScript Platformer
-
-**OOP game systems built from scratch**
-
-Side-scrolling platformer built with a JS game engine to master object-oriented architecture and real-time game loop design. Collision detection, physics, entity management, and level logic all hand-built. Mostly an excuse to learn OOP properly by building something that's actually fun.
-
-<br>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-C084FC?style=flat-square&labelColor=0A0010)
-![OOP](https://img.shields.io/badge/OOP-9333EA?style=flat-square&labelColor=0A0010)
-![Game Dev](https://img.shields.io/badge/Game_Dev-7C3AED?style=flat-square&labelColor=0A0010)
-![Web](https://img.shields.io/badge/Web-6D28D9?style=flat-square&labelColor=0A0010)
-
-<br>
-
-[![](https://img.shields.io/badge/View_Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/platformer)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -369,7 +246,7 @@ A fully custom macro pad — from PCB layout in KiCad to firmware and key mappin
 
 `C` `KiCad` `Firmware` `PCB Design` `USB HID`
 
-[![NexPad](https://img.shields.io/badge/View%20Repo-NexPad-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexPad)
+[![NexPad](https://img.shields.io/badge/View_Repo-NexPad-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexPad)
 
 </td>
 <td width="50%" valign="top">
@@ -377,52 +254,47 @@ A fully custom macro pad — from PCB layout in KiCad to firmware and key mappin
 ### 🖱️ NexClick
 **Custom USB Mouse**
 
-End-to-end USB HID mouse project — hardware design, embedded firmware, and driver integration.
+End-to-end USB HID mouse project — hardware design, embedded firmware, and driver integration. Designed to work seamlessly with any OS.
 
 `C` `KiCad` `USB HID` `Embedded Systems` `PCB`
 
-[![NexClick](https://img.shields.io/badge/View%20Repo-NexClick-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexClick)
+[![NexClick](https://img.shields.io/badge/View_Repo-NexClick-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexClick)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ⚙️ RISC-V Decoder
-**Instruction Set Parser**
+### 🏆 Tetriduino
+**Award-Winning Arduino Game System**
 
-A RISC-V instruction decoder implementing the full RV32I base ISA — bit manipulation, instruction parsing, and disassembly logic from scratch.
+Tetris-style game with Python logic and Arduino hardware controls — display driver, input handling, and timing all hand-rolled. Presented at showcase.
 
-`C/C++` `RISC-V` `ISA` `Systems Programming`
+🎖️ **Outstanding Project of ENGI 1020 Award**
 
-[![RISC-V](https://img.shields.io/badge/View%20Repo-RISC--V%20Decoder-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/riscv-decoder)
+`Python` `C++` `Arduino` `Hardware` `Game Design`
+
+[![Tetriduino](https://img.shields.io/badge/View_Repo-Tetriduino-9333EA?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Tetriduino)
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Tetriduino
-**Arduino Game System**
+### ⚙️ RISC-V Instruction Decoder
+**ISA-Level Systems Programming**
 
-Tetris running on bare-metal Arduino — custom display driver, game logic, input handling, and timing all hand-rolled without game engine abstractions.
+Full RV32I base ISA decoder — bit manipulation, instruction parsing, and disassembly logic built from first principles. No shortcuts.
 
-`C++` `Arduino` `Embedded` `Game Logic` `Hardware`
+`C/C++` `Assembly` `RISC-V` `Computer Architecture`
 
-[![Tetriduino](https://img.shields.io/badge/View%20Repo-Tetriduino-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/Tetriduino)
+[![RISC-V](https://img.shields.io/badge/View_Repo-RISC--V-9333EA?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/riscv-decoder)
 
 </td>
 </tr>
 </table>
 
----
-
-<p align="center">
-  <i>Open to co-op, internships, and interesting engineering problems.</i><br>
-  <i>If you're building something ambitious — let's talk.</i>
-</p>
-
 <br>
 
-<!--  S K I L L S  -->
+---
 
 ## `$ lshw --summary`
 
@@ -436,7 +308,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake"/>
 
-<br>
+<br><br>
 
 ![ESP32](https://img.shields.io/badge/ESP32-C084FC?style=flat-square&labelColor=0A0010)
 ![FPGA](https://img.shields.io/badge/FPGA-C084FC?style=flat-square&labelColor=0A0010)
@@ -459,7 +331,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 <img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,matlab"/>
 
-<br>
+<br><br>
 
 ![Assembly](https://img.shields.io/badge/Assembly-C084FC?style=flat-square&labelColor=0A0010)
 ![VHDL](https://img.shields.io/badge/VHDL-9333EA?style=flat-square&labelColor=0A0010)
@@ -478,7 +350,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 <img src="https://skillicons.dev/icons?i=opencv,pytorch"/>
 
-<br>
+<br><br>
 
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-C084FC?style=flat-square&labelColor=0A0010)
 ![Ultralytics](https://img.shields.io/badge/Ultralytics-9333EA?style=flat-square&labelColor=0A0010)
@@ -493,7 +365,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 <img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,flask,astro,figma"/>
 
-<br>
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,ubuntu,notion"/>
 
@@ -503,7 +375,7 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 <br>
 
-<!--  S T A T S  -->
+---
 
 <details>
 <summary><code>$ git log --stat --author="WilliamCW-Codes"</code></summary>
@@ -522,6 +394,8 @@ Tetris running on bare-metal Arduino — custom display driver, game logic, inpu
 
 <br>
 
+---
+
 ```
 $ ./shutdown --message "open to co-ops, internships, and problems worth engineering"
 
@@ -532,6 +406,7 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
 
   [  PROCESS TERMINATED CLEANLY  —  exit code 0  ]
 ```
+
 <br>
 
 <p align="center">
