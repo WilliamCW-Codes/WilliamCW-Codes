@@ -169,6 +169,72 @@ Gaming · Music · Building things nobody asked for · Travelling when co-ops ta
 
 <br>
 
+<!--  Active Missions  -->
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+```
+MISSION  ·  CUBESAT ADCS
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Target    MUNStar-1
+Role      ADCS Engineer
+Status    ● IN PROGRESS
+Launch    2026 / 2027
+━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Designing and coding the satellite's orientation and stability control system in UML. Responsible for ADCS logic, architecture integration, and mission-critical reliability.
+
+`Embedded` `UML` `Aerospace` `ADCS`
+
+[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK)
+
+</td>
+<td width="33%" valign="top">
+
+```
+MISSION  ·  COMPETITION TEAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Target    GNCTR National
+Role      Team Captain
+Size      25+ Engineers
+Status    ● IN PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Leading mechanical, electrical, civil and software sub-teams. Designed full Steer-by-Wire system — circuit, PCB layout, C++ firmware, and 3D-printed housings.
+
+`C++` `PCB` `CAD` `Firmware` `Leadership`
+
+[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
+
+</td>
+<td width="33%" valign="top">
+
+```
+MISSION  ·  APPLIED AI
+━━━━━━━━━━━━━━━━━━━━━━━
+Target    Real Problems
+Role      Member
+Org       Genralis
+Status    ● IN PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Student-led AI team — computer vision pipelines, applied model training, and deploying ML solutions to real-world engineering problems.
+
+`CV` `PyTorch` `ML` `YOLO` `Research`
+
+[![](https://img.shields.io/badge/Team_Info-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK)
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <!--  P R O J E C T S  -->
 
 ## `$ ls ~/projects`
@@ -290,6 +356,72 @@ Side-scrolling platformer built with a JS game engine to master object-oriented 
 
 <br>
 
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⌨️ NexPad
+**Custom Macro Keyboard**
+
+A fully custom macro pad — from PCB layout in KiCad to firmware and key mapping. Built to spec: every layer, every trace, every line of firmware.
+
+`C` `KiCad` `Firmware` `PCB Design` `USB HID`
+
+[![NexPad](https://img.shields.io/badge/View%20Repo-NexPad-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexPad)
+
+</td>
+<td width="50%" valign="top">
+
+### 🖱️ NexClick
+**Custom USB Mouse**
+
+End-to-end USB HID mouse project — hardware design, embedded firmware, and driver integration.
+
+`C` `KiCad` `USB HID` `Embedded Systems` `PCB`
+
+[![NexClick](https://img.shields.io/badge/View%20Repo-NexClick-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexClick)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ RISC-V Decoder
+**Instruction Set Parser**
+
+A RISC-V instruction decoder implementing the full RV32I base ISA — bit manipulation, instruction parsing, and disassembly logic from scratch.
+
+`C/C++` `RISC-V` `ISA` `Systems Programming`
+
+[![RISC-V](https://img.shields.io/badge/View%20Repo-RISC--V%20Decoder-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/riscv-decoder)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Tetriduino
+**Arduino Game System**
+
+Tetris running on bare-metal Arduino — custom display driver, game logic, input handling, and timing all hand-rolled without game engine abstractions.
+
+`C++` `Arduino` `Embedded` `Game Logic` `Hardware`
+
+[![Tetriduino](https://img.shields.io/badge/View%20Repo-Tetriduino-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/Tetriduino)
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Open to co-op, internships, and interesting engineering problems.</i><br>
+  <i>If you're building something ambitious — let's talk.</i>
+</p>
+
+<br>
+
 <!--  S K I L L S  -->
 
 ## `$ lshw --summary`
@@ -388,6 +520,7 @@ Side-scrolling platformer built with a JS game engine to master object-oriented 
 
 </details>
 
+<br>
 
 ```
 $ ./shutdown --message "open to co-ops, internships, and problems worth engineering"
@@ -399,6 +532,7 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
 
   [  PROCESS TERMINATED CLEANLY  —  exit code 0  ]
 ```
+<br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/william-cull-whitten/">
@@ -420,156 +554,7 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
 
 
 
-
-
-
-
-
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⌨️ NexPad
-**Custom Macro Keyboard**
-
-A fully custom macro pad — from PCB layout in KiCad to firmware and key mapping. Built to spec: every layer, every trace, every line of firmware.
-
-`C` `KiCad` `Firmware` `PCB Design` `USB HID`
-
-[![NexPad](https://img.shields.io/badge/View%20Repo-NexPad-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexPad)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖱️ NexClick
-**Custom USB Mouse**
-
-End-to-end USB HID mouse project — hardware design, embedded firmware, and driver integration.
-
-`C` `KiCad` `USB HID` `Embedded Systems` `PCB`
-
-[![NexClick](https://img.shields.io/badge/View%20Repo-NexClick-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexClick)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ RISC-V Decoder
-**Instruction Set Parser**
-
-A RISC-V instruction decoder implementing the full RV32I base ISA — bit manipulation, instruction parsing, and disassembly logic from scratch.
-
-`C/C++` `RISC-V` `ISA` `Systems Programming`
-
-[![RISC-V](https://img.shields.io/badge/View%20Repo-RISC--V%20Decoder-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/riscv-decoder)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Tetriduino
-**Arduino Game System**
-
-Tetris running on bare-metal Arduino — custom display driver, game logic, input handling, and timing all hand-rolled without game engine abstractions.
-
-`C++` `Arduino` `Embedded` `Game Logic` `Hardware`
-
-[![Tetriduino](https://img.shields.io/badge/View%20Repo-Tetriduino-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/Tetriduino)
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
-  <i>Open to co-op, internships, and interesting engineering problems.</i><br>
-  <i>If you're building something ambitious — let's talk.</i>
-</p>
-
-
-
-
-
-
-
-
-
-## 2
-
----
-
-## 🛰️ Active Missions
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-```
-MISSION  ·  CUBESAT ADCS
-━━━━━━━━━━━━━━━━━━━━━━━━━
-Target    MUNStar-1
-Role      ADCS Engineer
-Status    ● IN PROGRESS
-Launch    2026 / 2027
-━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Designing and coding the satellite's orientation and stability control system in UML. Responsible for ADCS logic, architecture integration, and mission-critical reliability.
-
-`Embedded` `UML` `Aerospace` `ADCS`
-
-[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK)
-
-</td>
-<td width="33%" valign="top">
-
-```
-MISSION  ·  COMPETITION TEAM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Target    GNCTR National
-Role      Team Captain
-Size      25+ Engineers
-Status    ● IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Leading mechanical, electrical, civil and software sub-teams. Designed full Steer-by-Wire system — circuit, PCB layout, C++ firmware, and 3D-printed housings.
-
-`C++` `PCB` `CAD` `Firmware` `Leadership`
-
-[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
-
-</td>
-<td width="33%" valign="top">
-
-```
-MISSION  ·  APPLIED AI
-━━━━━━━━━━━━━━━━━━━━━━━
-Target    Real Problems
-Role      Member
-Org       Genralis
-Status    ● IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Student-led AI team — computer vision pipelines, applied model training, and deploying ML solutions to real-world engineering problems.
-
-`CV` `PyTorch` `ML` `YOLO` `Research`
-
-[![](https://img.shields.io/badge/Team_Info-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK)
-
-</td>
-</tr>
-</table>
-
-
-
-
-
+<!-- 
 ## ACTIVE
 
 <br>
@@ -614,3 +599,4 @@ Student-run applied AI team. Computer vision pipelines, model training, and depl
 </td>
 </tr>
 </table
+-->
