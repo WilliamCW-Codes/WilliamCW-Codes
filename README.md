@@ -1167,3 +1167,1007 @@ Side-scrolling platformer built with a JS game engine to master object-oriented 
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=120&section=footer" width="100%"/>
+
+
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0010,100:0A0010&height=4" width="100%"/>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=C084FC&center=true&vCenter=true&width=700&lines=William+Cull-Whitten" />
+</p>
+
+<p align="center">
+  <sup>COMPUTER ENGINEERING CO-OP &nbsp;·&nbsp; MEMORIAL UNIVERSITY &nbsp;·&nbsp; ST. JOHN'S, NL 🇨🇦</sup>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3000&pause=700&color=7C3AED&center=true&vCenter=true&width=750&lines=Embedded+Firmware+%E2%80%A2+FPGA+%E2%80%A2+PCB+Design+%E2%80%A2+Computer+Vision+%E2%80%A2+Robotics+%E2%80%A2+Aerospace"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=views&color=7C3AED&style=flat-square&labelColor=0A0010"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/WilliamCW-Codes?label=followers&style=flat-square&color=9333EA&labelColor=0A0010"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/open_to-co--ops_%26_internships-A855F7?style=flat-square&labelColor=0A0010"/>
+</p>
+
+<br>
+
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+
+<br>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I build systems where hardware and software have to work together — and I care about understanding both sides all the way down. Custom PCBs, embedded firmware, satellite ADCS, computer vision pipelines, robotics integration. I've shipped real engineering across all of it.
+
+Currently a **Computer Engineering Co-op student at MUN** (2022–2028). I've done four co-op terms so far — robotics in Germany, software in industry, web in production, STEM mentorship. Each one taught me something the classroom couldn't.
+
+When I'm not in the lab I'm gaming, making music, building things nobody asked for, or planning the next trip that a co-op makes possible.
+
+</td>
+<td width="40%" valign="top" align="right">
+
+[![](https://img.shields.io/badge/🌐_williamcullwhitten.ca-C084FC?style=flat-square&labelColor=0A0010)](https://williamcullwhitten.ca)<br>
+[![](https://img.shields.io/badge/🔗_LinkedIn-7C3AED?style=flat-square&labelColor=0A0010)](https://www.linkedin.com/in/william-cull-whitten/)<br>
+[![](https://img.shields.io/badge/📄_Resume-9333EA?style=flat-square&labelColor=0A0010)](https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv)<br>
+[![](https://img.shields.io/badge/📬_ccullwhitten@mun.ca-6D28D9?style=flat-square&labelColor=0A0010)](mailto:ccullwhitten@mun.ca)
+
+<br>
+
+<sub>🏅 Harrison McCain · PEGNL · NL Education Foundation<br>Dr. S.J. Carew Memorial · Transforming Our Horizons · Jubilee KoC</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<br>
+
+## EXPERIENCE
+
+<br>
+
+**🇩🇪 &nbsp; AI & Robotics Integration Co-op** &nbsp;·&nbsp; Furtwangen University &nbsp;·&nbsp; `2025`
+
+> Built a real-time YOLOv8 surgical tool detection system integrated with a UR robot via RTDE. Wrote coordinate transformation pipelines mapping camera-space detections to robot motion commands. Designed a custom PCB for tool I/O. All of it deployed and running before the term ended. Explored Europe on weekends.
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-C084FC?style=flat-square&labelColor=0A0010) ![RTDE](https://img.shields.io/badge/RTDE-9333EA?style=flat-square&labelColor=0A0010) ![OpenCV](https://img.shields.io/badge/OpenCV-9333EA?style=flat-square&labelColor=0A0010) ![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&labelColor=0A0010) ![PCB Design](https://img.shields.io/badge/PCB_Design-6D28D9?style=flat-square&labelColor=0A0010) ![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&labelColor=0A0010)
+
+<br>
+
+**🇨🇦 &nbsp; Web Developer & Designer** &nbsp;·&nbsp; Community Centre Alliance &nbsp;·&nbsp; `2024 – present`
+
+> Rebuilt their web presence from scratch. Cut dev costs 75%, reduced downtime 65%, lifted engagement 35%. Still part-time after the co-op ended — they kept me around.
+
+![React](https://img.shields.io/badge/React-C084FC?style=flat-square&labelColor=0A0010) ![WordPress](https://img.shields.io/badge/WordPress-9333EA?style=flat-square&labelColor=0A0010) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&labelColor=0A0010) ![CSS](https://img.shields.io/badge/CSS-6D28D9?style=flat-square&labelColor=0A0010)
+
+<br>
+
+**🇨🇦 &nbsp; Junior Software Developer** &nbsp;·&nbsp; Engage Creative Technologies &nbsp;·&nbsp; `2024`
+
+> Worked inside a professional product team — production codebases, code review, agile cycles. Learned how software actually ships.
+
+![Software Dev](https://img.shields.io/badge/Software_Dev-C084FC?style=flat-square&labelColor=0A0010) ![Agile](https://img.shields.io/badge/Agile-9333EA?style=flat-square&labelColor=0A0010) ![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&labelColor=0A0010)
+
+<br>
+
+**🇨🇦 &nbsp; STEM Mentor** &nbsp;·&nbsp; BGC St. John's &nbsp;·&nbsp; `2024`
+
+> Led weekly sessions with 20+ youth — Scratch, hands-on experiments, competition prep. Made hard things approachable.
+
+![STEM](https://img.shields.io/badge/STEM_Education-C084FC?style=flat-square&labelColor=0A0010) ![Mentorship](https://img.shields.io/badge/Mentorship-9333EA?style=flat-square&labelColor=0A0010)
+
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<br>
+
+## ACTIVE
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 🛰️ MUNStar-1 CubeSat
+`ADCS Engineer · Launch ~2026/27`
+
+Writing attitude determination and control software for a satellite that will actually leave Earth. ADCS logic, embedded architecture, mission-critical reliability. No room for bugs at altitude.
+
+`Embedded C` `UML` `Aerospace` `ADCS`
+
+[![](https://img.shields.io/badge/Team-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🏔️ MUN Concrete Toboggan
+`Team Captain · GNCTR National · 25+ Engineers`
+
+Leading mechanical, electrical, civil, and software sub-teams. Designed the Steer-by-Wire system myself — schematic, PCB layout, C++ firmware, 3D-printed housing.
+
+`C++` `PCB` `CAD` `Firmware` `Leadership`
+
+[![](https://img.shields.io/badge/Team-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
+
+</td>
+<td width="33%" valign="top">
+
+#### 🧠 Genralis
+`Member · Applied AI`
+
+Student-run applied AI team. Computer vision pipelines, model training, and deploying ML systems to real engineering problems — not toy datasets.
+
+`PyTorch` `YOLO` `CV` `ML` `Research`
+
+[![](https://img.shields.io/badge/Team-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK)
+
+</td>
+</tr>
+</table>
+
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<br>
+
+## PROJECTS
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
+
+#### ⌨️ NexPad &nbsp;·&nbsp; 🖱️ NexClick
+Custom macro keyboard and USB mouse — both built from zero. PCB in KiCad, housing in CAD, firmware in C targeting an ESP32. No kits. Every trace placed deliberately.
+
+![C](https://img.shields.io/badge/C-C084FC?style=flat-square&labelColor=0A0010) ![ESP32](https://img.shields.io/badge/ESP32-9333EA?style=flat-square&labelColor=0A0010) ![KiCad](https://img.shields.io/badge/KiCad-7C3AED?style=flat-square&labelColor=0A0010) ![USB HID](https://img.shields.io/badge/USB_HID-7C3AED?style=flat-square&labelColor=0A0010) ![PCB](https://img.shields.io/badge/PCB-6D28D9?style=flat-square&labelColor=0A0010) ![CAD](https://img.shields.io/badge/CAD-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/NexPad-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexPad) [![](https://img.shields.io/badge/NexClick-9333EA?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexClick)
+</td>
+<td width="50%" valign="top">
+<img src="https://media.giphy.com/media/RlcjKG5tMBxFi/giphy.gif" width="100%"/>
+
+#### 🎮 Tetriduino &nbsp; <sub>🏆 Outstanding Project — ENGI 1020</sub>
+Tetris on bare-metal Arduino. Custom display driver, full game logic, input handling, frame timing — all by hand. No game engine. No abstractions.
+
+![Python](https://img.shields.io/badge/Python-C084FC?style=flat-square&labelColor=0A0010) ![C++](https://img.shields.io/badge/C++-9333EA?style=flat-square&labelColor=0A0010) ![Arduino](https://img.shields.io/badge/Arduino-7C3AED?style=flat-square&labelColor=0A0010) ![Embedded](https://img.shields.io/badge/Embedded-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Tetriduino)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
+#### ⚙️ RISC-V Instruction Decoder
+Full RV32I ISA decoder from first principles. Bit-level parsing, instruction classification, disassembly output. No libraries — built to actually understand what the CPU sees.
+
+![C/C++](https://img.shields.io/badge/C%2FC++-C084FC?style=flat-square&labelColor=0A0010) ![Assembly](https://img.shields.io/badge/Assembly-9333EA?style=flat-square&labelColor=0A0010) ![RISC-V](https://img.shields.io/badge/RISC--V-7C3AED?style=flat-square&labelColor=0A0010) ![Systems](https://img.shields.io/badge/Systems-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/riscv-decoder)
+</td>
+<td width="50%" valign="top">
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDB/giphy.gif" width="100%"/>
+
+#### 🕹️ 2D JavaScript Platformer
+Side-scrolling platformer in a JS engine — collision, physics, entity management, level logic all hand-built. Mostly an excuse to learn OOP by building something actually fun.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-C084FC?style=flat-square&labelColor=0A0010) ![OOP](https://img.shields.io/badge/OOP-9333EA?style=flat-square&labelColor=0A0010) ![Game Dev](https://img.shields.io/badge/Game_Dev-7C3AED?style=flat-square&labelColor=0A0010) ![Web](https://img.shields.io/badge/Web-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/platformer)
+</td>
+</tr>
+</table>
+
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<br>
+
+## STACK
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Embedded & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake"/>
+
+![ESP32](https://img.shields.io/badge/ESP32-C084FC?style=flat-square&labelColor=0A0010) ![FPGA](https://img.shields.io/badge/FPGA-C084FC?style=flat-square&labelColor=0A0010) ![VHDL](https://img.shields.io/badge/VHDL-C084FC?style=flat-square&labelColor=0A0010) ![KiCad](https://img.shields.io/badge/KiCad-9333EA?style=flat-square&labelColor=0A0010) ![PCB Design](https://img.shields.io/badge/PCB_Design-9333EA?style=flat-square&labelColor=0A0010) ![Soldering](https://img.shields.io/badge/Soldering-9333EA?style=flat-square&labelColor=0A0010) ![RTDE](https://img.shields.io/badge/RTDE-7C3AED?style=flat-square&labelColor=0A0010) ![Simulink](https://img.shields.io/badge/Simulink-7C3AED?style=flat-square&labelColor=0A0010) ![PSpice](https://img.shields.io/badge/PSpice-7C3AED?style=flat-square&labelColor=0A0010) ![CBMC](https://img.shields.io/badge/CBMC-6D28D9?style=flat-square&labelColor=0A0010) ![CAD](https://img.shields.io/badge/CAD-6D28D9?style=flat-square&labelColor=0A0010) ![3D Printing](https://img.shields.io/badge/3D_Printing-6D28D9?style=flat-square&labelColor=0A0010)
+
+</td>
+<td width="50%" valign="top">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,matlab"/>
+
+![Assembly](https://img.shields.io/badge/Assembly-C084FC?style=flat-square&labelColor=0A0010) ![VHDL](https://img.shields.io/badge/VHDL-9333EA?style=flat-square&labelColor=0A0010) ![UML](https://img.shields.io/badge/UML-9333EA?style=flat-square&labelColor=0A0010) ![Dafny](https://img.shields.io/badge/Dafny-7C3AED?style=flat-square&labelColor=0A0010)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**AI & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch"/>
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-C084FC?style=flat-square&labelColor=0A0010) ![Ultralytics](https://img.shields.io/badge/Ultralytics-9333EA?style=flat-square&labelColor=0A0010) ![NumPy](https://img.shields.io/badge/NumPy-9333EA?style=flat-square&labelColor=0A0010) ![Real-Time Detection](https://img.shields.io/badge/Real--Time_CV-7C3AED?style=flat-square&labelColor=0A0010) ![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-6D28D9?style=flat-square&labelColor=0A0010)
+
+</td>
+<td width="50%" valign="top">
+
+**Web & Tooling**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,flask,astro,figma"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,ubuntu,notion"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary><b>📊 GitHub Stats</b></summary>
+<br>
+<p align="center">
+  <img height="162" src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple&hide_border=true&background=0A0010&ring=C084FC&fire=9333EA&currStreakLabel=C084FC&sideLabels=7C3AED&dates=4B3080&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+  &nbsp;
+  <img height="162" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&hide_border=true&bg_color=0A0010&title_color=C084FC&icon_color=9333EA&text_color=7C3AED&count_private=true"/>
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&hide_border=true&bg_color=0A0010&title_color=C084FC&text_color=7C3AED"/>
+</p>
+</details>
+
+<br>
+<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
+<br>
+
+<p align="center">
+  <i>Looking for someone who builds things that have to work? Let's talk.</i>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/william-cull-whitten/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://williamcullwhitten.ca"><img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=google-chrome&logoColor=0A0010"/></a>
+  &nbsp;
+  <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=100&section=footer" width="100%"/>
+
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,40:1A0535,100:2D0A6B&height=180&section=header&text=%E2%96%88%E2%96%88%20CLASSIFIED%20%E2%96%88%E2%96%88&fontSize=36&fontColor=C084FC&fontAlignY=45&desc=DOSSIER%20%2F%2F%20WILLIAM%20CULL-WHITTEN%20%2F%2F%20CLEARANCE%3A%20ENGINEER&descAlignY=65&descSize=13&descFontColor=7C3AED" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&duration=2500&pause=800&color=C084FC&center=true&vCenter=true&width=800&lines=SUBJECT%3A+Computer+Engineering+Co-op+%2F%2F+Memorial+University+%2F%2F+St.+John%27s+NL;SPECIALIZATIONS%3A+Embedded+Firmware+%2F+FPGA+%2F+PCB+Design+%2F+Robotics+%2F+Computer+Vision;DEPLOYMENTS%3A+St.+John%27s+%E2%86%92+Villingen-Schwenningen+%E2%86%92+Low+Earth+Orbit+(2026%2F27);STATUS%3A+ACTIVE+%2F%2F+Open+to+Co-ops+%26+Internships"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=FILE+VIEWS&color=7C3AED&style=flat-square&labelColor=0A0010"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/WilliamCW-Codes?label=OPERATIVES+WATCHING&style=flat-square&color=9333EA&labelColor=0A0010"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/CLEARANCE-OPEN_TO_OPPORTUNITIES-A855F7?style=flat-square&labelColor=0A0010"/>
+</p>
+
+<br>
+
+---
+
+<br>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         SUBJECT PROFILE — WILLIAM.SYS                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  FULL NAME    William Cull-Whitten                                           ║
+║  ROLE         Computer Engineering Co-op Student                             ║
+║  BASE         St. John's, NL, Canada 🇨🇦                                     ║
+║  INSTITUTION  Memorial University of Newfoundland  (2022 – 2028)             ║
+║  LAST SEEN    Villingen-Schwenningen, Germany 🇩🇪  — robotics co-op           ║
+║  NEXT TARGET  Low Earth Orbit — MUNStar-1 satellite launch ~2026/27          ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  THREAT LEVEL TO BUGS: ██████████ EXTREME                                   ║
+║  THREAT LEVEL TO BAD PCBs: ██████████ EXTREME                                ║
+║  CAFFEINE DEPENDENCY: ████████░░ HIGH                                        ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br>
+
+---
+
+## 🗂️ SUBJECT BRIEF
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+I design and build systems at the intersection of hardware and software — and I care about understanding both sides all the way to the metal. Custom PCBs, embedded firmware, satellite ADCS software, surgical robot vision, web systems. I've shipped real engineering across all of it, on co-ops in Canada and Germany.
+
+Currently leading **25+ engineers** as captain of the MUN Concrete Toboggan team. Currently writing **ADCS logic for a satellite** that will leave Earth. Currently finishing **NexPad** — a fully custom macro keyboard from schematic to firmware. Full docket.
+
+Outside classified hours: gaming, music, building things nobody asked for, and planning the next international deployment.
+
+<br>
+
+> *"I care about how things actually work at a low level, and I build accordingly."*
+
+</td>
+<td width="42%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius:6px"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  [![](https://img.shields.io/badge/🌐_PORTFOLIO-williamcullwhitten.ca-C084FC?style=for-the-badge&labelColor=0A0010)](https://williamcullwhitten.ca)
+  &nbsp;
+  [![](https://img.shields.io/badge/🔗_LINKEDIN-Connect-7C3AED?style=for-the-badge&labelColor=0A0010)](https://www.linkedin.com/in/william-cull-whitten/)
+  &nbsp;
+  [![](https://img.shields.io/badge/📄_RESUME-Download-9333EA?style=for-the-badge&labelColor=0A0010)](https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv)
+  &nbsp;
+  [![](https://img.shields.io/badge/📬_CONTACT-ccullwhitten@mun.ca-6D28D9?style=for-the-badge&labelColor=0A0010)](mailto:ccullwhitten@mun.ca)
+</p>
+
+<br>
+
+---
+
+## 📋 FIELD DEPLOYMENTS
+
+<br>
+
+```
+  ┌─ OPERATION: FURTWANGEN  ──────────────────────────────── 🇩🇪 GERMANY · 2025 ─┐
+  │  AI & Robotics Integration Co-op  //  Furtwangen University                  │
+  │                                                                               │
+  │  Built real-time YOLOv8 surgical tool detection system. Wrote coordinate      │
+  │  transformation pipelines from vision-space to robot motion commands.         │
+  │  Deployed via RTDE to a UR robot arm. Custom PCB for tool I/O. All shipped.  │
+  │                                                                               │
+  │  TOOLS:  YOLOv8 · RTDE · OpenCV · PyTorch · Python · PCB Design             │
+  │  RESULT: MISSION COMPLETE ✓                                                   │
+  └───────────────────────────────────────────────────────────────────────────────┘
+
+  ┌─ OPERATION: ALLIANCE  ─────────────────────── 🇨🇦 ST. JOHN'S · 2024–present ─┐
+  │  Web Developer & Designer  //  Community Centre Alliance                      │
+  │                                                                               │
+  │  Full web rebuild. ↓75% dev costs · ↑35% engagement · ↓65% downtime.        │
+  │  Still retained part-time after co-op ended. They kept me around.            │
+  │                                                                               │
+  │  TOOLS:  React · WordPress · Figma · CSS                                     │
+  │  RESULT: ONGOING ●                                                            │
+  └───────────────────────────────────────────────────────────────────────────────┘
+
+  ┌─ OPERATION: ENGAGE  ──────────────────────────── 🇨🇦 ST. JOHN'S · 2024 ──────┐
+  │  Junior Software Developer  //  Engage Creative Technologies                  │
+  │                                                                               │
+  │  Shipped real software inside a professional product team. Production         │
+  │  codebases, code review, agile workflows. Learned how software ships.        │
+  │                                                                               │
+  │  TOOLS:  Software Dev · Agile · Git · Code Review                           │
+  │  RESULT: MISSION COMPLETE ✓                                                   │
+  └───────────────────────────────────────────────────────────────────────────────┘
+
+  ┌─ OPERATION: BGC  ─────────────────────────────── 🇨🇦 ST. JOHN'S · 2024 ──────┐
+  │  STEM Mentor  //  BGC St. John's                                              │
+  │                                                                               │
+  │  Weekly sessions with 20+ youth. Scratch, hands-on experiments,              │
+  │  competition prep. Made technical concepts accessible.                        │
+  │                                                                               │
+  │  TOOLS:  Scratch · STEM Education · Mentorship                               │
+  │  RESULT: MISSION COMPLETE ✓                                                   │
+  └───────────────────────────────────────────────────────────────────────────────┘
+```
+
+<br>
+
+---
+
+## 🛰️ ACTIVE OPERATIONS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+```
+┌─────────────────────────┐
+│  OP: ORBITAL            │
+│  ● ACTIVE               │
+├─────────────────────────┤
+│  MUNStar-1 CubeSat      │
+│  Role: ADCS Engineer    │
+│  ETA:  2026 / 2027      │
+└─────────────────────────┘
+```
+
+Writing attitude determination and control software for a real satellite. ADCS logic, embedded architecture, mission-critical reliability. No room for bugs at 500km.
+
+`Embedded C` `UML` `Aerospace` `ADCS`
+
+[![](https://img.shields.io/badge/INTEL-Team_Site-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK)
+
+</td>
+<td width="33%" valign="top">
+
+```
+┌─────────────────────────┐
+│  OP: GNCTR              │
+│  ● ACTIVE               │
+├─────────────────────────┤
+│  Concrete Toboggan      │
+│  Role: Team Captain     │
+│  Size: 25+ Engineers    │
+└─────────────────────────┘
+```
+
+Leading mechanical, electrical, civil, and software sub-teams. Designed the Steer-by-Wire system — schematic, PCB, C++ firmware, 3D-printed housing.
+
+`C++` `PCB` `CAD` `Firmware` `Leadership`
+
+[![](https://img.shields.io/badge/INTEL-Team_Site-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
+
+</td>
+<td width="33%" valign="top">
+
+```
+┌─────────────────────────┐
+│  OP: GENRALIS           │
+│  ● ACTIVE               │
+├─────────────────────────┤
+│  Applied AI Team        │
+│  Role: Member           │
+│  Focus: Real Problems   │
+└─────────────────────────┘
+```
+
+Student-run applied AI team. Computer vision pipelines, model training, deploying ML to real engineering problems — not toy datasets.
+
+`PyTorch` `YOLO` `CV` `ML Pipelines`
+
+[![](https://img.shields.io/badge/INTEL-Team_Site-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🔬 PROJECT FILES
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
+
+```
+FILE: NEXPAD + NEXCLICK
+Classification: HARDWARE
+Status: IN PROGRESS
+```
+
+Custom macro keyboard and USB mouse — both built from nothing. KiCad PCB layouts, CAD housings, C firmware on an ESP32. No dev kits. No shortcuts. Every trace placed by hand.
+
+![C](https://img.shields.io/badge/C-C084FC?style=flat-square&labelColor=0A0010) ![ESP32](https://img.shields.io/badge/ESP32-9333EA?style=flat-square&labelColor=0A0010) ![KiCad](https://img.shields.io/badge/KiCad-7C3AED?style=flat-square&labelColor=0A0010) ![USB HID](https://img.shields.io/badge/USB_HID-7C3AED?style=flat-square&labelColor=0A0010) ![PCB](https://img.shields.io/badge/PCB-6D28D9?style=flat-square&labelColor=0A0010) ![CAD](https://img.shields.io/badge/CAD-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/ACCESS-NexPad-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexPad) [![](https://img.shields.io/badge/ACCESS-NexClick-9333EA?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexClick)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/RlcjKG5tMBxFi/giphy.gif" width="100%"/>
+
+```
+FILE: TETRIDUINO
+Classification: EMBEDDED
+Status: COMPLETE · 🏆 AWARDED
+```
+
+Tetris on bare-metal Arduino. Custom display driver, game logic, input handling, frame timing — all by hand. No game engine. No abstractions. Won Outstanding Project of ENGI 1020.
+
+![Python](https://img.shields.io/badge/Python-C084FC?style=flat-square&labelColor=0A0010) ![C++](https://img.shields.io/badge/C++-9333EA?style=flat-square&labelColor=0A0010) ![Arduino](https://img.shields.io/badge/Arduino-7C3AED?style=flat-square&labelColor=0A0010) ![Embedded](https://img.shields.io/badge/Embedded-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/ACCESS-Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Tetriduino)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
+```
+FILE: RISC-V DECODER
+Classification: SYSTEMS
+Status: COMPLETE
+```
+
+Full RV32I ISA decoder from first principles. Bit-level parsing, instruction classification, disassembly output. No libraries — built to understand what the CPU actually sees.
+
+![C/C++](https://img.shields.io/badge/C%2FC++-C084FC?style=flat-square&labelColor=0A0010) ![Assembly](https://img.shields.io/badge/Assembly-9333EA?style=flat-square&labelColor=0A0010) ![RISC-V](https://img.shields.io/badge/RISC--V-7C3AED?style=flat-square&labelColor=0A0010) ![Systems](https://img.shields.io/badge/Systems-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/ACCESS-Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/riscv-decoder)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDB/giphy.gif" width="100%"/>
+
+```
+FILE: JS PLATFORMER
+Classification: WEB / GAME
+Status: COMPLETE
+```
+
+Side-scrolling 2D platformer in a JS game engine. Collision, physics, entity management, level logic — all hand-built. Mainly an excuse to learn OOP by building something fun.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-C084FC?style=flat-square&labelColor=0A0010) ![OOP](https://img.shields.io/badge/OOP-9333EA?style=flat-square&labelColor=0A0010) ![Game Dev](https://img.shields.io/badge/Game_Dev-7C3AED?style=flat-square&labelColor=0A0010) ![Web](https://img.shields.io/badge/Web-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/ACCESS-Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/platformer)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🧰 EQUIPMENT MANIFEST
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ Embedded & Hardware**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake"/>
+
+![ESP32](https://img.shields.io/badge/ESP32-C084FC?style=flat-square&labelColor=0A0010) ![FPGA](https://img.shields.io/badge/FPGA-C084FC?style=flat-square&labelColor=0A0010) ![VHDL](https://img.shields.io/badge/VHDL-C084FC?style=flat-square&labelColor=0A0010) ![KiCad](https://img.shields.io/badge/KiCad-9333EA?style=flat-square&labelColor=0A0010) ![PCB Design](https://img.shields.io/badge/PCB_Design-9333EA?style=flat-square&labelColor=0A0010) ![Soldering](https://img.shields.io/badge/Soldering-9333EA?style=flat-square&labelColor=0A0010) ![RTDE](https://img.shields.io/badge/RTDE-7C3AED?style=flat-square&labelColor=0A0010) ![Simulink](https://img.shields.io/badge/Simulink-7C3AED?style=flat-square&labelColor=0A0010) ![PSpice](https://img.shields.io/badge/PSpice-7C3AED?style=flat-square&labelColor=0A0010) ![CBMC](https://img.shields.io/badge/CBMC-6D28D9?style=flat-square&labelColor=0A0010) ![CAD](https://img.shields.io/badge/CAD-6D28D9?style=flat-square&labelColor=0A0010) ![3D Printing](https://img.shields.io/badge/3D_Printing-6D28D9?style=flat-square&labelColor=0A0010)
+
+</td>
+<td width="50%" valign="top">
+
+**💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,matlab"/>
+
+![Assembly](https://img.shields.io/badge/Assembly-C084FC?style=flat-square&labelColor=0A0010) ![VHDL](https://img.shields.io/badge/VHDL-9333EA?style=flat-square&labelColor=0A0010) ![UML](https://img.shields.io/badge/UML-9333EA?style=flat-square&labelColor=0A0010) ![Dafny](https://img.shields.io/badge/Dafny-7C3AED?style=flat-square&labelColor=0A0010)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 AI & Computer Vision**
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch"/>
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-C084FC?style=flat-square&labelColor=0A0010) ![Ultralytics](https://img.shields.io/badge/Ultralytics-9333EA?style=flat-square&labelColor=0A0010) ![NumPy](https://img.shields.io/badge/NumPy-9333EA?style=flat-square&labelColor=0A0010) ![Real-Time CV](https://img.shields.io/badge/Real--Time_CV-7C3AED?style=flat-square&labelColor=0A0010) ![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-6D28D9?style=flat-square&labelColor=0A0010)
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 Web & Tooling**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,flask,astro,figma"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,ubuntu,notion"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary><b>📊 Activity Intelligence</b></summary>
+<br>
+<p align="center">
+  <img height="162" src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple&hide_border=true&background=0A0010&ring=C084FC&fire=9333EA&currStreakLabel=C084FC&sideLabels=7C3AED&dates=4B3080&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+  &nbsp;
+  <img height="162" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&hide_border=true&bg_color=0A0010&title_color=C084FC&icon_color=9333EA&text_color=7C3AED&count_private=true"/>
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&hide_border=true&bg_color=0A0010&title_color=C084FC&text_color=7C3AED"/>
+</p>
+</details>
+
+<br>
+
+---
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                          END OF FILE  //  WILLIAM.SYS                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║  Open to co-ops, internships, and problems worth engineering.                ║
+║                                                                              ║
+║  ccullwhitten@mun.ca  ·  williamcullwhitten.ca  ·  /in/william-cull-whitten ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/william-cull-whitten/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://williamcullwhitten.ca"><img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=google-chrome&logoColor=0A0010"/></a>
+  &nbsp;
+  <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=100&section=footer" width="100%"/>
+
+
+
+
+
+
+
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,30:0D0020,70:1A0535,100:2D0A6B&height=220&section=header&text=SIGNAL+ACQUIRED&fontSize=42&fontColor=C084FC&fontAlignY=40&desc=%E2%96%BA%20WILLIAM+CULL-WHITTEN+%2F%2F+COMPUTER+ENGINEER+%2F%2F+ST.+JOHN%27S+NL+%F0%9F%87%A8%F0%9F%87%A6&descAlignY=60&descSize=13&descFontColor=9333EA" width="100%"/>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=14&duration=2800&pause=1000&color=C084FC&center=true&vCenter=true&width=800&lines=%E2%96%BA+TRANSMITTING+ON+ALL+FREQUENCIES+%E2%97%84;Embedded+Firmware+%C2%B7+FPGA+%C2%B7+PCB+Design+%C2%B7+Computer+Vision+%C2%B7+Robotics+%C2%B7+Aerospace;CubeSat+ADCS+Engineer+%40+MUNStar-1+%F0%9F%9B%B0%EF%B8%8F+%E2%80%94+Launch+Window%3A+2026%2F27;Signal+origin%3A+St.+John%27s+%E2%86%92+Stuttgart+%E2%86%92+Low+Earth+Orbit"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=signal+received+by&color=7C3AED&style=flat-square&labelColor=0A0010"/>
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/WilliamCW-Codes?label=listening&style=flat-square&color=9333EA&labelColor=0A0010"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/▶_BROADCAST-Open_to_Co--ops_%26_Internships-A855F7?style=flat-square&labelColor=0A0010"/>
+</p>
+
+<br>
+
+---
+
+<br>
+
+<p align="center">
+  <sub>▶▶ FREQUENCY: <b>HARDWARE · FIRMWARE · VISION · SPACE · WEB</b> ◀◀</sub>
+</p>
+
+<br>
+
+## 📡 &nbsp; INCOMING TRANSMISSION
+
+<table>
+<tr>
+<td width="56%" valign="top">
+
+<br>
+
+I'm a Computer Engineering Co-op student at **Memorial University of Newfoundland** (2022–2028) who builds systems from the ground up — PCBs, firmware, satellite control software, surgical robot vision pipelines, web platforms. Whatever the domain, I want to understand how it works at the lowest level and build the parts that actually matter.
+
+Right now my signal is split across:
+
+- 🛰️ **MUNStar-1** — writing ADCS code for a satellite leaving Earth ~2026/27
+- ⌨️ **NexPad** — a fully custom macro keyboard, PCB layout to firmware
+- 🏔️ **Team Captain** — leading 25+ engineers through a national competition
+- 🤖 **Genralis** — applied AI, computer vision, deployed systems
+
+Four co-ops done. One in Germany. One involved a surgical robot. All of them shipped something real.
+
+<br>
+
+> *I build things that have to work. No exceptions.*
+
+</td>
+<td width="44%" valign="top">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+<br>
+
+<p align="center">
+
+[![](https://img.shields.io/badge/▶_PORTFOLIO-williamcullwhitten.ca-C084FC?style=flat-square&labelColor=0A0010)](https://williamcullwhitten.ca)
+
+[![](https://img.shields.io/badge/▶_LINKEDIN-william--cull--whitten-9333EA?style=flat-square&labelColor=0A0010)](https://www.linkedin.com/in/william-cull-whitten/)
+
+[![](https://img.shields.io/badge/▶_RESUME-Download_PDF-7C3AED?style=flat-square&labelColor=0A0010)](https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv)
+
+[![](https://img.shields.io/badge/▶_EMAIL-ccullwhitten@mun.ca-6D28D9?style=flat-square&labelColor=0A0010)](mailto:ccullwhitten@mun.ca)
+
+</p>
+
+<p align="center"><sub>🏅 6× Scholar — Harrison McCain · PEGNL · NL Ed. Foundation<br>Dr. S.J. Carew · Transforming Our Horizons · Jubilee KoC</sub></p>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 📻 &nbsp; FIELD LOGS
+
+<br>
+
+> **CH.1 &nbsp;·&nbsp; 2025 &nbsp;·&nbsp; 🇩🇪 GERMANY** &nbsp;— *AI & Robotics Integration Co-op · Furtwangen University*
+
+Built a real-time YOLOv8 surgical tool detection system piped into a UR robot via RTDE. Wrote the transformation pipeline from vision-space detection to robot-space motion. Designed a custom PCB for tool I/O. All deployed before the term ended. Spent weekends crossing Europe.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`YOLOv8` `RTDE` `OpenCV` `PyTorch` `Python` `PCB Design` `Robotics`
+
+<br>
+
+> **CH.2 &nbsp;·&nbsp; 2024–now &nbsp;·&nbsp; 🇨🇦 ST. JOHN'S** &nbsp;— *Web Developer & Designer · Community Centre Alliance*
+
+Rebuilt their entire web presence from the ground up. ↓75% dev costs · ↑35% engagement · ↓65% downtime. Still retained part-time after the term ended — they kept me around for a reason.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`React` `WordPress` `Figma` `CSS` `Performance Optimization`
+
+<br>
+
+> **CH.3 &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; 🇨🇦 ST. JOHN'S** &nbsp;— *Junior Software Developer · Engage Creative Technologies*
+
+Worked inside a real product development team. Production codebases, code review, agile workflows. Learned how software actually ships at an industry pace.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Software Dev` `Agile` `Git` `Code Review`
+
+<br>
+
+> **CH.4 &nbsp;·&nbsp; 2024 &nbsp;·&nbsp; 🇨🇦 ST. JOHN'S** &nbsp;— *STEM Mentor · BGC St. John's*
+
+Led weekly STEM sessions with 20+ youth — Scratch, hands-on experiments, competition prep. Made hard things approachable for kids who'd never seen a circuit.
+
+&nbsp;&nbsp;&nbsp;&nbsp;`Scratch` `STEM Education` `Mentorship`
+
+<br>
+
+---
+
+## 🔭 &nbsp; ACTIVE TRANSMISSIONS
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+```
+◉ LIVE  //  MUNStar-1
+─────────────────────
+ TYPE   CubeSat ADCS
+ ROLE   Engineer
+ ALT    ~500km (soon)
+ ETA    2026 / 2027
+─────────────────────
+```
+
+Writing attitude determination and control software for a satellite that will physically leave Earth. ADCS logic, embedded architecture, zero tolerance for failure.
+
+`Embedded C` `UML` `Aerospace` `ADCS`
+
+[![](https://img.shields.io/badge/▶_TEAM-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK)
+
+</td>
+<td width="33%" valign="top">
+
+```
+◉ LIVE  //  TOBOGGAN
+─────────────────────
+ TYPE   Design Team
+ ROLE   Captain
+ SIZE   25+ engineers
+ COMP   GNCTR National
+─────────────────────
+```
+
+Leading mechanical, electrical, civil, and software sub-teams. Personally built the Steer-by-Wire system — schematic, PCB layout, C++ firmware, 3D-printed housing.
+
+`C++` `PCB` `CAD` `Firmware` `Leadership`
+
+[![](https://img.shields.io/badge/▶_TEAM-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
+
+</td>
+<td width="33%" valign="top">
+
+```
+◉ LIVE  //  GENRALIS
+─────────────────────
+ TYPE   Applied AI
+ ROLE   Member
+ FOCUS  Real Problems
+ STYLE  Ship it
+─────────────────────
+```
+
+Student-run applied AI team. Computer vision pipelines, model training, deploying ML solutions to real engineering challenges — not toy datasets, actual systems.
+
+`PyTorch` `YOLO` `CV` `ML Pipelines`
+
+[![](https://img.shields.io/badge/▶_TEAM-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 💾 &nbsp; PROJECT ARCHIVE
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
+
+**▶ &nbsp; ⌨️ NexPad &nbsp;+&nbsp; 🖱️ NexClick** &nbsp;·&nbsp; `IN PROGRESS`
+
+Two custom input devices — a macro keyboard and a USB mouse — built entirely from scratch. PCB layouts in KiCad, housings modelled in CAD, firmware hand-rolled in C on an ESP32. No kits. No breakout boards. Every trace placed deliberately.
+
+![C](https://img.shields.io/badge/C-C084FC?style=flat-square&labelColor=0A0010) ![ESP32](https://img.shields.io/badge/ESP32-9333EA?style=flat-square&labelColor=0A0010) ![KiCad](https://img.shields.io/badge/KiCad-7C3AED?style=flat-square&labelColor=0A0010) ![USB HID](https://img.shields.io/badge/USB_HID-7C3AED?style=flat-square&labelColor=0A0010) ![PCB](https://img.shields.io/badge/PCB-6D28D9?style=flat-square&labelColor=0A0010) ![CAD](https://img.shields.io/badge/CAD-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/▶_NexPad-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexPad) [![](https://img.shields.io/badge/▶_NexClick-9333EA?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/NexClick)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/RlcjKG5tMBxFi/giphy.gif" width="100%"/>
+
+**▶ &nbsp; 🎮 Tetriduino** &nbsp;·&nbsp; `COMPLETE · 🏆 AWARDED`
+
+Tetris on bare-metal Arduino — custom display driver, full game logic, input handling, frame timing. No game engine. No abstractions. Just code and hardware doing exactly what they're told. Won Outstanding Project of ENGI 1020.
+
+![Python](https://img.shields.io/badge/Python-C084FC?style=flat-square&labelColor=0A0010) ![C++](https://img.shields.io/badge/C++-9333EA?style=flat-square&labelColor=0A0010) ![Arduino](https://img.shields.io/badge/Arduino-7C3AED?style=flat-square&labelColor=0A0010) ![Embedded](https://img.shields.io/badge/Embedded-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/▶_Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Tetriduino)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+
+**▶ &nbsp; ⚙️ RISC-V Instruction Decoder** &nbsp;·&nbsp; `COMPLETE`
+
+Full RV32I ISA decoder — bit-level parsing, instruction classification, disassembly output. No libraries. Built because I wanted to understand what the CPU actually sees, not just how to write code that runs on it.
+
+![C/C++](https://img.shields.io/badge/C%2FC++-C084FC?style=flat-square&labelColor=0A0010) ![Assembly](https://img.shields.io/badge/Assembly-9333EA?style=flat-square&labelColor=0A0010) ![RISC-V](https://img.shields.io/badge/RISC--V-7C3AED?style=flat-square&labelColor=0A0010) ![Systems](https://img.shields.io/badge/Systems-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/▶_Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/riscv-decoder)
+
+</td>
+<td width="50%" valign="top">
+
+<img src="https://media.giphy.com/media/xT9IgG50Lg7russbDB/giphy.gif" width="100%"/>
+
+**▶ &nbsp; 🕹️ 2D JavaScript Platformer** &nbsp;·&nbsp; `COMPLETE`
+
+Side-scrolling platformer built in a JS game engine to master OOP and real-time game loop architecture. Collision, physics, entity management, level logic — all hand-built. Mostly an excuse to learn by making something actually enjoyable.
+
+![JavaScript](https://img.shields.io/badge/JavaScript-C084FC?style=flat-square&labelColor=0A0010) ![OOP](https://img.shields.io/badge/OOP-9333EA?style=flat-square&labelColor=0A0010) ![Game Dev](https://img.shields.io/badge/Game_Dev-7C3AED?style=flat-square&labelColor=0A0010) ![Web](https://img.shields.io/badge/Web-6D28D9?style=flat-square&labelColor=0A0010)
+
+[![](https://img.shields.io/badge/▶_Repo-C084FC?style=flat-square&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/platformer)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
+## 🎛️ &nbsp; TECHNICAL FREQUENCIES
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚙️ &nbsp; BAND: EMBEDDED & HARDWARE**
+
+<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,cmake"/>
+
+![ESP32](https://img.shields.io/badge/ESP32-C084FC?style=flat-square&labelColor=0A0010) ![FPGA](https://img.shields.io/badge/FPGA-C084FC?style=flat-square&labelColor=0A0010) ![VHDL](https://img.shields.io/badge/VHDL-C084FC?style=flat-square&labelColor=0A0010) ![KiCad](https://img.shields.io/badge/KiCad-9333EA?style=flat-square&labelColor=0A0010) ![PCB Design](https://img.shields.io/badge/PCB_Design-9333EA?style=flat-square&labelColor=0A0010) ![Soldering](https://img.shields.io/badge/Soldering-9333EA?style=flat-square&labelColor=0A0010) ![RTDE](https://img.shields.io/badge/RTDE-7C3AED?style=flat-square&labelColor=0A0010) ![Simulink](https://img.shields.io/badge/Simulink-7C3AED?style=flat-square&labelColor=0A0010) ![PSpice](https://img.shields.io/badge/PSpice-7C3AED?style=flat-square&labelColor=0A0010) ![CBMC](https://img.shields.io/badge/CBMC-6D28D9?style=flat-square&labelColor=0A0010) ![CAD](https://img.shields.io/badge/CAD-6D28D9?style=flat-square&labelColor=0A0010) ![3D Printing](https://img.shields.io/badge/3D_Printing-6D28D9?style=flat-square&labelColor=0A0010)
+
+</td>
+<td width="50%" valign="top">
+
+**💻 &nbsp; BAND: LANGUAGES**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,py,java,js,ts,matlab"/>
+
+![Assembly](https://img.shields.io/badge/Assembly-C084FC?style=flat-square&labelColor=0A0010) ![VHDL](https://img.shields.io/badge/VHDL-9333EA?style=flat-square&labelColor=0A0010) ![UML](https://img.shields.io/badge/UML-9333EA?style=flat-square&labelColor=0A0010) ![Dafny](https://img.shields.io/badge/Dafny-7C3AED?style=flat-square&labelColor=0A0010)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤖 &nbsp; BAND: AI & COMPUTER VISION**
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch"/>
+
+![YOLOv8](https://img.shields.io/badge/YOLOv8-C084FC?style=flat-square&labelColor=0A0010) ![Ultralytics](https://img.shields.io/badge/Ultralytics-9333EA?style=flat-square&labelColor=0A0010) ![NumPy](https://img.shields.io/badge/NumPy-9333EA?style=flat-square&labelColor=0A0010) ![Real-Time CV](https://img.shields.io/badge/Real--Time_CV-7C3AED?style=flat-square&labelColor=0A0010) ![ML Pipelines](https://img.shields.io/badge/ML_Pipelines-6D28D9?style=flat-square&labelColor=0A0010)
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 &nbsp; BAND: WEB & TOOLING**
+
+<img src="https://skillicons.dev/icons?i=html,css,react,vue,nodejs,flask,astro,figma"/>
+
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,linux,ubuntu,notion"/>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<details>
+<summary><b>📊 &nbsp; Signal Metrics &nbsp; <code>[ expand ]</code></b></summary>
+<br>
+<p align="center">
+  <img height="162" src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple&hide_border=true&background=0A0010&ring=C084FC&fire=9333EA&currStreakLabel=C084FC&sideLabels=7C3AED&dates=4B3080&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
+  &nbsp;
+  <img height="162" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&hide_border=true&bg_color=0A0010&title_color=C084FC&icon_color=9333EA&text_color=7C3AED&count_private=true"/>
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&hide_border=true&bg_color=0A0010&title_color=C084FC&text_color=7C3AED"/>
+</p>
+</details>
+
+<br>
+
+---
+
+<p align="center">
+  <sub>▶▶ &nbsp; <b>OPEN TO CO-OPS · INTERNSHIPS · PROBLEMS WORTH ENGINEERING</b> &nbsp; ◀◀</sub><br>
+  <sub>If you're building something ambitious — tune in.</sub>
+</p>
+
+<br>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/william-cull-whitten/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://williamcullwhitten.ca"><img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=google-chrome&logoColor=0A0010"/></a>
+  &nbsp;
+  <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=100&section=footer" width="100%"/>
