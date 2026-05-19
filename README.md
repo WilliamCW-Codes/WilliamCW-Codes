@@ -1,4 +1,4 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:4B0082,100:8A2BE2&height=150&section=header"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4000&pause=800&color=8A2BE2&center=true&vCenter=true&width=600&lines=William+Cull-Whitten;Computer+Engineering+Student;Aspiring+Hardware+%26+Software+Engineer"/>
@@ -132,7 +132,7 @@
     <img height="165em" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true"/>
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
   </p>
-</details> -->
+</details>
 
 
 
@@ -140,7 +140,7 @@
 
 
 
-<!-- ## 1
+## 1
 
 ```
 > Compiling profile.....................  [████████████████████] 100% ✓
@@ -634,7 +634,7 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
   <a href="https://williamcullwhitten.ca"><img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=google-chrome&logoColor=0A0010"/></a>
   &nbsp;
   <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p> -->
+</p>
 
 
 
@@ -667,25 +667,6 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
   &nbsp;
   <img src="https://img.shields.io/badge/open_to-co--ops_%26_internships-A855F7?style=flat-square&labelColor=0A0010"/>
 </p>
-
-<br>
-
-<!--  B O O T  -->
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│                     WILLIAM.SYS  —  v4.0  (2025)                   │
-│─────────────────────────────────────────────────────────────────────│
-│  arch       hardware + software, wherever they collide              │
-│  uptime     3 years into a 6-year co-op engineering degree          │
-│  location   St. John's, NL  →  last deployed: Germany 🇩🇪            │
-│  status     ● RUNNING  —  open to interesting problems              │
-│─────────────────────────────────────────────────────────────────────│
-│  I build systems that work at the metal. Custom PCBs, embedded      │
-│  firmware, satellite ADCS, surgical robot vision — if it has to     │
-│  be reliable and low-level, that's where I want to be.              │
-└─────────────────────────────────────────────────────────────────────┘
-```
 
 <br>
 
@@ -821,106 +802,6 @@ Gaming · Music · Building things nobody asked for · Travelling when co-ops ta
 **Led weekly STEM sessions with 20+ youth** — Scratch programming, hands-on experiments, competition prep. Made technical concepts accessible to kids who'd never touched a computer science class.
 
 `Scratch` `STEM Education` `Mentorship` `Youth Programming`
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<!--  M I S S I O N S  -->
-
-## `$ ps aux | grep active`
-
-<br>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-<p align="center">🛰️</p>
-
-```
-PID    MISSION
-━━━━━━━━━━━━━━━━━━━━━━━
-  1    MUNStar-1 CubeSat
-━━━━━━━━━━━━━━━━━━━━━━━
-role   ADCS Engineer
-org    MUN Space Group
-eta    2026 / 2027
-━━━━━━━━━━━━━━━━━━━━━━━
-● RUNNING
-```
-
-<br>
-
-Writing the attitude determination and control software for a satellite that will actually leave Earth. ADCS logic, embedded architecture, mission-critical reliability. No room for bugs up there.
-
-<br>
-
-`Embedded C` `UML` `Aerospace` `ADCS` `Space Systems`
-
-<br>
-
-[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK-HERE)
-
-</td>
-<td width="33%" valign="top">
-
-<p align="center">🏔️</p>
-
-```
-PID    MISSION
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  2    MUN Concrete Toboggan
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-role   Team Captain
-size   25+ engineers
-comp   GNCTR National
-━━━━━━━━━━━━━━━━━━━━━━━━━━━
-● RUNNING
-```
-
-<br>
-
-Leading mechanical, electrical, civil, and software sub-teams through a full design cycle. Built the Steer-by-Wire system myself — schematic, PCB, C++ firmware, and 3D-printed housing.
-
-<br>
-
-`C++` `PCB Design` `CAD` `Firmware` `Team Leadership`
-
-<br>
-
-[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
-
-</td>
-<td width="33%" valign="top">
-
-<p align="center">🧠</p>
-
-```
-PID    MISSION
-━━━━━━━━━━━━━━━━━━━━━━━
-  3    Genralis
-━━━━━━━━━━━━━━━━━━━━━━━
-role   Member
-focus  Applied AI
-type   Student Team
-━━━━━━━━━━━━━━━━━━━━━━━
-● RUNNING
-```
-
-<br>
-
-Student-run applied AI team. Computer vision pipelines, model training, and deploying ML solutions to real engineering problems — not toy datasets, actual deployable systems.
-
-<br>
-
-`PyTorch` `YOLO` `Computer Vision` `ML Pipelines` `Research`
-
-<br>
-
-[![](https://img.shields.io/badge/Team_Info-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK-HERE)
 
 </td>
 </tr>
@@ -1147,22 +1028,6 @@ Side-scrolling platformer built with a JS game engine to master object-oriented 
 
 </details>
 
-<br>
-
-<!--  F O O T E R  -->
-
-```
-┌───────────────────────────────────────────────────────────────────────────────┐
-│                                                                               │
-│   Looking for someone who builds things that have to work?  Let's talk.      │
-│                                                                               │
-│   ccullwhitten@mun.ca  ·  williamcullwhitten.ca  ·  /in/william-cull-whitten │
-│                                                                               │
-│   Open to co-ops, internships, and problems worth engineering.                │
-│                                                                               │
-└───────────────────────────────────────────────────────────────────────────────┘
-```
-
 <p align="center">
   <a href="https://www.linkedin.com/in/william-cull-whitten/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -1187,66 +1052,6 @@ Side-scrolling platformer built with a JS game engine to master object-oriented 
 
 
 
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A0010,100:0A0010&height=4" width="100%"/>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=C084FC&center=true&vCenter=true&width=700&lines=William+Cull-Whitten" />
-</p>
-
-<p align="center">
-  <sup>COMPUTER ENGINEERING CO-OP &nbsp;·&nbsp; MEMORIAL UNIVERSITY &nbsp;·&nbsp; ST. JOHN'S, NL 🇨🇦</sup>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=13&duration=3000&pause=700&color=7C3AED&center=true&vCenter=true&width=750&lines=Embedded+Firmware+%E2%80%A2+FPGA+%E2%80%A2+PCB+Design+%E2%80%A2+Computer+Vision+%E2%80%A2+Robotics+%E2%80%A2+Aerospace"/>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=views&color=7C3AED&style=flat-square&labelColor=0A0010"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/WilliamCW-Codes?label=followers&style=flat-square&color=9333EA&labelColor=0A0010"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/open_to-co--ops_%26_internships-A855F7?style=flat-square&labelColor=0A0010"/>
-</p>
-
-<br>
-
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-
-<br>
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-I build systems where hardware and software have to work together — and I care about understanding both sides all the way down. Custom PCBs, embedded firmware, satellite ADCS, computer vision pipelines, robotics integration. I've shipped real engineering across all of it.
-
-Currently a **Computer Engineering Co-op student at MUN** (2022–2028). I've done four co-op terms so far — robotics in Germany, software in industry, web in production, STEM mentorship. Each one taught me something the classroom couldn't.
-
-When I'm not in the lab I'm gaming, making music, building things nobody asked for, or planning the next trip that a co-op makes possible.
-
-</td>
-<td width="40%" valign="top" align="right">
-
-[![](https://img.shields.io/badge/🌐_williamcullwhitten.ca-C084FC?style=flat-square&labelColor=0A0010)](https://williamcullwhitten.ca)<br>
-[![](https://img.shields.io/badge/🔗_LinkedIn-7C3AED?style=flat-square&labelColor=0A0010)](https://www.linkedin.com/in/william-cull-whitten/)<br>
-[![](https://img.shields.io/badge/📄_Resume-9333EA?style=flat-square&labelColor=0A0010)](https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv)<br>
-[![](https://img.shields.io/badge/📬_ccullwhitten@mun.ca-6D28D9?style=flat-square&labelColor=0A0010)](mailto:ccullwhitten@mun.ca)
-
-<br>
-
-<sub>🏅 Harrison McCain · PEGNL · NL Education Foundation<br>Dr. S.J. Carew Memorial · Transforming Our Horizons · Jubilee KoC</sub>
-
-</td>
-</tr>
-</table>
-
-<br>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-<br>
 
 ## EXPERIENCE
 
@@ -1437,38 +1242,6 @@ Side-scrolling platformer in a JS engine — collision, physics, entity manageme
 </tr>
 </table>
 
-<br>
-
-<details>
-<summary><b>📊 GitHub Stats</b></summary>
-<br>
-<p align="center">
-  <img height="162" src="https://streak-stats.demolab.com?user=WilliamCW-Codes&theme=midnight-purple&hide_border=true&background=0A0010&ring=C084FC&fire=9333EA&currStreakLabel=C084FC&sideLabels=7C3AED&dates=4B3080&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
-  &nbsp;
-  <img height="162" src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&hide_border=true&bg_color=0A0010&title_color=C084FC&icon_color=9333EA&text_color=7C3AED&count_private=true"/>
-</p>
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&hide_border=true&bg_color=0A0010&title_color=C084FC&text_color=7C3AED"/>
-</p>
-</details>
-
-<br>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-<br>
-
-<p align="center">
-  <i>Looking for someone who builds things that have to work? Let's talk.</i>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/william-cull-whitten/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &nbsp;
-  <a href="https://williamcullwhitten.ca"><img src="https://img.shields.io/badge/Portfolio-C084FC?style=for-the-badge&logo=google-chrome&logoColor=0A0010"/></a>
-  &nbsp;
-  <a href="mailto:ccullwhitten@mun.ca"><img src="https://img.shields.io/badge/Email-9333EA?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=100&section=footer" width="100%"/>
 
 
 
