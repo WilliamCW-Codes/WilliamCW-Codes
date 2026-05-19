@@ -1,175 +1,3 @@
-```
-$ ./init --profile william.cull-whitten
-
-  Loading engineering stack...............  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
-  Mounting hardware interfaces............  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
-  Parsing international ops logs..........  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
-  Initializing leadership modules.........  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
-  Calibrating satellite ADCS systems......  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
-
-  >> SYSTEM READY  —  Hi, I'm William.
-  SYSTEM READY — Booting William...
-```
-
-```
-$ ./shutdown --message "open to co-ops, internships, and problems worth engineering"
-
-  > Flushing buffers.....  hardware + software + space + robotics + web
-  > Final note..........   if you're building something ambitious, let's talk.
-  > Contact.............   ccullwhitten@mun.ca  |  williamcullwhitten.ca
-  > Signing off.........   William Cull-Whitten  ──  MUN  ──  St. John's, NL  🇨🇦
-
-  [  PROCESS TERMINATED CLEANLY  —  exit code 0  ]
-```
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### ⌨️ NexPad
-**Custom Macro Keyboard**
-
-A fully custom macro pad — from PCB layout in KiCad to firmware and key mapping. Built to spec: every layer, every trace, every line of firmware.
-
-`C` `KiCad` `Firmware` `PCB Design` `USB HID`
-
-[![NexPad](https://img.shields.io/badge/View%20Repo-NexPad-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexPad)
-
-</td>
-<td width="50%" valign="top">
-
-### 🖱️ NexClick
-**Custom USB Mouse**
-
-End-to-end USB HID mouse project — hardware design, embedded firmware, and driver integration.
-
-`C` `KiCad` `USB HID` `Embedded Systems` `PCB`
-
-[![NexClick](https://img.shields.io/badge/View%20Repo-NexClick-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexClick)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ⚙️ RISC-V Decoder
-**Instruction Set Parser**
-
-A RISC-V instruction decoder implementing the full RV32I base ISA — bit manipulation, instruction parsing, and disassembly logic from scratch.
-
-`C/C++` `RISC-V` `ISA` `Systems Programming`
-
-[![RISC-V](https://img.shields.io/badge/View%20Repo-RISC--V%20Decoder-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/riscv-decoder)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎮 Tetriduino
-**Arduino Game System**
-
-Tetris running on bare-metal Arduino — custom display driver, game logic, input handling, and timing all hand-rolled without game engine abstractions.
-
-`C++` `Arduino` `Embedded` `Game Logic` `Hardware`
-
-[![Tetriduino](https://img.shields.io/badge/View%20Repo-Tetriduino-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/Tetriduino)
-
-</td>
-</tr>
-</table>
-
----
-
-<p align="center">
-  <i>Open to co-op, internships, and interesting engineering problems.</i><br>
-  <i>If you're building something ambitious — let's talk.</i>
-</p>
-
-
-
-
-
-
-
-
-
-## 2
-
----
-
-## 🛰️ Active Missions
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-```
-MISSION  ·  CUBESAT ADCS
-━━━━━━━━━━━━━━━━━━━━━━━━━
-Target    MUNStar-1
-Role      ADCS Engineer
-Status    ● IN PROGRESS
-Launch    2026 / 2027
-━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Designing and coding the satellite's orientation and stability control system in UML. Responsible for ADCS logic, architecture integration, and mission-critical reliability.
-
-`Embedded` `UML` `Aerospace` `ADCS`
-
-[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK)
-
-</td>
-<td width="33%" valign="top">
-
-```
-MISSION  ·  COMPETITION TEAM
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-Target    GNCTR National
-Role      Team Captain
-Size      25+ Engineers
-Status    ● IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Leading mechanical, electrical, civil and software sub-teams. Designed full Steer-by-Wire system — circuit, PCB layout, C++ firmware, and 3D-printed housings.
-
-`C++` `PCB` `CAD` `Firmware` `Leadership`
-
-[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
-
-</td>
-<td width="33%" valign="top">
-
-```
-MISSION  ·  APPLIED AI
-━━━━━━━━━━━━━━━━━━━━━━━
-Target    Real Problems
-Role      Member
-Org       Genralis
-Status    ● IN PROGRESS
-━━━━━━━━━━━━━━━━━━━━━━━
-```
-
-Student-led AI team — computer vision pipelines, applied model training, and deploying ML solutions to real-world engineering problems.
-
-`CV` `PyTorch` `ML` `YOLO` `Research`
-
-[![](https://img.shields.io/badge/Team_Info-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK)
-
-</td>
-</tr>
-</table>
-
-
-
-
-
-
-
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,50:1A0535,100:2D0A6B&height=210&section=header&text=William%20Cull-Whitten&fontSize=48&fontColor=C084FC&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL%20%F0%9F%87%A8%F0%9F%87%A6&descAlignY=63&descSize=14&descFontColor=7C3AED" width="100%"/>
 
@@ -184,6 +12,21 @@ Student-led AI team — computer vision pipelines, applied model training, and d
   &nbsp;
   <img src="https://img.shields.io/badge/open_to-co--ops_%26_internships-A855F7?style=flat-square&labelColor=0A0010"/>
 </p>
+
+<br>
+
+```
+$ ./init --profile william.cull-whitten
+
+  Loading engineering stack...............  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
+  Mounting hardware interfaces............  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
+  Parsing international ops logs..........  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
+  Initializing leadership modules.........  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
+  Calibrating satellite ADCS systems......  [▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓] 100% ✓
+
+  >> SYSTEM READY  —  Hi, I'm William.
+  SYSTEM READY — Booting William...
+```
 
 <br>
 
@@ -545,6 +388,18 @@ Side-scrolling platformer built with a JS game engine to master object-oriented 
 
 </details>
 
+
+```
+$ ./shutdown --message "open to co-ops, internships, and problems worth engineering"
+
+  > Flushing buffers.....  hardware + software + space + robotics + web
+  > Final note..........   if you're building something ambitious, let's talk.
+  > Contact.............   ccullwhitten@mun.ca  |  williamcullwhitten.ca
+  > Signing off.........   William Cull-Whitten  ──  MUN  ──  St. John's, NL  🇨🇦
+
+  [  PROCESS TERMINATED CLEANLY  —  exit code 0  ]
+```
+
 <p align="center">
   <a href="https://www.linkedin.com/in/william-cull-whitten/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -568,47 +423,152 @@ Side-scrolling platformer built with a JS game engine to master object-oriented 
 
 
 
-<!--
 
-## EXPERIENCE
 
-<br>
 
-**🇩🇪 &nbsp; AI & Robotics Integration Co-op** &nbsp;·&nbsp; Furtwangen University &nbsp;·&nbsp; `2025`
+## 🚀 Featured Projects
 
-> Built a real-time YOLOv8 surgical tool detection system integrated with a UR robot via RTDE. Wrote coordinate transformation pipelines mapping camera-space detections to robot motion commands. Designed a custom PCB for tool I/O. All of it deployed and running before the term ended. Explored Europe on weekends.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![YOLOv8](https://img.shields.io/badge/YOLOv8-C084FC?style=flat-square&labelColor=0A0010) ![RTDE](https://img.shields.io/badge/RTDE-9333EA?style=flat-square&labelColor=0A0010) ![OpenCV](https://img.shields.io/badge/OpenCV-9333EA?style=flat-square&labelColor=0A0010) ![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square&labelColor=0A0010) ![PCB Design](https://img.shields.io/badge/PCB_Design-6D28D9?style=flat-square&labelColor=0A0010) ![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&labelColor=0A0010)
+### ⌨️ NexPad
+**Custom Macro Keyboard**
 
-<br>
+A fully custom macro pad — from PCB layout in KiCad to firmware and key mapping. Built to spec: every layer, every trace, every line of firmware.
 
-**🇨🇦 &nbsp; Web Developer & Designer** &nbsp;·&nbsp; Community Centre Alliance &nbsp;·&nbsp; `2024 – present`
+`C` `KiCad` `Firmware` `PCB Design` `USB HID`
 
-> Rebuilt their web presence from scratch. Cut dev costs 75%, reduced downtime 65%, lifted engagement 35%. Still part-time after the co-op ended — they kept me around.
+[![NexPad](https://img.shields.io/badge/View%20Repo-NexPad-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexPad)
 
-![React](https://img.shields.io/badge/React-C084FC?style=flat-square&labelColor=0A0010) ![WordPress](https://img.shields.io/badge/WordPress-9333EA?style=flat-square&labelColor=0A0010) ![Figma](https://img.shields.io/badge/Figma-7C3AED?style=flat-square&labelColor=0A0010) ![CSS](https://img.shields.io/badge/CSS-6D28D9?style=flat-square&labelColor=0A0010)
+</td>
+<td width="50%" valign="top">
 
-<br>
+### 🖱️ NexClick
+**Custom USB Mouse**
 
-**🇨🇦 &nbsp; Junior Software Developer** &nbsp;·&nbsp; Engage Creative Technologies &nbsp;·&nbsp; `2024`
+End-to-end USB HID mouse project — hardware design, embedded firmware, and driver integration.
 
-> Worked inside a professional product team — production codebases, code review, agile cycles. Learned how software actually ships.
+`C` `KiCad` `USB HID` `Embedded Systems` `PCB`
 
-![Software Dev](https://img.shields.io/badge/Software_Dev-C084FC?style=flat-square&labelColor=0A0010) ![Agile](https://img.shields.io/badge/Agile-9333EA?style=flat-square&labelColor=0A0010) ![Git](https://img.shields.io/badge/Git-7C3AED?style=flat-square&labelColor=0A0010)
+[![NexClick](https://img.shields.io/badge/View%20Repo-NexClick-00D4FF?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/NexClick)
 
-<br>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-**🇨🇦 &nbsp; STEM Mentor** &nbsp;·&nbsp; BGC St. John's &nbsp;·&nbsp; `2024`
+### ⚙️ RISC-V Decoder
+**Instruction Set Parser**
 
-> Led weekly sessions with 20+ youth — Scratch, hands-on experiments, competition prep. Made hard things approachable.
+A RISC-V instruction decoder implementing the full RV32I base ISA — bit manipulation, instruction parsing, and disassembly logic from scratch.
 
-![STEM](https://img.shields.io/badge/STEM_Education-C084FC?style=flat-square&labelColor=0A0010) ![Mentorship](https://img.shields.io/badge/Mentorship-9333EA?style=flat-square&labelColor=0A0010)
+`C/C++` `RISC-V` `ISA` `Systems Programming`
 
-<br>
-<p align="center">━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</p>
-<br>
+[![RISC-V](https://img.shields.io/badge/View%20Repo-RISC--V%20Decoder-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/riscv-decoder)
 
--->
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Tetriduino
+**Arduino Game System**
+
+Tetris running on bare-metal Arduino — custom display driver, game logic, input handling, and timing all hand-rolled without game engine abstractions.
+
+`C++` `Arduino` `Embedded` `Game Logic` `Hardware`
+
+[![Tetriduino](https://img.shields.io/badge/View%20Repo-Tetriduino-00B4D8?style=flat-square&logo=github&labelColor=050D21)](https://github.com/YOURUSERNAME/Tetriduino)
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <i>Open to co-op, internships, and interesting engineering problems.</i><br>
+  <i>If you're building something ambitious — let's talk.</i>
+</p>
+
+
+
+
+
+
+
+
+
+## 2
+
+---
+
+## 🛰️ Active Missions
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+```
+MISSION  ·  CUBESAT ADCS
+━━━━━━━━━━━━━━━━━━━━━━━━━
+Target    MUNStar-1
+Role      ADCS Engineer
+Status    ● IN PROGRESS
+Launch    2026 / 2027
+━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Designing and coding the satellite's orientation and stability control system in UML. Responsible for ADCS logic, architecture integration, and mission-critical reliability.
+
+`Embedded` `UML` `Aerospace` `ADCS`
+
+[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](TEAM-LINK)
+
+</td>
+<td width="33%" valign="top">
+
+```
+MISSION  ·  COMPETITION TEAM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Target    GNCTR National
+Role      Team Captain
+Size      25+ Engineers
+Status    ● IN PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Leading mechanical, electrical, civil and software sub-teams. Designed full Steer-by-Wire system — circuit, PCB layout, C++ firmware, and 3D-printed housings.
+
+`C++` `PCB` `CAD` `Firmware` `Leadership`
+
+[![](https://img.shields.io/badge/Team_Site-C084FC?style=flat-square&labelColor=0A0010)](https://munconcretetoboggan.notion.site)
+
+</td>
+<td width="33%" valign="top">
+
+```
+MISSION  ·  APPLIED AI
+━━━━━━━━━━━━━━━━━━━━━━━
+Target    Real Problems
+Role      Member
+Org       Genralis
+Status    ● IN PROGRESS
+━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+Student-led AI team — computer vision pipelines, applied model training, and deploying ML solutions to real-world engineering problems.
+
+`CV` `PyTorch` `ML` `YOLO` `Research`
+
+[![](https://img.shields.io/badge/Team_Info-C084FC?style=flat-square&labelColor=0A0010)](GENRALIS-LINK)
+
+</td>
+</tr>
+</table>
+
+
+
+
 
 ## ACTIVE
 
