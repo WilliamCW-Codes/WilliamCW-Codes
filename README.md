@@ -643,6 +643,17 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
 
 
 
+
+
+<p align="center">
+  <a href="#system-overview">SYSTEM</a> ·
+  <a href="#experience">EXPERIENCE</a> ·
+  <a href="#active-projects">ACTIVE</a> ·
+  <a href="#selected-projects">PROJECTS</a> ·
+  <a href="#tech-stack">STACK</a> ·
+  <a href="#links">CONTACT</a>
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,50:1A0535,100:2D0A6B&height=210&section=header&text=William%20Cull-Whitten&fontSize=48&fontColor=C084FC&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL%20%F0%9F%87%A8%F0%9F%87%A6&descAlignY=63&descSize=14&descFontColor=7C3AED" width="100%"/>
 
 <p align="center">
@@ -1618,3 +1629,46 @@ RV32I instruction decoder from first principles
 ---
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2D0A6B,55:1A0535,100:0A0010&height=90&section=footer" width="100%"/>
+
+
+
+
+
+
+
+
+
+<pre align="center">
+╔════════════════════════════════════════════════════╗
+║           WILLIAMCW SYSTEM BOOT INTERFACE         ║
+║                v2.6.ENGINEERING.OS                ║
+╠════════════════════════════════════════════════════╣
+║ STATUS: ONLINE                                    ║
+║ MODE: PUBLIC PROFILE                              ║
+║ SECURITY: OPEN ACCESS                             ║
+╚════════════════════════════════════════════════════╝
+</pre>
+
+<p align="center">
+  <b>SELECT MODULE TO INITIALIZE</b>
+</p>
+
+<p align="center">
+  <a href="#system-overview">[ 01 ] SYSTEM_CORE</a> &nbsp;|&nbsp;
+  <a href="#experience">[ 02 ] EXPERIENCE_LOG</a> &nbsp;|&nbsp;
+  <a href="#active-projects">[ 03 ] ACTIVE_MODULES</a>
+</p>
+
+<p align="center">
+  <a href="#selected-projects">[ 04 ] PROJECT_ARCHIVE</a> &nbsp;|&nbsp;
+  <a href="#tech-stack">[ 05 ] STACK_MAP</a> &nbsp;|&nbsp;
+  <a href="#links">[ 06 ] NETWORK_LINKS</a>
+</p>
+
+<p align="center">
+──────────────────────────────────────────────
+</p>
+
+<p align="center">
+  <i>booting systems... awaiting module selection</i>
+</p>
