@@ -1,0 +1,72 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">William Cull-Whitten systems map</title>
+  <desc id="desc">A visual systems map connecting embedded firmware, robotics vision, space systems, and engineering leadership.</desc>
+  <defs>
+    <linearGradient id="panel" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#07111F"/>
+      <stop offset="0.55" stop-color="#0B1220"/>
+      <stop offset="1" stop-color="#130F1D"/>
+    </linearGradient>
+    <linearGradient id="line" x1="140" y1="0" x2="1060" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#38BDF8"/>
+      <stop offset="0.35" stop-color="#34D399"/>
+      <stop offset="0.68" stop-color="#F59E0B"/>
+      <stop offset="1" stop-color="#A78BFA"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#26344C" stroke-width="1" opacity="0.32"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" rx="8" fill="url(#panel)"/>
+  <rect width="1200" height="300" rx="8" fill="url(#grid)"/>
+  <path d="M155 150H1045" stroke="url(#line)" stroke-width="4"/>
+  <path d="M320 150C392 88 486 88 558 150C636 216 732 216 810 150C878 94 958 94 1045 150" stroke="#5EEAD4" stroke-width="1.5" stroke-dasharray="8 10" opacity="0.45"/>
+
+  <g font-family="Inter, Segoe UI, Arial, sans-serif">
+    <g transform="translate(72 62)">
+      <rect width="230" height="176" rx="8" fill="#0B1728" stroke="#26506B"/>
+      <circle cx="42" cy="46" r="19" fill="#082F49" stroke="#38BDF8" stroke-width="2"/>
+      <path d="M32 46H52M42 36V56" stroke="#7DD3FC" stroke-width="3"/>
+      <text x="78" y="43" fill="#E0F2FE" font-size="21" font-weight="800">Embedded</text>
+      <text x="78" y="68" fill="#94A3B8" font-size="13">PCB to firmware</text>
+      <text x="24" y="112" fill="#BAE6FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">C/C++ | KiCad | USB HID</text>
+      <text x="24" y="142" fill="#CBD5E1" font-size="14">Custom macro keyboard, USB mouse,</text>
+      <text x="24" y="164" fill="#CBD5E1" font-size="14">FPGA and low-level systems work.</text>
+    </g>
+
+    <g transform="translate(350 62)">
+      <rect width="230" height="176" rx="8" fill="#071B14" stroke="#2B694F"/>
+      <circle cx="42" cy="46" r="19" fill="#052E1B" stroke="#34D399" stroke-width="2"/>
+      <path d="M31 46C36 38 48 38 53 46C48 54 36 54 31 46Z" stroke="#86EFAC" stroke-width="3"/>
+      <circle cx="42" cy="46" r="4" fill="#86EFAC"/>
+      <text x="78" y="43" fill="#DCFCE7" font-size="21" font-weight="800">Vision</text>
+      <text x="78" y="68" fill="#94A3B8" font-size="13">Real-time robotics</text>
+      <text x="24" y="112" fill="#BBF7D0" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">YOLOv8 | OpenCV | RTDE</text>
+      <text x="24" y="142" fill="#CBD5E1" font-size="14">Live surgical tool detection mapped</text>
+      <text x="24" y="164" fill="#CBD5E1" font-size="14">into robot-space motion commands.</text>
+    </g>
+
+    <g transform="translate(628 62)">
+      <rect width="230" height="176" rx="8" fill="#1B1308" stroke="#755218"/>
+      <circle cx="42" cy="46" r="19" fill="#3B2605" stroke="#F59E0B" stroke-width="2"/>
+      <path d="M42 28V64M26 46H58M31 35L53 57M53 35L31 57" stroke="#FDE68A" stroke-width="2.4"/>
+      <text x="78" y="43" fill="#FEF3C7" font-size="21" font-weight="800">Space</text>
+      <text x="78" y="68" fill="#94A3B8" font-size="13">MUNStar-1 ADCS</text>
+      <text x="24" y="112" fill="#FDE68A" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">UML | Control | Reliability</text>
+      <text x="24" y="142" fill="#CBD5E1" font-size="14">Orientation and stability logic for</text>
+      <text x="24" y="164" fill="#CBD5E1" font-size="14">a real CubeSat launch target.</text>
+    </g>
+
+    <g transform="translate(906 62)">
+      <rect width="230" height="176" rx="8" fill="#171329" stroke="#564B83"/>
+      <circle cx="42" cy="46" r="19" fill="#241B4B" stroke="#A78BFA" stroke-width="2"/>
+      <path d="M30 51L40 41L50 51L58 33" stroke="#DDD6FE" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="78" y="43" fill="#F5F3FF" font-size="21" font-weight="800">Leadership</text>
+      <text x="78" y="68" fill="#94A3B8" font-size="13">25+ person team</text>
+      <text x="24" y="112" fill="#DDD6FE" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">GNCTR | Firmware | CAD</text>
+      <text x="24" y="142" fill="#CBD5E1" font-size="14">Captain across mechanical, civil,</text>
+      <text x="24" y="164" fill="#CBD5E1" font-size="14">electrical, and software teams.</text>
+    </g>
+  </g>
+</svg>

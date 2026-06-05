@@ -1,3 +1,282 @@
+<p align="center">
+  <img src="./assets/profile-hero.svg" alt="William Cull-Whitten - embedded systems, robotics, space software, and computer vision" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-williamcullwhitten.ca-38BDF8?style=for-the-badge&labelColor=07111F&logo=google-chrome&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/william-cull-whitten/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=07111F&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:ccullwhitten@mun.ca"><img alt="Email" src="https://img.shields.io/badge/Email-ccullwhitten@mun.ca-F59E0B?style=for-the-badge&labelColor=07111F&logo=gmail&logoColor=white"></a>
+  <a href="https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download-A78BFA?style=for-the-badge&labelColor=07111F&logo=readme&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=15&duration=2600&pause=850&color=38BDF8&center=true&vCenter=true&width=900&lines=Embedded+firmware+%7C+FPGA+%7C+PCB+design+%7C+Robotics+%7C+Computer+vision;CubeSat+ADCS+engineer+%40+MUNStar-1+%7C+St.+John%27s+to+Stuttgart+to+orbit;I+build+systems+where+software+has+to+touch+the+real+world." alt="Embedded firmware, FPGA, PCB design, robotics, and computer vision" />
+</p>
+
+---
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+## `$ mission-brief`
+
+**BEng Computer Engineering (Co-op), Memorial University of Newfoundland**  
+Sept 2022 - May 2028
+
+I build hardware-aware software: firmware that has to hit real pins, vision systems that have to move robots, and control logic that has to behave when the system leaves the bench.
+
+**Currently focused on**
+
+- MUNStar-1 ADCS software for a real CubeSat launch target
+- Real-time YOLOv8 and RTDE robotics pipelines from my Germany co-op
+- NexPad, a custom macro keyboard from PCB layout to firmware
+- GNCTR systems leadership as captain of a 25+ person engineering team
+
+</td>
+<td width="38%" valign="top">
+
+## `$ status`
+
+```text
+LOCATION     St. John's, NL
+FOCUS        Embedded + robotics
+MODE         Co-op + build mode
+OPEN TO      Co-ops + internships
+SIGNAL       Hardware-aware software
+```
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=WilliamCW-Codes&theme=tokyonight&hide_border=true&background=07111F&ring=38BDF8&fire=F59E0B&currStreakLabel=5EEAD4&sideLabels=A78BFA&dates=94A3B8" alt="William's GitHub streak stats" width="100%" />
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="./assets/systems-strip.svg" alt="Systems map: embedded firmware, computer vision, space software, and leadership" width="100%" />
+</p>
+
+---
+
+## `$ cat experience.log`
+
+<table>
+<tr>
+<td width="23%" align="center" valign="top">
+<img src="https://img.shields.io/badge/2025-Germany-38BDF8?style=for-the-badge&labelColor=07111F" alt="2025 Germany" />
+<br><sub><b>AI & Robotics Co-op</b></sub>
+<br><sub>Furtwangen University</sub>
+</td>
+<td width="77%" valign="top">
+
+**Built a real-time surgical tool detection system** using YOLOv8 on a live camera feed, then mapped detections into UR robot-space commands through RTDE. Designed custom PCB I/O for the system and shipped the full vision-to-motion pipeline.
+
+`YOLOv8` `RTDE` `OpenCV` `PyTorch` `Python` `PCB Design`
+
+</td>
+</tr>
+<tr>
+<td width="23%" align="center" valign="top">
+<img src="https://img.shields.io/badge/2025-Software-34D399?style=for-the-badge&labelColor=07111F" alt="2025 Software" />
+<br><sub><b>Jr. Software Developer</b></sub>
+<br><sub>Engage Creative Technologies</sub>
+</td>
+<td width="77%" valign="top">
+
+**Worked inside a production product team** across code reviews, agile delivery, feature development, and maintained codebases.
+
+`Software Development` `Agile` `Code Review` `Git`
+
+</td>
+</tr>
+<tr>
+<td width="23%" align="center" valign="top">
+<img src="https://img.shields.io/badge/2024_now-Web-F59E0B?style=for-the-badge&labelColor=07111F" alt="2024 to now Web" />
+<br><sub><b>Web Developer & Designer</b></sub>
+<br><sub>Community Centre Alliance</sub>
+</td>
+<td width="77%" valign="top">
+
+**Rebuilt the organization's web presence from scratch**, cutting development costs by 75%, reducing downtime by 65%, and improving engagement by 35%.
+
+`React` `WordPress` `Figma` `CSS` `Performance`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ ps aux --active-systems`
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### MUNStar-1 ADCS
+
+```text
+ROLE      ADCS Engineer
+SYSTEM    CubeSat orientation control
+STATUS    In progress
+LAUNCH    Target 2026 / 2027
+```
+
+Designing attitude determination and control software with mission reliability in mind.
+
+`Embedded` `UML` `Aerospace` `ADCS`
+
+</td>
+<td width="33%" valign="top">
+
+### GNCTR Team
+
+```text
+ROLE      Team Captain
+SIZE      25+ engineers
+SYSTEM    Steer-by-wire + competition ops
+STATUS    In progress
+```
+
+Leading cross-discipline engineering work and building electronics from schematic to firmware.
+
+`C++` `PCB` `CAD` `Firmware` `Leadership`
+
+</td>
+<td width="33%" valign="top">
+
+### Applied AI
+
+```text
+ROLE      Member
+DOMAIN    Computer vision + ML systems
+STATUS    In progress
+```
+
+Working on practical computer vision pipelines, model training, and applied AI systems.
+
+`CV` `PyTorch` `ML` `YOLO`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ ls ~/featured-projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### NexPad
+**Custom macro keyboard**
+
+PCB layout, firmware, USB HID behavior, and key mapping for a fully custom macro pad.
+
+`C` `KiCad` `Firmware` `PCB Design` `USB HID`
+
+[![NexPad](https://img.shields.io/badge/View_Repo-NexPad-38BDF8?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/NexPad)
+
+</td>
+<td width="50%" valign="top">
+
+### NexClick
+**Custom USB mouse**
+
+End-to-end USB HID mouse project with hardware design, embedded firmware, and driver integration.
+
+`C` `KiCad` `USB HID` `Embedded Systems` `PCB`
+
+[![NexClick](https://img.shields.io/badge/View_Repo-NexClick-34D399?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/NexClick)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tetriduino
+**Award-winning Arduino game system**
+
+Tetris-style game with Python logic and Arduino controls. Winner of the Outstanding Project of ENGI 1020 Award.
+
+`Python` `C++` `Arduino` `Hardware` `Game Design`
+
+[![Tetriduino](https://img.shields.io/badge/View_Repo-Tetriduino-F59E0B?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/Tetriduino)
+
+</td>
+<td width="50%" valign="top">
+
+### RISC-V Instruction Decoder
+**ISA-level systems programming**
+
+Full RV32I base ISA decoder with bit manipulation, instruction parsing, and disassembly logic built from first principles.
+
+`C/C++` `Assembly` `RISC-V` `Computer Architecture`
+
+[![RISC-V](https://img.shields.io/badge/View_Repo-RISC--V-A78BFA?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/riscv-decoder)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ lshw --summary`
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+**Embedded**
+
+`C` `C++` `Arduino` `Raspberry Pi` `ESP32` `USB HID` `Firmware`
+
+</td>
+<td width="25%" valign="top">
+
+**Hardware**
+
+`KiCad` `PCB Design` `Circuit Design` `FPGA` `VHDL` `Soldering`
+
+</td>
+<td width="25%" valign="top">
+
+**AI / Robotics**
+
+`YOLOv8` `OpenCV` `PyTorch` `RTDE` `NumPy` `Real-time CV`
+
+</td>
+<td width="25%" valign="top">
+
+**Web / Tools**
+
+`React` `TypeScript` `Node` `Flask` `Figma` `Git` `Linux`
+
+</td>
+</tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&hide_border=true&bg_color=07111F&title_color=38BDF8&icon_color=F59E0B&text_color=CBD5E1&count_private=true" alt="William's GitHub stats" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&hide_border=true&bg_color=07111F&title_color=34D399&text_color=CBD5E1" alt="William's top languages" height="160" />
+</p>
+
+```text
+$ ./shutdown --message "open to co-ops, internships, and ambitious engineering problems"
+
+  Focus........ hardware-aware software
+  Stack........ embedded + robotics + space + web
+  Contact...... ccullwhitten@mun.ca | williamcullwhitten.ca
+  Status....... ready for the next system worth building
+```
+
+<!-- Previous README code is preserved below and intentionally hidden. -->
+
 <!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,50:1A0535,100:2D0A6B&height=210&section=header&text=William%20Cull-Whitten&fontSize=48&fontColor=C084FC&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL%20%F0%9F%87%A8%F0%9F%87%A6&descAlignY=63&descSize=14&descFontColor=7C3AED" width="100%"/>
 
 <p align="center">
@@ -429,6 +708,8 @@ $ ./shutdown --message "open to co-ops, internships, and problems worth engineer
 
 
 
+
+<!-- Previous active README code is preserved below and intentionally hidden.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0010,50:1A0535,100:2D0A6B&height=210&section=header&text=William%20Cull-Whitten&fontSize=48&fontColor=C084FC&fontAlignY=42&desc=Computer%20Engineering%20Co-op%20%E2%80%94%20MUN%20%7C%20St.%20John%27s%2C%20NL%20%F0%9F%87%A8%F0%9F%87%A6&descAlignY=63&descSize=14&descFontColor=7C3AED" width="100%"/>
 
