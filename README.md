@@ -3,6 +3,127 @@
 </a>
 
 <p align="center">
+  <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-williamcullwhitten.ca-C084FC?style=for-the-badge&labelColor=0A0010&logo=googlechrome&logoColor=C084FC"></a>
+  <a href="https://www.linkedin.com/in/william-cull-whitten/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&labelColor=0A0010&logo=linkedin&logoColor=A855F7"></a>
+  <a href="mailto:ccullwhitten@mun.ca"><img alt="Email" src="https://img.shields.io/badge/Email-Say_hello-9333EA?style=for-the-badge&labelColor=0A0010&logo=gmail&logoColor=9333EA"></a>
+  <a href="https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download-7C3AED?style=for-the-badge&labelColor=0A0010&logo=readdotcv&logoColor=7C3AED"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=views&color=7C3AED&style=flat-square&labelColor=0A0010" alt="Profile views" />
+  <a href="https://github.com/WilliamCW-Codes?tab=followers"><img src="https://img.shields.io/github/followers/WilliamCW-Codes?label=followers&style=flat-square&color=7C3AED&labelColor=0A0010" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/open_to-co--ops_%26_internships-4ADE80?style=flat-square&labelColor=0A0010" alt="Open to co-ops and internships" />
+</p>
+
+---
+
+## `$ whoami`
+
+**BEng Computer Engineering (Co-op) · Memorial University of Newfoundland** · Sept 2022 – May 2028
+
+I build hardware-aware software: firmware that has to hit real pins, vision systems that have to move robots, and control logic that has to behave once the system leaves the bench.
+
+Right now: **ADCS software for the MUNStar-1 CubeSat**, real-time YOLOv8 + RTDE robotics from my Germany co-op, **NexPad** (a macro keyboard from PCB layout to firmware), and captaining a 25+ person GNCTR engineering team.
+
+**→ Full write-ups, demos, and case studies at [williamcullwhitten.ca](https://williamcullwhitten.ca)**
+
+---
+
+## `$ ls ~/projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Surgical Vision → UR Robot
+YOLOv8 on a live camera feed, mapped from vision-space into UR robot-space motion over RTDE. Operator UI and controller included.
+
+`Python` `YOLOv8` `RTDE` `OpenCV`
+
+[![Repo](https://img.shields.io/badge/Open_repo-C084FC?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Germany-WT-UniversialRobot-UI-and--Controller)
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio Website
+Every project in depth — the decisions, the failures, the schematics, the demos. Built and deployed by me.
+
+`JavaScript` `Web` `Design`
+
+[![Live](https://img.shields.io/badge/Live_site-4ADE80?style=for-the-badge&logo=googlechrome&labelColor=0A0010)](https://williamcullwhitten.ca)
+[![Source](https://img.shields.io/badge/Source-7C3AED?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Portfolio-Website)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Toboggan Headlight Firmware
+Lighting and driver electronics for MUN's GNCTR concrete toboggan — written to survive a race run down a ski hill.
+
+`C++` `Embedded` `PCB`
+
+[![2025](https://img.shields.io/badge/2025_build-A855F7?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/TBOG-Headlights-2025)
+[![2024](https://img.shields.io/badge/2024-4C1D95?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/TBOG-Headlights-2024)
+
+</td>
+<td width="50%" valign="top">
+
+### Tetriduino
+Tetris-style game with Python logic driving Arduino hardware. Winner of the Outstanding Project of ENGI 1020 Award.
+
+`Python` `C++` `Arduino`
+
+[![Repo](https://img.shields.io/badge/Open_repo-9333EA?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Tetridunio)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/WilliamCW-Codes?tab=repositories"><img alt="All repositories" src="https://img.shields.io/badge/Browse_all_repositories_%E2%86%92-C084FC?style=for-the-badge&logo=github&labelColor=0A0010"></a>
+</p>
+
+---
+
+## `$ cat experience.log`
+
+| When | Role | What I shipped |
+|---|---|---|
+| **2025** · 🇩🇪 Germany | **AI & Robotics Co-op** — Furtwangen University | Real-time surgical tool detection with YOLOv8, mapped into UR robot commands over RTDE. Designed custom PCB I/O and shipped the full vision-to-motion pipeline. |
+| **2025** · 🇨🇦 St. John's | **Jr. Software Developer** — Engage Creative Technologies | Production product team: code reviews, agile delivery, feature work on maintained codebases. |
+| **2024–now** · 🇨🇦 St. John's | **Web Developer & Designer** — Community Centre Alliance | Rebuilt the org's web presence from scratch — 75% lower dev cost, 65% less downtime, 35% better engagement. |
+
+**Also:** ADCS Engineer @ MUNStar-1 CubeSat · Team Captain @ [MUN GNCTR](https://munconcretetoboggan.notion.site) · Applied AI member
+
+---
+
+## `$ lshw --summary`
+
+**Embedded** `C` `C++` `Arduino` `ESP32` `Raspberry Pi` `USB HID` `Firmware`  
+**Hardware** `KiCad` `PCB Design` `FPGA` `VHDL` `Circuit Design`  
+**AI / Robotics** `YOLOv8` `OpenCV` `PyTorch` `RTDE` `NumPy`  
+**Web / Tools** `React` `TypeScript` `Node` `Flask` `Figma` `Git` `Linux`
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&hide_border=true&bg_color=0A0010&title_color=C084FC&icon_color=A855F7&text_color=DDD6FE&count_private=true" alt="William's GitHub stats" height="160" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=WilliamCW-Codes&hide_border=true&background=0A0010&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=DDD6FE&dates=7C3AED&stroke=4C1D95&sideNums=DDD6FE&currStreakNum=F3E8FF&excludeDaysLabel=7C3AED" alt="William's GitHub streak" height="160" />
+</p>
+
+<p align="center">
+  <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/See%20the%20full%20work%20%E2%86%92-williamcullwhitten.ca-C084FC?style=for-the-badge&labelColor=0A0010&logo=googlechrome&logoColor=C084FC"></a>
+</p>
+
+
+<!-- Longer previous version of this README, preserved and intentionally hidden.
+
+<a href="https://williamcullwhitten.ca">
+  <img src="./assets/profile-hero.svg" alt="William Cull-Whitten - embedded systems, robotics, space software, and computer vision. Click to visit williamcullwhitten.ca" width="100%" />
+</a>
+
+<p align="center">
   <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%86%92%20Enter%20the%20portfolio-williamcullwhitten.ca-38BDF8?style=for-the-badge&labelColor=07111F&logo=google-chrome&logoColor=white"></a>
 </p>
 
@@ -348,6 +469,9 @@ $ ./shutdown --message "open to co-ops, internships, and ambitious engineering p
 <p align="center">
   <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/See%20the%20full%20work%20%E2%86%92-williamcullwhitten.ca-38BDF8?style=for-the-badge&labelColor=07111F&logo=google-chrome&logoColor=white"></a>
 </p>
+
+
+-->
 
 <!-- Previous README code is preserved below and intentionally hidden. -->
 
