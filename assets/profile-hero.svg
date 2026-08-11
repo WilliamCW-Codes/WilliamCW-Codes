@@ -1,121 +1,169 @@
-<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+<svg width="1200" height="470" viewBox="0 0 1200 470" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
   <title id="title">William Cull-Whitten profile hero</title>
-  <desc id="desc">A mission-control inspired profile banner for embedded systems, robotics, space software, and computer vision.</desc>
+  <desc id="desc">A boot-sequence terminal banner: loading engineering stack, hardware interfaces, international ops logs, leadership modules, and satellite ADCS calibration. System ready.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="360" gradientUnits="userSpaceOnUse">
-      <stop offset="0" stop-color="#05070D"/>
-      <stop offset="0.45" stop-color="#081422"/>
-      <stop offset="1" stop-color="#120817"/>
-    </linearGradient>
-    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#5EEAD4"/>
-      <stop offset="1" stop-color="#38BDF8"/>
-    </linearGradient>
-    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#FDE68A"/>
-      <stop offset="1" stop-color="#F59E0B"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0A0010"/>
+      <stop offset="0.55" stop-color="#160430"/>
+      <stop offset="1" stop-color="#2D0A6B"/>
     </linearGradient>
     <linearGradient id="violet" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#A78BFA"/>
-      <stop offset="1" stop-color="#F472B6"/>
+      <stop offset="0" stop-color="#7C3AED"/>
+      <stop offset="1" stop-color="#C084FC"/>
     </linearGradient>
-    <filter id="softGlow" x="-30%" y="-30%" width="160%" height="160%">
-      <feGaussianBlur stdDeviation="7" result="blur"/>
-      <feColorMatrix in="blur" type="matrix" values="0 0 0 0 0.25 0 0 0 0 0.95 0 0 0 0 1 0 0 0 0.38 0"/>
-      <feBlend in="SourceGraphic" mode="screen"/>
-    </filter>
+    <radialGradient id="orb" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#7C3AED" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+    </radialGradient>
     <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" stroke="#213047" stroke-width="1" opacity="0.45"/>
+      <path d="M40 0H0V40" stroke="#3B1470" stroke-width="1" opacity="0.5"/>
     </pattern>
+    <pattern id="seg" width="14" height="22" patternUnits="userSpaceOnUse">
+      <rect width="10" height="22" fill="#fff"/>
+    </pattern>
+    <mask id="segmask" maskUnits="userSpaceOnUse" x="0" y="0" width="1200" height="470">
+      <rect width="1200" height="470" fill="url(#seg)"/>
+    </mask>
+    <clipPath id="typeClip"><rect id="typeRect" x="0" y="0" width="0" height="30"><animate attributeName="width" values="0;0;360;360;360" keyTimes="0;0.01;0.13;0.96;1" dur="10s" repeatCount="indefinite"/></rect></clipPath>
   </defs>
 
-  <rect width="1200" height="360" rx="0" fill="url(#bg)"/>
-  <rect width="1200" height="360" fill="url(#grid)" opacity="0.65"/>
-  <path d="M0 300C190 250 360 286 545 244C730 202 886 92 1200 122" stroke="#38BDF8" stroke-width="2" opacity="0.28"/>
-  <path d="M0 324C170 284 346 306 520 280C705 252 864 178 1200 216" stroke="#F59E0B" stroke-width="2" opacity="0.24"/>
-  <path d="M820 50C900 95 966 160 1014 258" stroke="#5EEAD4" stroke-width="1.5" stroke-dasharray="8 10" opacity="0.48"/>
+  <rect width="1200" height="470" fill="url(#bg)"/>
+  <rect width="1200" height="470" fill="url(#grid)" opacity="0.55"/>
+  <ellipse cx="1050" cy="60" rx="300" ry="180" fill="url(#orb)"/>
+  <ellipse cx="90" cy="440" rx="260" ry="150" fill="url(#orb)" opacity="0.7"/>
 
-  <g opacity="0.8">
-    <path d="M67 52H256" stroke="#38BDF8" stroke-width="2"/>
-    <circle cx="62" cy="52" r="4" fill="#5EEAD4"/>
-    <circle cx="262" cy="52" r="4" fill="#38BDF8"/>
-    <path d="M966 304H1133" stroke="#A78BFA" stroke-width="2"/>
-    <circle cx="960" cy="304" r="4" fill="#F472B6"/>
-    <circle cx="1139" cy="304" r="4" fill="#A78BFA"/>
+  <!-- header band -->
+  <g transform="translate(60 74)">
+    <text x="0" y="0" fill="#F3E8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">William Cull-Whitten</text>
+    <text x="3" y="34" fill="#C084FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="16" font-weight="700">Computer Engineering Co-op &#183; MUN &#183; St. John's, NL</text>
   </g>
 
-  <g transform="translate(56 42)">
-    <rect x="0" y="0" width="478" height="34" rx="6" fill="#0B1220" stroke="#26344C"/>
-    <circle cx="20" cy="17" r="5" fill="#FB7185"/>
-    <circle cx="38" cy="17" r="5" fill="#FBBF24"/>
-    <circle cx="56" cy="17" r="5" fill="#34D399"/>
-    <text x="82" y="22" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">mission-control://william.cull-whitten</text>
-  </g>
-
-  <g transform="translate(56 112)">
-    <text x="0" y="0" fill="#E5F3FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="58" font-weight="800">William Cull-Whitten</text>
-    <text x="2" y="36" fill="#7DD3FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="17" font-weight="700">Computer Engineering Co-op | MUN | St. John's, NL</text>
-    <text x="2" y="72" fill="#CBD5E1" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22">Embedded systems, robotics, space software, and computer vision.</text>
-  </g>
-
-  <g transform="translate(58 234)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="700">
-    <rect x="0" y="0" width="168" height="34" rx="6" fill="#0D1B2A" stroke="#38BDF8"/>
-    <text x="16" y="22" fill="#BAE6FD">MUNStar-1 ADCS</text>
-    <rect x="184" y="0" width="164" height="34" rx="6" fill="#171426" stroke="#A78BFA"/>
-    <text x="200" y="22" fill="#DDD6FE">YOLOv8 + RTDE</text>
-    <rect x="364" y="0" width="152" height="34" rx="6" fill="#20160A" stroke="#F59E0B"/>
-    <text x="380" y="22" fill="#FDE68A">PCB to firmware</text>
-    <rect x="532" y="0" width="150" height="34" rx="6" fill="#071B14" stroke="#34D399"/>
-    <text x="548" y="22" fill="#BBF7D0">Team captain</text>
-  </g>
-
-  <g transform="translate(58 302)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
-    <text x="0" y="0" fill="#94A3B8" font-size="13">ST. JOHN'S</text>
-    <path d="M95 -4H188" stroke="#475569" stroke-width="2"/>
-    <path d="M188 -4L178 -10M188 -4L178 2" stroke="#475569" stroke-width="2"/>
-    <text x="207" y="0" fill="#94A3B8" font-size="13">STUTTGART</text>
-    <path d="M303 -4H396" stroke="#475569" stroke-width="2"/>
-    <path d="M396 -4L386 -10M396 -4L386 2" stroke="#475569" stroke-width="2"/>
-    <text x="415" y="0" fill="#FDE68A" font-size="13" font-weight="700">ORBIT</text>
-  </g>
-
-  <g transform="translate(724 70)">
-    <rect x="0" y="0" width="402" height="210" rx="8" fill="#09111F" stroke="#26344C"/>
-    <rect x="16" y="18" width="370" height="28" rx="5" fill="#101B2D"/>
-    <text x="30" y="37" fill="#94A3B8" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">/systems/live-build</text>
-    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">
-      <text x="30" y="75" fill="#5EEAD4">adcs.stabilize()</text>
-      <text x="208" y="75" fill="#94A3B8">quaternion OK</text>
-      <text x="30" y="104" fill="#A78BFA">vision.map(robot_frame)</text>
-      <text x="246" y="104" fill="#94A3B8">rtde linked</text>
-      <text x="30" y="133" fill="#F59E0B">pcb.route(signal)</text>
-      <text x="210" y="133" fill="#94A3B8">drc clean</text>
-      <text x="30" y="162" fill="#34D399">firmware.flash()</text>
-      <text x="208" y="162" fill="#94A3B8">hid ready</text>
-    </g>
-    <rect x="30" y="184" width="302" height="8" rx="4" fill="#132036"/>
-    <rect x="30" y="184" width="246" height="8" rx="4" fill="url(#cyan)" filter="url(#softGlow)"/>
-    <text x="344" y="192" fill="#BAE6FD" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11">82%</text>
-  </g>
-
-  <g transform="translate(1042 58) scale(0.82)">
-    <path d="M-124 34C-68 -50 46 -56 112 20" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="7 9" opacity="0.48"/>
-    <g transform="rotate(-18)" filter="url(#softGlow)">
-      <rect x="-42" y="-15" width="84" height="30" rx="6" fill="#E5E7EB" stroke="#94A3B8"/>
-      <rect x="-87" y="-22" width="38" height="44" rx="4" fill="#0EA5E9" stroke="#BAE6FD"/>
-      <rect x="49" y="-22" width="38" height="44" rx="4" fill="#0EA5E9" stroke="#BAE6FD"/>
-      <path d="M-49 0H49" stroke="#64748B" stroke-width="4"/>
-      <circle cx="0" cy="0" r="8" fill="#F59E0B"/>
-      <path d="M-78 -12H-58M-78 0H-58M-78 12H-58M58 -12H78M58 0H78M58 12H78" stroke="#BAE6FD" stroke-width="2" opacity="0.8"/>
+  <!-- orbit rings + satellite -->
+  <g transform="translate(1062 78)" opacity="0.9">
+    <ellipse rx="112" ry="40" fill="none" stroke="#7C3AED" stroke-width="1.5" opacity="0.55" transform="rotate(-18)"/>
+    <ellipse rx="78" ry="27" fill="none" stroke="#C084FC" stroke-width="1.5" opacity="0.4" transform="rotate(-18)"/>
+    <circle r="20" fill="#1A0535" stroke="#A855F7" stroke-width="2"/>
+    <circle r="7" fill="#C084FC">
+      <animate attributeName="opacity" values="0.45;1;0.45" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <g transform="rotate(-18)">
+      <circle cx="112" cy="0" r="5" fill="#F3E8FF">
+        <animateTransform attributeName="transform" type="rotate" values="0;360" dur="12s" repeatCount="indefinite"/>
+      </circle>
     </g>
   </g>
 
-  <g opacity="0.66">
-    <path d="M1017 32H1100V82H1157" stroke="#34D399" stroke-width="2"/>
-    <circle cx="1017" cy="32" r="4" fill="#34D399"/>
-    <circle cx="1157" cy="82" r="4" fill="#34D399"/>
-    <path d="M646 306H724V330H790" stroke="#F59E0B" stroke-width="2"/>
-    <circle cx="646" cy="306" r="4" fill="#F59E0B"/>
-    <circle cx="790" cy="330" r="4" fill="#F59E0B"/>
+  <!-- terminal window -->
+  <g transform="translate(60 132)">
+    <rect x="0" y="0" width="1080" height="318" rx="10" fill="#0B0118" stroke="#4C1D95" stroke-width="1.5"/>
+    <rect x="0" y="0" width="1080" height="38" rx="10" fill="#1A0535"/>
+    <rect x="0" y="28" width="1080" height="10" fill="#1A0535"/>
+    <path d="M0 38H1080" stroke="#4C1D95" stroke-width="1.5"/>
+    <circle cx="24" cy="19" r="5.5" fill="#F87171"/>
+    <circle cx="44" cy="19" r="5.5" fill="#FBBF24"/>
+    <circle cx="64" cy="19" r="5.5" fill="#4ADE80">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.4s" repeatCount="indefinite"/>
+    </circle>
+    <text x="92" y="24" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13">william@cull-whitten: ~/profile</text>
+    <text x="1056" y="24" text-anchor="end" fill="#C084FC" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" font-weight="700">williamcullwhitten.ca</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+
+      <!-- command line, typed -->
+      <g clip-path="url(#typeClip)" transform="translate(34 62)">
+        <text x="0" y="16" fill="#4ADE80" font-weight="700">$</text>
+        <text x="20" y="16" fill="#F3E8FF" font-weight="700">./init --profile william.cull-whitten</text>
+      </g>
+      <g opacity="1">
+        <animate attributeName="opacity" values="1;1;0" keyTimes="0;0.96;1" dur="10s" repeatCount="indefinite"/>
+        <rect x="34" y="62" width="9" height="20" fill="#C084FC">
+          <animate attributeName="opacity" values="1;1;0;0" dur="1.05s" repeatCount="indefinite"/>
+          <animate attributeName="x" values="34;34;392;392;392" keyTimes="0;0.01;0.13;0.96;1" dur="10s" repeatCount="indefinite"/>
+        </rect>
+      </g>
+
+      <!-- boot rows -->
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.14;0.148;0.96;1" dur="10s" repeatCount="indefinite"/>
+        <text x="52" y="118" fill="#DDD6FE">Loading engineering stack</text>
+        <text x="300" y="118" fill="#5B21B6">........................</text>
+        <rect x="560" y="106" width="350" height="22" fill="#2E1065" mask="url(#segmask)"/>
+        <rect x="560" y="106" width="0" height="22" fill="url(#violet)" mask="url(#segmask)">
+          <animate attributeName="width" values="0;0;350;350" keyTimes="0;0.14;0.21;1" dur="10s" repeatCount="indefinite"/>
+        </rect>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.21;0.218;1" dur="10s" repeatCount="indefinite"/>
+          <text x="930" y="122" fill="#C084FC" font-weight="700">100%</text>
+          <path d="M1000 116l6 7 12-14" stroke="#4ADE80" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.23;0.238;0.96;1" dur="10s" repeatCount="indefinite"/>
+        <text x="52" y="152" fill="#DDD6FE">Mounting hardware interfaces</text>
+        <text x="330" y="152" fill="#5B21B6">.....................</text>
+        <rect x="560" y="140" width="350" height="22" fill="#2E1065" mask="url(#segmask)"/>
+        <rect x="560" y="140" width="0" height="22" fill="url(#violet)" mask="url(#segmask)">
+          <animate attributeName="width" values="0;0;350;350" keyTimes="0;0.23;0.30;1" dur="10s" repeatCount="indefinite"/>
+        </rect>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.30;0.308;1" dur="10s" repeatCount="indefinite"/>
+          <text x="930" y="156" fill="#C084FC" font-weight="700">100%</text>
+          <path d="M1000 150l6 7 12-14" stroke="#4ADE80" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.32;0.328;0.96;1" dur="10s" repeatCount="indefinite"/>
+        <text x="52" y="186" fill="#DDD6FE">Parsing international ops logs</text>
+        <text x="348" y="186" fill="#5B21B6">...................</text>
+        <rect x="560" y="174" width="350" height="22" fill="#2E1065" mask="url(#segmask)"/>
+        <rect x="560" y="174" width="0" height="22" fill="url(#violet)" mask="url(#segmask)">
+          <animate attributeName="width" values="0;0;350;350" keyTimes="0;0.32;0.39;1" dur="10s" repeatCount="indefinite"/>
+        </rect>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.39;0.398;1" dur="10s" repeatCount="indefinite"/>
+          <text x="930" y="190" fill="#C084FC" font-weight="700">100%</text>
+          <path d="M1000 184l6 7 12-14" stroke="#4ADE80" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.41;0.418;0.96;1" dur="10s" repeatCount="indefinite"/>
+        <text x="52" y="220" fill="#DDD6FE">Initializing leadership modules</text>
+        <text x="357" y="220" fill="#5B21B6">..................</text>
+        <rect x="560" y="208" width="350" height="22" fill="#2E1065" mask="url(#segmask)"/>
+        <rect x="560" y="208" width="0" height="22" fill="url(#violet)" mask="url(#segmask)">
+          <animate attributeName="width" values="0;0;350;350" keyTimes="0;0.41;0.48;1" dur="10s" repeatCount="indefinite"/>
+        </rect>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.48;0.488;1" dur="10s" repeatCount="indefinite"/>
+          <text x="930" y="224" fill="#C084FC" font-weight="700">100%</text>
+          <path d="M1000 218l6 7 12-14" stroke="#4ADE80" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+      </g>
+
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.50;0.508;0.96;1" dur="10s" repeatCount="indefinite"/>
+        <text x="52" y="254" fill="#DDD6FE">Calibrating satellite ADCS systems</text>
+        <text x="384" y="254" fill="#5B21B6">...............</text>
+        <rect x="560" y="242" width="350" height="22" fill="#2E1065" mask="url(#segmask)"/>
+        <rect x="560" y="242" width="0" height="22" fill="url(#violet)" mask="url(#segmask)">
+          <animate attributeName="width" values="0;0;350;350" keyTimes="0;0.50;0.57;1" dur="10s" repeatCount="indefinite"/>
+        </rect>
+        <g opacity="0">
+          <animate attributeName="opacity" values="0;0;1;1" keyTimes="0;0.57;0.578;1" dur="10s" repeatCount="indefinite"/>
+          <text x="930" y="258" fill="#C084FC" font-weight="700">100%</text>
+          <path d="M1000 252l6 7 12-14" stroke="#4ADE80" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+        </g>
+      </g>
+
+      <!-- system ready -->
+      <g opacity="0">
+        <animate attributeName="opacity" values="0;0;1;1;1;0" keyTimes="0;0.60;0.615;0.7;0.96;1" dur="10s" repeatCount="indefinite"/>
+        <text x="34" y="296" font-size="17" font-weight="700" fill="#4ADE80">&gt;&gt; SYSTEM READY <tspan fill="#5B21B6">&#8212;</tspan> <tspan fill="#F3E8FF">Hi, I'm William.</tspan> <tspan fill="#C084FC">I build things that have to work.</tspan></text>
+      </g>
+
+    </g>
   </g>
 </svg>

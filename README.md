@@ -1,12 +1,21 @@
+<a href="https://williamcullwhitten.ca">
+  <img src="./assets/profile-hero.svg" alt="William Cull-Whitten - embedded systems, robotics, space software, and computer vision. Click to visit williamcullwhitten.ca" width="100%" />
+</a>
+
 <p align="center">
-  <img src="./assets/profile-hero.svg" alt="William Cull-Whitten - embedded systems, robotics, space software, and computer vision" width="100%" />
+  <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/%E2%86%92%20Enter%20the%20portfolio-williamcullwhitten.ca-38BDF8?style=for-the-badge&labelColor=07111F&logo=google-chrome&logoColor=white"></a>
 </p>
 
 <p align="center">
-  <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-williamcullwhitten.ca-38BDF8?style=for-the-badge&labelColor=07111F&logo=google-chrome&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/william-cull-whitten/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&labelColor=07111F&logo=linkedin&logoColor=white"></a>
   <a href="mailto:ccullwhitten@mun.ca"><img alt="Email" src="https://img.shields.io/badge/Email-ccullwhitten@mun.ca-F59E0B?style=for-the-badge&labelColor=07111F&logo=gmail&logoColor=white"></a>
   <a href="https://drive.google.com/uc?export=download&id=1jotTueDeHOBT6SFut46qUV3GU0oZKGZv"><img alt="Resume" src="https://img.shields.io/badge/Resume-Download-A78BFA?style=for-the-badge&labelColor=07111F&logo=readme&logoColor=white"></a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WilliamCW-Codes&label=profile%20views&color=38BDF8&style=flat-square&labelColor=07111F" alt="Profile views" />
+  <a href="https://github.com/WilliamCW-Codes?tab=followers"><img src="https://img.shields.io/github/followers/WilliamCW-Codes?label=followers&style=flat-square&color=A78BFA&labelColor=07111F" alt="Followers" /></a>
+  <img src="https://img.shields.io/badge/open_to-co--ops_%26_internships-34D399?style=flat-square&labelColor=07111F" alt="Open to co-ops and internships" />
 </p>
 
 <p align="center">
@@ -33,6 +42,8 @@ I build hardware-aware software: firmware that has to hit real pins, vision syst
 - NexPad, a custom macro keyboard from PCB layout to firmware
 - GNCTR systems leadership as captain of a 25+ person engineering team
 
+**→ The full write-ups, demos, and case studies live at [williamcullwhitten.ca](https://williamcullwhitten.ca).**
+
 </td>
 <td width="38%" valign="top">
 
@@ -57,6 +68,122 @@ SIGNAL       Hardware-aware software
 <p align="center">
   <img src="./assets/systems-strip.svg" alt="Systems map: embedded firmware, computer vision, space software, and leadership" width="100%" />
 </p>
+
+---
+
+## `$ ls ~/featured-projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Surgical Vision → UR Robot Control
+**Germany co-op, Furtwangen University**
+
+YOLOv8 inference on a live camera feed, mapped from vision-space into UR robot-space motion commands over RTDE. Includes the operator UI and controller layer.
+
+`Python` `YOLOv8` `RTDE` `OpenCV` `Robotics`
+
+[![Repo](https://img.shields.io/badge/Open_repo-Vision_to_Robot-38BDF8?style=for-the-badge&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/Germany-WT-UniversialRobot-UI-and--Controller)
+
+</td>
+<td width="50%" valign="top">
+
+### Portfolio Website
+**The full case-study site**
+
+Every project here, in depth: the decisions, the failures, the schematics, and the demos. Built and deployed by me.
+
+`JavaScript` `Web` `Design` `Deployment`
+
+[![Live site](https://img.shields.io/badge/Visit_live_site-williamcullwhitten.ca-34D399?style=for-the-badge&logo=google-chrome&labelColor=07111F)](https://williamcullwhitten.ca)
+[![Repo](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/Portfolio-Website)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Toboggan Headlight Firmware
+**Competition embedded systems, 2024 + 2025**
+
+Lighting and driver electronics firmware for MUN's GNCTR concrete toboggan, written to survive a race run on a ski hill.
+
+`C++` `Embedded` `PCB` `Automotive`
+
+[![Repo 2025](https://img.shields.io/badge/2025_build-F59E0B?style=for-the-badge&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/TBOG-Headlights-2025)
+[![Repo 2024](https://img.shields.io/badge/2024_build-7C3AED?style=for-the-badge&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/TBOG-Headlights-2024)
+
+</td>
+<td width="50%" valign="top">
+
+### Tetriduino
+**Award-winning Arduino game system**
+
+Tetris-style game with Python game logic driving Arduino hardware controls. Winner of the Outstanding Project of ENGI 1020 Award.
+
+`Python` `C++` `Arduino` `Hardware`
+
+[![Repo](https://img.shields.io/badge/Open_repo-Tetriduino-A78BFA?style=for-the-badge&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/Tetridunio)
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/WilliamCW-Codes?tab=repositories"><img alt="All repositories" src="https://img.shields.io/badge/Browse_all_repositories-%E2%86%92-38BDF8?style=for-the-badge&logo=github&labelColor=07111F"></a>
+  <a href="https://github.com/WilliamCW-Codes/MUN-TBOG-Website"><img alt="MUN TBOG website" src="https://img.shields.io/badge/Also:_MUN_TBOG_team_site-Astro-FF5D01?style=for-the-badge&logo=astro&labelColor=07111F"></a>
+</p>
+
+---
+
+## `$ ps aux --workbench`
+
+Hardware builds in progress. Repos open as they hit first working firmware.
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### NexPad
+
+```text
+TYPE      Custom macro keyboard
+SCOPE     PCB layout to firmware
+STATUS    In progress
+```
+
+`C` `KiCad` `USB HID` `Firmware`
+
+</td>
+<td width="33%" valign="top">
+
+### NexClick
+
+```text
+TYPE      Custom USB mouse
+SCOPE     Hardware, firmware, driver
+STATUS    In progress
+```
+
+`C` `KiCad` `USB HID` `Embedded`
+
+</td>
+<td width="33%" valign="top">
+
+### RISC-V Decoder
+
+```text
+TYPE      RV32I instruction decoder
+SCOPE     Parsing + disassembly
+STATUS    In progress
+```
+
+`C/C++` `Assembly` `Computer Arch`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -144,6 +271,8 @@ Leading cross-discipline engineering work and building electronics from schemati
 
 `C++` `PCB` `CAD` `Firmware` `Leadership`
 
+[![Team site](https://img.shields.io/badge/Team_site-38BDF8?style=flat-square&labelColor=07111F)](https://munconcretetoboggan.notion.site)
+
 </td>
 <td width="33%" valign="top">
 
@@ -158,65 +287,6 @@ STATUS    In progress
 Working on practical computer vision pipelines, model training, and applied AI systems.
 
 `CV` `PyTorch` `ML` `YOLO`
-
-</td>
-</tr>
-</table>
-
----
-
-## `$ ls ~/featured-projects`
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### NexPad
-**Custom macro keyboard**
-
-PCB layout, firmware, USB HID behavior, and key mapping for a fully custom macro pad.
-
-`C` `KiCad` `Firmware` `PCB Design` `USB HID`
-
-[![NexPad](https://img.shields.io/badge/View_Repo-NexPad-38BDF8?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/NexPad)
-
-</td>
-<td width="50%" valign="top">
-
-### NexClick
-**Custom USB mouse**
-
-End-to-end USB HID mouse project with hardware design, embedded firmware, and driver integration.
-
-`C` `KiCad` `USB HID` `Embedded Systems` `PCB`
-
-[![NexClick](https://img.shields.io/badge/View_Repo-NexClick-34D399?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/NexClick)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Tetriduino
-**Award-winning Arduino game system**
-
-Tetris-style game with Python logic and Arduino controls. Winner of the Outstanding Project of ENGI 1020 Award.
-
-`Python` `C++` `Arduino` `Hardware` `Game Design`
-
-[![Tetriduino](https://img.shields.io/badge/View_Repo-Tetriduino-F59E0B?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/Tetriduino)
-
-</td>
-<td width="50%" valign="top">
-
-### RISC-V Instruction Decoder
-**ISA-level systems programming**
-
-Full RV32I base ISA decoder with bit manipulation, instruction parsing, and disassembly logic built from first principles.
-
-`C/C++` `Assembly` `RISC-V` `Computer Architecture`
-
-[![RISC-V](https://img.shields.io/badge/View_Repo-RISC--V-A78BFA?style=flat-square&logo=github&labelColor=07111F)](https://github.com/WilliamCW-Codes/riscv-decoder)
 
 </td>
 </tr>
@@ -274,6 +344,10 @@ $ ./shutdown --message "open to co-ops, internships, and ambitious engineering p
   Contact...... ccullwhitten@mun.ca | williamcullwhitten.ca
   Status....... ready for the next system worth building
 ```
+
+<p align="center">
+  <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/See%20the%20full%20work%20%E2%86%92-williamcullwhitten.ca-38BDF8?style=for-the-badge&labelColor=07111F&logo=google-chrome&logoColor=white"></a>
+</p>
 
 <!-- Previous README code is preserved below and intentionally hidden. -->
 
