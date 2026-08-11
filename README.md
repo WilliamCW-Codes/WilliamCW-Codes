@@ -2,6 +2,9 @@
   <img src="./assets/profile-hero.svg" alt="William Cull-Whitten - embedded systems, robotics, space software, and computer vision. Click to visit williamcullwhitten.ca" width="100%" />
 </a>
 
+<br>
+<br>
+
 <p align="center">
   <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-williamcullwhitten.ca-C084FC?style=for-the-badge&labelColor=0A0010&logo=googlechrome&logoColor=C084FC"></a>
   <a href="https://www.linkedin.com/in/william-cull-whitten/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-A855F7?style=for-the-badge&labelColor=0A0010&logo=linkedin&logoColor=A855F7"></a>
@@ -17,15 +20,50 @@
 
 ---
 
-## `$ whoami`
+<table>
+<tr>
+<td width="60%" valign="top">
 
-**BEng Computer Engineering (Co-op) · Memorial University of Newfoundland** · Sept 2022 – May 2028
+## `$ mission-brief`
+
+**BEng Computer Engineering (Co-op), Memorial University of Newfoundland**  
+Sept 2022 – May 2028 · born and raised in Petty Harbour, NL
 
 I build hardware-aware software: firmware that has to hit real pins, vision systems that have to move robots, and control logic that has to behave once the system leaves the bench.
 
-Right now: **ADCS software for the MUNStar-1 CubeSat**, real-time YOLOv8 + RTDE robotics from my Germany co-op, **NexPad** (a macro keyboard from PCB layout to firmware), and captaining a 25+ person GNCTR engineering team.
+**Currently working on**
 
-**→ Full write-ups, demos, and case studies at [williamcullwhitten.ca](https://williamcullwhitten.ca)**
+- **MUNStar-1 CubeSat** — ADCS logic in PlantUML for orientation and mission stability, scheduled launch 2026/2027
+- **MUN Concrete Toboggan** — captain of a 25+ member team; custom Steer-by-Wire system from architecture to PCB to C++ firmware
+- **NexPad & NexClick** — a 9-key macro keyboard and USB mouse, KiCad layouts through firmware
+- **Genralis** — student-led applied AI, computer vision and model training on real problems
+
+**Scholarships** — Harrison McCain, Transforming Our Horizons Entrance, Dr. S.J. Carew Memorial, PEGNL Bursary, NL Education Foundation, Jubilee Knights of Columbus State
+
+</td>
+<td width="40%" valign="top">
+
+## `$ status`
+
+```text
+LOCATION   St. John's, NL
+FROM       Petty Harbour, NL
+PROGRAM    Computer Engineering
+TERM       Sept 2022 - May 2028
+TEAMS      GNCTR captain
+           MUNStar-1 ADCS
+           Genralis
+FOCUS      Embedded + robotics
+OPEN TO    Co-ops + internships
+```
+
+<p align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=WilliamCW-Codes&hide_border=true&background=0A0010&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=DDD6FE&dates=7C3AED&stroke=4C1D95&sideNums=DDD6FE&currStreakNum=F3E8FF&excludeDaysLabel=7C3AED" alt="William's GitHub streak" width="100%" />
+</p>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -36,9 +74,9 @@ Right now: **ADCS software for the MUNStar-1 CubeSat**, real-time YOLOv8 + RTDE 
 <td width="50%" valign="top">
 
 ### Surgical Vision → UR Robot
-YOLOv8 on a live camera feed, mapped from vision-space into UR robot-space motion over RTDE. Operator UI and controller included.
+Computer-vision-guided robotic system for automated surgical instrument retrieval. Custom YOLOv8 trained on a surgical dataset, real-world coordinate transformation into robot space, motion over RTDE with safe TCP sequencing.
 
-`Python` `YOLOv8` `RTDE` `OpenCV`
+`Python` `YOLOv8` `RTDE` `OpenCV` `PCB`
 
 [![Repo](https://img.shields.io/badge/Open_repo-C084FC?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Germany-WT-UniversialRobot-UI-and--Controller)
 
@@ -46,9 +84,9 @@ YOLOv8 on a live camera feed, mapped from vision-space into UR robot-space motio
 <td width="50%" valign="top">
 
 ### Portfolio Website
-Every project in depth — the decisions, the failures, the schematics, the demos. Built and deployed by me.
+Every project in depth — the decisions, the schematics, the demos. React and Vite, built and deployed by me.
 
-`JavaScript` `Web` `Design`
+`React` `Vite` `JavaScript` `CSS`
 
 [![Live](https://img.shields.io/badge/Live_site-4ADE80?style=for-the-badge&logo=googlechrome&labelColor=0A0010)](https://williamcullwhitten.ca)
 [![Source](https://img.shields.io/badge/Source-7C3AED?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Portfolio-Website)
@@ -59,9 +97,9 @@ Every project in depth — the decisions, the failures, the schematics, the demo
 <td width="50%" valign="top">
 
 ### Toboggan Headlight Firmware
-Lighting and driver electronics for MUN's GNCTR concrete toboggan — written to survive a race run down a ski hill.
+Arduino-controlled LED headlights in C++ with 3D-printed housings, built to survive a race run down a ski hill.
 
-`C++` `Embedded` `PCB`
+`C++` `Arduino` `PCB` `OnShape`
 
 [![2025](https://img.shields.io/badge/2025_build-A855F7?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/TBOG-Headlights-2025)
 [![2024](https://img.shields.io/badge/2024-4C1D95?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/TBOG-Headlights-2024)
@@ -69,12 +107,35 @@ Lighting and driver electronics for MUN's GNCTR concrete toboggan — written to
 </td>
 <td width="50%" valign="top">
 
-### Tetriduino
-Tetris-style game with Python logic driving Arduino hardware. Winner of the Outstanding Project of ENGI 1020 Award.
+### MUN Concrete Toboggan Site
+Team website for competition info and progress updates, built in Astro and TypeScript.
 
-`Python` `C++` `Arduino`
+`Astro` `TypeScript` `CSS`
+
+[![Live](https://img.shields.io/badge/Live_site-4ADE80?style=for-the-badge&logo=googlechrome&labelColor=0A0010)](https://mun-concrete-toboggan-website.vercel.app)
+[![Source](https://img.shields.io/badge/Source-7C3AED?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/MUN-TBOG-Website)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### Tetriduino
+Tetris-style game in Python with Arduino-based controls and hardware integration. Won the Outstanding Project of ENGI 1020 Award.
+
+`Python` `Arduino` `C++`
 
 [![Repo](https://img.shields.io/badge/Open_repo-9333EA?style=for-the-badge&logo=github&labelColor=0A0010)](https://github.com/WilliamCW-Codes/Tetridunio)
+
+</td>
+<td width="50%" valign="top">
+
+### NexPad & NexClick
+A 9-key macro keyboard and a USB mouse designed to work with any operating system. Custom KiCad PCB layouts, firmware and housing in progress.
+
+`C` `KiCad` `USB HID` `CAD`
+
+![In progress](https://img.shields.io/badge/Repo_opens_at_first_firmware-4C1D95?style=for-the-badge&logo=github&labelColor=0A0010)
 
 </td>
 </tr>
@@ -90,32 +151,31 @@ Tetris-style game with Python logic driving Arduino hardware. Winner of the Outs
 
 | When | Role | What I shipped |
 |---|---|---|
-| **2025** · 🇩🇪 Germany | **AI & Robotics Co-op** — Furtwangen University | Real-time surgical tool detection with YOLOv8, mapped into UR robot commands over RTDE. Designed custom PCB I/O and shipped the full vision-to-motion pipeline. |
-| **2025** · 🇨🇦 St. John's | **Jr. Software Developer** — Engage Creative Technologies | Production product team: code reviews, agile delivery, feature work on maintained codebases. |
-| **2024–now** · 🇨🇦 St. John's | **Web Developer & Designer** — Community Centre Alliance | Rebuilt the org's web presence from scratch — 75% lower dev cost, 65% less downtime, 35% better engagement. |
+| **Sept – Dec 2025**<br>🇩🇪 Villingen-Schwenningen | **AI Image Recognition & Robotics Integration Co-op**<br>Furtwangen University | Computer-vision-guided robot for automated surgical instrument retrieval. Trained and deployed a custom YOLOv8 model on a surgical dataset for real-time detection across varying conditions, implemented real-world coordinate transformation for autonomous pickup, and fabricated a gripper and PCB for tool I/O. |
+| **Jan 2025 – present**<br>🇨🇦 St. John's | **Web Developer & Designer**<br>Community Centre Alliance | Launched modern websites across multiple community centres, cutting development costs 75% and improving UI/UX. Rebranded the orgs — logos, business cards, promotional media — cutting design costs 55% and lifting engagement 35%. Runs hosting, DNS and IT support, reducing downtime 65%. |
+| **Jan – Apr 2025**<br>🇨🇦 St. John's | **STEM Mentor Co-op**<br>BGC St. John's | Ran weekly STEM workshops for 20+ youth covering Scratch coding, hands-on experiments and competitions, adapting activities across age groups and skill levels. |
 
-**Also:** ADCS Engineer @ MUNStar-1 CubeSat · Team Captain @ [MUN GNCTR](https://munconcretetoboggan.notion.site) · Applied AI member
+**Engineering teams** — Captain, [MUN Concrete Toboggan](https://munconcretetoboggan.notion.site) (Sept 2023–present) · ADCS, MUNStar-1 CubeSat (Jan 2024–present) · Member, Genralis (May 2025–present)
 
 ---
 
 ## `$ lshw --summary`
 
-**Embedded** `C` `C++` `Arduino` `ESP32` `Raspberry Pi` `USB HID` `Firmware`  
-**Hardware** `KiCad` `PCB Design` `FPGA` `VHDL` `Circuit Design`  
-**AI / Robotics** `YOLOv8` `OpenCV` `PyTorch` `RTDE` `NumPy`  
-**Web / Tools** `React` `TypeScript` `Node` `Flask` `Figma` `Git` `Linux`
+**Languages** `C/C++` `C#` `Python` `Java` `JavaScript` `TypeScript` `Assembly` `MATLAB` `Dafny` `HTML` `CSS` `UML`  
+**Frameworks** `React` `Vite` `Node.js` `Astro` `Flask` `OpenCV` `RTDE` `Ultralytics` `YOLO` `NumPy`  
+**Hardware** `KiCad` `PCB & Circuit Design` `VHDL` `Simulink` `PSpice` `Arduino` `ESP32` `Soldering` `CAD` `3D Printing`  
+**Tools** `Git` `GitHub` `GitLab` `CBMC` `Figma` `Notion` `Canva`
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WilliamCW-Codes&show_icons=true&hide_border=true&bg_color=0A0010&title_color=C084FC&icon_color=A855F7&text_color=DDD6FE&count_private=true" alt="William's GitHub stats" height="160" />
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=WilliamCW-Codes&hide_border=true&background=0A0010&ring=C084FC&fire=A855F7&currStreakLabel=C084FC&sideLabels=DDD6FE&dates=7C3AED&stroke=4C1D95&sideNums=DDD6FE&currStreakNum=F3E8FF&excludeDaysLabel=7C3AED" alt="William's GitHub streak" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamCW-Codes&layout=compact&langs_count=8&hide_border=true&bg_color=0A0010&title_color=C084FC&text_color=DDD6FE" alt="William's top languages" height="160" />
 </p>
 
 <p align="center">
   <a href="https://williamcullwhitten.ca"><img alt="Portfolio" src="https://img.shields.io/badge/See%20the%20full%20work%20%E2%86%92-williamcullwhitten.ca-C084FC?style=for-the-badge&labelColor=0A0010&logo=googlechrome&logoColor=C084FC"></a>
 </p>
-
 
 <!-- Longer previous version of this README, preserved and intentionally hidden.
 
